@@ -1,0 +1,110 @@
+﻿SOURCE: https://doorswiki.com/wiki/world-lotus/
+PAGE: world-lotus
+DOWNLOADED: 2026-10-18 14:20
+
+ World Lotus | DOORS DOORS All pages All pages DOORS / Pages / World Lotus Contents Appearance Behavior The Outdoors The Hotel The Mines Notes Forms Trivia Events The Halloween Spotlight Event Gallery References World Lotus 3D Entities Bosses Curious Light Entities Miscellaneous Miscellaneous Entities Pages with broken file links The Backdoor The Hotel The Mines The Outdoors The Rooms
+Updated October 16, 2026 Not to be confused with Lotus Petal or Lotus .
+World Lotus
+The Outdoors
+The Hotel
+The Mines
+Halloween (2025)
+INFORMATION
+Type
+Hostile ( The Outdoors ) Passive ( The Hotel , The Mines and all floors through the lotus rebirth mechanic, except The Backdoor ) Height: Caule Principal:43,98 m Caule Principal + Vinhas:???
+Behavior
+Controls/takes forms of entities to attack players
+Floors
+Canon Floors Lobby (Previously) The Hotel The Rooms (Rebirth-only) The Archives (Rebirth-only) The Outdoors The Mines Floor 3 (Certain) Visions Trick Or Treat Chaos Mode
+Spawn Rate
+Guaranteed ( The Outdoors , The Hotel , The Mines ) 0% (Only if players entered The Mines through The Outdoors )
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+Creator(s)
+RediblesQW
+"Incredible! I never imagined the World Lotus could be so powerful.
+" - Curious Light
+World Lotus is a hostile entity and the overarching antagonist of The Outdoors subfloor. It is a powerful entity that uses its vines to control innate objects or other entities in order to kill the player(s). It also makes minor appearances in The Hotel and The Mines . This entity does not directly damage the player. However, the entities it controls do damage the player, often killing the player. It is also worth mentioning that when a Player uses a Lotus to revive, that Lotus grows very large. However, this is a separate Lotus Flower and isn't actually the World Lotus entity.
+Appearance
+World Lotus is a titanic lotus flower with large, thorny vines for roots. These vines visibly move around and wiggle in the air, while others, found within various side-rooms around the subfloor, The Courtyard in the Hotel , and the Jeff Shop in the Mines , remain stationary.
+Its main stalk towers over the hedge maze . Lotus petals constantly fall from the sky around the plant as particles, and a cloud of pollen also seemingly surrounds the lotus proper. Since the plant spans the majority of the subfloor, plus throughout other floors, its size is colossal, hence its given name, World Lotus .
+Using its vines, it also has the ability to take forms/control other entities . These include:
+Bramble
+Eyestalk
+Mandrakes
+Snare
+Monuments (attempts)
+Groundskeeper (attempted, failed)
+Behavior
+The Outdoors
+World Lotus is situated in the center of The Hedge Maze . Its vines cover parts of the maze, as well as the exit. Three of its vines lay around the Hedge Maze; each of these vines has a guillotine built around it in a tiled room near the tips of the vines. On one side of each guillotine is a lever; when pulled, the vine will be severed, and the World Lotus will retract the stump into its main body, leaving a hole in the maze and allowing players to progress. When all three vines in The Hedge Maze have been cut, the vines covering the exit will retract, allowing the player to escape. All of this must be done whilst evading Bramble, which is controlled by the World Lotus . It is also responsible for controlling other entities we see throughout the subfloor, such as Eyestalk .
+The Hotel
+World Lotus appears outside the boundary fence in The Courtyard . It appears to be a singular, thorny, long vine that stretches into the forest. This is the only known location for the World Lotus to reside in The Hotel (not counting Snare ).
+The Mines
+World Lotus appears inside Jeff's Shop as a singular, thorny, long vine entering through a pipe, and can be seen in the process of grabbing a nearby lamppost. This is the only known location for the World Lotus to reside in The Mines .
+This can only be experienced if players didn't enter The Mines through The Outdoors . Otherwise, the World Lotus would be absent from the pipe.
+Notes
+In The Hedge Maze, the Compass will point to the maze's exit if you have it; this can help if you are lost after cutting all three vines.
+Snares do not appear within The Hedge Maze, but they can appear on the ledge just past the exit. If the player walks over a Snare on the ledge during the cutscene, it will not do anything.
+The music that plays during The Hedge Maze will become more intense after each vine is cut.
+Other vines, such as vine doors, chests, and natural decor, are not a part of the World Lotus , as they lack thorns.
+Forms
+Snare - Deals 20 non-lethal damage to a player and holds them in place for a few seconds.
+Mandrake - Causes a player to have a heart attack if they donât put it back in the ground.
+Eyestalk - Chases players in The Outdoors . Mostly mimicking seek. Also said in journal.
+Bramble - Roams in the Hedge Maze and attacks anyone who moves while its light is on.
+Trivia
+The World Lotus is given its name by Curious Light through a death message from Bramble.
+Lotus is represented, particularly in Buddhism, as a symbol for purity, rebirth, and strength, as the lotus is known to be birthed in the mud and grime, before rising up above all other things and blooming into a flower, which is symbolic of the Buddha. Because of that, the lotus is shown as the symbol of enlightenment and the flower most Bodhisattvas (or enlightened beings) sit on, hence its mechanics.
+Interestingly, in Ancient Greek mythology, lotuses are shown to be dangerous when consumed, as it causes the consumer to never want to leave the place they occupy, and completely erase their memories, therefore drawing comparisons to the 'Limbo' in which the game seems to exist in.
+The vine of the World Lotus in The Courtyard is known in the game files as 'BigScaryVine'.
+As said by Grampy , the World Lotus attempts to take over the bodies of living creatures to control them.
+This can be seen happening in real time in a rare side-room, in which a Monument can be seen with many vines digging into its flesh and holding it in place, all while the Monument desperately attempts to break free.
+Grampy also says that this is the reason that the Groundskeeper wants us to stay off the grass, as the Groundskeeper wants to prevent the World Lotus from claiming more victims to puppet.
+The World Lotus often 'mimics' entities in main floors . Bramble's behavior is similar to Figure , Eyestalk directly behaves like Seek , and Mandrake most likely mimics the behavior of Screech .
+In Bramble's case, Curious Light mentions that its behavior is like another entity the player has met before, implying that Bramble uses similar mechanics to Figure .
+The World Lotus is heavily implied to be related to Curious Light .
+The World Lotus and the Lotus Petals utilize the same glowing yellow and pink particles seen around the Starlight items, the Rifts , and the skies of the Lobby & A-1000 . These particles & their previously seen locations are all heavily associated with Curious Light .
+According to Ancient Egyptian beliefs, lotus is associated with rebirth and the sun, as it closes at night and reopens in the morning. The sun is a star, which may have a connection with the name "Starlight" in potions, and the star symbol of Curious Light.
+It's interesting that the Lotus is always open while there is eternal night in the game.
+The guillotines in The Hedge Maze have been placed by the Groundskeeper , as mentioned by Curious Light.
+There is also a guillotine in one of the rooms in The Mill, further confirming this.
+According to Grampy , Bugleweed acts as a deterrent to the spreading of the World Lotus , due to the Groundskeeper likely planting them around some of its vines.
+The rebirth rooms that appear after a player rebirths with a lotus flower are confirmed to be canon to the storyline by the developers. [ 1 ]
+The World Lotus is 155.35 Studs Tall. This is equivalent to 43.988 Meters, 44 if rounding up, or 142.7 ft.
+By flying above the World Lotus above the Hedge Maze using the Admin Panel , it can be seen that the World Lotus lacks a bud.
+Planting a lotus in the archives and looking at the terminal will reveal the lotus practicing language.
+Events
+The Halloween Spotlight Event
+World Pumpkin
+The World Pumpkin in The Lobby
+INFORMATION
+Type
+Hostile
+Floors
+2025 Trick or Treat Lobby
+The World Pumpkin is this alternate dimension's equivalent of the World Lotus .
+The center of the World Pumpkin was going to be reached by the players in a final room similar to The Hedge Maze replacing World Lotus, and with Jack-O-Lantern Bramble , but this idea was scrapped before the release, as it felt too ambitious.
+Fortunately, it is mentioned multiple times by Wizard Grampy in-game, as well as its usual vines, and also appears as a miniature version in the Lobby .
+[ 2 ]
+Gallery
+In-Game Miscellaneous In-Game General Revival Rooms General World Lotus in ." loading="lazy" decoding="async"> The World Lotus in The Courtyard . Ditto, but a full image. Ditto, but absent from the pipe. World Lotus vine being trapped by bugleweed." loading="lazy" decoding="async"> A World Lotus vine being trapped by bugleweed. Revival Rooms Lotus rebirth room in The Hotel . Lotus rebirth room in The Rooms . Lotus rebirth room in The Outdoors . Miscellaneous Assets In Lobby Promotional Material Appearances in other games Assets World Lotus idle animation." loading="lazy" decoding="async"> World Lotus idle animation. World Lotus' vines." loading="lazy" decoding="async"> A animated Monument stuck in World Lotus' vines. World Lotus in the in ." loading="lazy" decoding="async"> A render of the World Lotus in the Jeff Shop in The Mines . In Lobby World Lotus in the , shortly before , with the prompt to be notified." loading="lazy" decoding="async"> Open World Lotus in the Lobby , shortly before The Great Outdoors Update , with the prompt to be notified. Ditto, open idle animation. Ditto, closed idle animation. Ditto, open and close animations. Promotional Material World Lotus on the cover of Vol. 5 of the ." loading="lazy" decoding="async"> The World Lotus on the cover of Vol. 5 of the soundtrack . Appearances in other games World Lotus in Tower Heroes." loading="lazy" decoding="async"> The World Lotus in Tower Heroes. Ditto but top view. World Lotus' vines as enemy spawn in Tower Heroes." loading="lazy" decoding="async"> World Lotus' vines as enemy spawn in Tower Heroes. World Lotus ." loading="lazy" decoding="async"> A skin for Dumpster Child called "Lotus Child" where at level 5 he is on top of the World Lotus .
+References
+â citation needed
+â https://x.com/LightningSplash/status/1981529910234550453
+Related pages Lotus Petal Lotus Petal is a minor type item found in The Outdoors that can be found inside or on top of containers, on the ground, and inside locked Crypts. Lotus The Lotus is a placeable item that can be obtained by collecting 8 Lotus Petals in The Outdoors and bringing them to Grampy, who will then take the petals toâ¦ The Outdoors The Outdoors is a subfloor accessible via The Greenhouse in The Hotel or via the Lobby to players who have discovered the subfloor through The Hotel. In Theâ¦ The Hotel The Hotel is the first main floor in DOORS. It can be accessed by using one of the elevators in the Lobby, creating or joining an elevator for The Hotel, orâ¦ The Mines The Mines is the second main floor in DOORS. It can be accessed by creating or joining an elevator in the Lobby, or after escaping The Hotel or The Outdoorsâ¦ Floors Floors are levels within Limbo that players progress the story through, serving as the 'chapters' for the game. These floors may contain different items andâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+

@@ -1,0 +1,787 @@
+﻿SOURCE: https://doorswiki.com/wiki/the-outdoors/
+PAGE: outdoors
+DOWNLOADED: 2026-10-18 14:20
+
+ The Outdoors | DOORS DOORS All pages All pages DOORS / Pages / The Outdoors Contents Overview Entry Exterior Entities Unique Entities Non-exclusive Entities Non-exclusive Hazards Puzzles The Hedge Maze Features Room Mechanics Guaranteed Rooms Large Gates Shears/Toolshed Rooms Crypt Rooms Flooded Rooms Special Locations The Small Courtyard (0 Meters) The Clearing (1,200 Meters) The Mill (2,100 Meters) The Hedge Maze (2,250 Meters) Related Soundtracks Bugs Trivia Related Achievements Gallery References Notes The Outdoors 2D Entities 3D Entities Boss Locations Bosses Candidates for cleanup Curious Light Entities Floors Friendly Entities Game Mechanics Hostile Entities Instakill Entities Mini-Bosses Pages with broken file links Spoilers Stubs Subfloors The Outdoors
+Updated October 17, 2026
+This page contains spoilers . They are hidden by default, but may be expanded.
+" Oh, looks like there wasn't anything behind that door... sorry. " - Starlight The Outdoors needs maintenance to comply with the Manual of Style! Reason: Too many lists (behavior, areas, etc). Remove useless and fake trivia & images. (It needs a global cleanup)
+Not to be confused with The Great Outdoors Update .
+The Outdoors
+Trailer Logo
+Entrance
+INFORMATION
+Rooms
+35 (36, if counting the spawn room)
+Date Added
+August 10, 2025
+SOUND FILES
+Sound Files
+Outdoors Ambience #1 (Leaves) Outdoors Ambience #2 (Thunder) Outdoors Ambience #3 (Wind) Door Opened (Outdoors) Door Opened (Cabins, Crypt) Door Opened (Large Gate) Outside Rain Vined Gate Opened Curious Light Ambience Guillotine Activated
+"I'm more of an indoors person." - "Down The Water Spout" Achievement description
+The Outdoors is a subfloor accessible via The Greenhouse in The Hotel or via the Lobby to players who have discovered the subfloor through The Hotel [ 1 ] . In The Outdoors , players traverse a large garden-themed expanse, with their progress being marked by meters instead of doors. The subfloor was released on August 10th, 2025, on the exact third anniversary of DOORS .
+Overview
+Entry
+The Outdoors is a subfloor for The Hotel . The entrances to the subfloor are located in the first room of the Greenhouse (Door 90) and at the end of the Greenhouse (Door 99). Entering requires vines to be cut by either Shears or a Multitool , and a Skeleton Key to unlock the Skull Lock.
+The Outdoors is not accessible with Modifiers active as a red barrier will block both entrances.
+Exterior
+The Outdoors takes place outside in a dark, forest-like environment during a thunderstorm (similar to The Hotel ). The Outdoors includes many different structures such as graveyards, cabins, and monuments.
+This content has spoilers for the end of The Outdoors
+. After leaving The Hedge Maze, the player walks towards an overlook of a river and gets attacked by Bramble . Before it can kill them, though, the Groundskeeper appears and dropkicks the entity, leading to all three of them falling into the river. Bramble reaches for the player again but gets stopped by the Groundskeeper, who continues to fight it, while the player falls down a sewer pipe leading to Mines Jeff Shop .
+Entities
+Entities are the player 's main hindrance in The Outdoors . Most of them are hostile or, in the Groundskeeper 's case, at least can be. However, a few of them are helpful or, in the case of the Caws , have the potential to be.
+Unique Entities
+Groundskeeper Caw Mandrake Surge Monument Eyestalk Grampy Bramble Groundskeeper
+Groundskeeper
+INFORMATION
+Type
+Neutral (Fatal)
+Behavior
+Tends to the area around it, and attacks players for stepping on the grass.
+Floors
+Canon Floors The Outdoors Visions Trick Or Treat Chaos Mode
+Damage
+35 (Scythe #1, Non-lethal [ note 1 ] ) 60 (Scythe #2, Non-lethal [ note 1 ] ) Instant Death (Stomp)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Moving In Outhouse
+Footsteps Left Footstep Right Footstep Left Footstep (Grass) Right Footstep (Grass)
+Mumblings Mumbling #1 Mumbling #2 Mumbling #3 Mumbling #4 Mumbling #5 Mumbling #6
+Grunts Grunt #1 Grunt #2 Grunt #3 Grunt #4 Grunt #5
+Shoutings Hey #1 Hey #2 Hey #3 Yell #1 Yell #2 Yell #3 (Hedge Maze) Yell #4 (Hedge Maze)
+Jumpscares Jumpscare #1 Jumpscare #2 Jumpscare Ambience Kill
+"What intelligence... it's incredible." - Curious Light
+The Groundskeeper is a recurring entity in The Outdoors . He was teased in the 11th Devlog , then in the reveal teaser for The Outdoors . He was fully revealed in the trailer for The Great Outdoors Update , and released alongside it on August 10 th , 2025.
+Appearance
+The Groundskeeper appears as a humanoid wearing a black straw hat and scarf, brown overalls over a gray t-shirt, a gray belt with a keychain on the back of it, black gloves, and a pair of black boots. His head is dirty and gray. His arms are likely bones and covered in vines. The Groundskeeper has two glowing yellow eyes, with one of them squished and possibly hollow in the center. He carries a hollow metal scythe with a wooden handle.
+Behavior
+Upon opening a door , the Groundskeeper has a chance of spawning either walking around or in an outhouse. In the latter case, his scythe will be leaning against the outhouse. After an unknown period of time, the Groundskeeper leaves the outhouse and begins roaming the area.
+The Groundskeeper usually takes care of the area around him. He cuts weeds if there are any, and plants bugleweeds. Otherwise, he roams the area for an unknown period of time before returning to his outhouse.
+Whenever he notices a player on the grass, the Groundskeeper grunts and begins approaching them. If they stay on the grass, the Groundskeeper will shout "Hey" or yell, and start running towards them. Once he reaches the player on the grass, he damages them with his scythe before killing them. If they step off the grass beforehand, the Groundskeeper will stop and do a hostile gesture at the player before returning to his usual behavior.
+Whenever he spots a player near him, the Groundskeeper turns to face them as he walks until they go away. He can also do a hostile gesture at the player. Whenever he notices a player's corpse, he walks towards the dead body and wraps it in a sack. Whenever he spots an active Mandrake , the Groundskeeper runs towards the plant in an attempt to kill it. The Groundskeeper can point at Monuments for players.
+At the end of Eyestalk 's chase sequence, the Groundskeeper cuts the entity in half before it can attack the player. He carries one half of the entity and looks at the player before walking away.
+Upon entering The Hedge Maze , the Groundskeeper spots the player on the grass and shouts at them. When he tries to approach them, Bramble ambushes him and drags him away. At the end of The Outdoors , the Groundskeeper dropkicks Bramble before it can kill the player, leading to him, Bramble, and the player falling into a nearby river. It proceeds to fight Bramble, but it is unknown who won.
+Notes
+The Groundskeeper can not be angered while he is cutting weeds, planting bugleweeds, doing a hostile gesture, or killing another player.
+The Groundskeeper can not attack players in toolsheds .
+The Groundskeeper can spot players who step on the grass whether they are above or below it.
+After a player steps off the grass, the Groundskeeper can still attack them for a brief moment.
+Jumpscares
+1st and 3rd Person
+The Groundskeeper slashes the player with his scythe, dealing 35 damage, and knocks them to the ground. He looks down at them before crushing their head under his foot.
+Alternatively, the Groundskeeper impales the player with his scythe, dealing 60 damage, and discards them behind him.
+Trivia
+The Groundskeeper may be related to Grampy , as the latter calls him "Sonny."
+The Groundskeeper may also be related to Sally , as Grampy is confirmed to be related to her.
+In the 2025 Trick or Treat Event , Grampy runs a shop called "Grampy, Sonny, n' Sally's."
+The Groundskeeper is male, as Grampy's reactions to a player wearing " The Groundskeeper's Straw Hat " or " The Groundskeeper's Head " refer to The Groundskeeper with He/Him pronouns.
+The Groundskeeper exiting the outhouse is most likely inspired by the scene in Shrek where Shrek exits his outhouse after doing his business.
+Before The Mines Update , RediblesQW uploaded a sketch of what was later revealed to be the Groundskeeper . [ 2 ]
+As shown by NormallyAve , [ 3 ] the Groundskeeper 's original appearance was similar to his current one. However, his body was murky green, he had no legs, and he resembled a ghost.
+Another earlier model of the Groundskeeper had blue eyes.
+The Groundskeeper is similar to Curious Light :
+Both entities emit a yellow glow.
+The outhouses frequented by the Groundskeeper have the Starlight symbol on their doors.
+The third time that a player dies to him, Curious Light remarks that the Groundskeeper is not meant to attack players. [ 4 ]
+As shown in the trailer for The Great Outdoors Update , the Groundskeeper sees the world around him with a yellow tint.
+As of June 8th, 2026, the Groundskeeper is the only entity with intelligible voice lines, as he can shout "Hey" at players.
+This makes the Groundskeeper one of the few entities who can speak a human language, alongside Guiding Light , Curious Light , El Goblino , Jeff , and Glitch .
+jasper_creations , an animator for DOORS , made a GIF of the Groundskeeper referencing a popular Hello Neighbor GIF . [ 5 ]
+According to Curious Light, the Groundskeeper was responsible for creating the guillotines in The Hedge Maze . [ 6 ]
+This is supported by an unfinished guillotine in The Mill .
+Judging by Grampy's dialogue, the Groundskeeper plants bugleweeds to kill the World Lotus ' vines.
+A lot of bugleweeds can be seen at the entrance to The Hedge Maze, perhaps meaning that the Groundskeeper is trying to stop the World Lotus from spreading.
+According to The Journal(Grampy page), Grampy states that the vines of the World Lotus took the Groundskeeper's arms off, before dropping him in the underbrush, which the Groundskeeper landed on one of the Lotuses.
+Grampy also stated that when the Groundskeeper stood back up, he looked different (Most likely his current form we seen him in, which implies that the groundskeeper may not have always looked like this, but instead could have looked similar to Sally or Grampy appearance wise)
+According to Grampy , this is also the reason why Sally ran away from her family
+Considering its frequent use of outhouses and the roasting Monument at The Mill, the Groundskeeper may need sustenance or eats food regardless.
+Groundskeeper will also appear in another ROBLOX game titled Darkest Hours , which is created by CaptainSpinxs .
+Gallery
+In-game Assets & Animations Miscellaneous In-game Groundskeeper in-game." loading="lazy" decoding="async"> The Groundskeeper in-game. Ditto. Groundskeeper walking." loading="lazy" decoding="async"> The Groundskeeper walking. Groundskeeper '"`UNIQ--nowiki-0000000F-QINU`"' jumpscare." loading="lazy" decoding="async"> The Groundskeeper 's jumpscare. Groundskeeper being crucified." loading="lazy" decoding="async"> The Groundskeeper being crucified. Ditto, but at The Small Courtyard . Groundskeeper wrapping a dead in a sack." loading="lazy" decoding="async"> The Groundskeeper wrapping a dead player in a sack. Groundskeeper wraps dead players in." loading="lazy" decoding="async"> The sack that the Groundskeeper wraps dead players in. Ditto, but closer up. Groundskeeper entering an outhouse." loading="lazy" decoding="async"> The Groundskeeper entering an outhouse. Groundskeeper exiting an outhouse." loading="lazy" decoding="async"> The Groundskeeper exiting an outhouse. Groundskeepers being present due to a bug." loading="lazy" decoding="async"> Two Groundskeepers being present due to a bug. Groundskeeper looking at a player." loading="lazy" decoding="async"> The Groundskeeper looking at a player. Ditto. Ditto, but in water. Ditto, but on a bridge. Groundskeeper looking at a player while walking towards an outhouse." loading="lazy" decoding="async"> The Groundskeeper looking at a player while walking towards an outhouse. Groundskeeper getting ambushed by ." loading="lazy" decoding="async"> The Groundskeeper getting ambushed by Bramble . Groundskeeper fighting Bramble." loading="lazy" decoding="async"> The Groundskeeper fighting Bramble. Groundskeeper '"`UNIQ--nowiki-00000010-QINU`"' scythe." loading="lazy" decoding="async"> The Groundskeeper 's scythe. Groundskeeper '"`UNIQ--nowiki-00000011-QINU`"' scythe." loading="lazy" decoding="async"> The text that appears when attempting to interact with the Groundskeeper 's scythe. Groundskeeper impaling a ." loading="lazy" decoding="async"> The Groundskeeper impaling a Mandrake . Groundskeeper looking at a player after killing a Mandrake." loading="lazy" decoding="async"> The Groundskeeper looking at a player after killing a Mandrake. Groundskeeper ." loading="lazy" decoding="async"> Ditto, but with a dead Mandrake behind the Groundskeeper . Ditto. Groundskeeper about to cut weeds with its scythe." loading="lazy" decoding="async"> The Groundskeeper about to cut weeds with its scythe. Groundskeeper looking up at a player while out-of-bounds." loading="lazy" decoding="async"> The Groundskeeper looking up at a player while out-of-bounds. Ditto, but lower. Groundskeeper cutting weeds in water." loading="lazy" decoding="async"> The Groundskeeper cutting weeds in water. Groundskeeper out-of-bounds while looking at a player." loading="lazy" decoding="async"> The Groundskeeper out-of-bounds while looking at a player. Ditto, but further away. Groundskeeper being blocked by a ." loading="lazy" decoding="async"> The Groundskeeper being blocked by a Monument . Groundskeeper's hat." loading="lazy" decoding="async"> The Groundskeeper's hat. Assets & Animations Entering Outhouse. Exiting Outhouse. Idle. Idle 2. Bag body. Cut weeds. North Walk. South Walk. East Walk. West Walk. Sprint Start. Sprint. Sprint End. Safety Run. (Unused) Taunt 1. Taunt 2. 1st kill animation. 2nd kill animation. Mandrake kill animation. Eyestalk Ending. Bramble Intro. Crucify animation. An unused kill animation for the Groundskeeper shared by jaspers.creations on X. Groundskeeper without accessories." loading="lazy" decoding="async"> The Groundskeeper without accessories. Miscellaneous Groundskeeper shared by ." loading="lazy" decoding="async"> Old concept art of the Groundskeeper shared by NormallyAve . Ditto. Ditto, but shared by RediblesQW before The Mines Update . Groundskeeper created by ." loading="lazy" decoding="async"> A GIF of the Groundskeeper created by jasper_creations . Groundskeeper in the 11th ." loading="lazy" decoding="async"> The first teaser of the Groundskeeper in the 11th Devlog . Groundskeeper in the reveal teaser for The Outdoors ." loading="lazy" decoding="async"> A second teaser of the Groundskeeper in the reveal teaser for The Outdoors . Groundskeeper '"`UNIQ--nowiki-00000014-QINU`"' reveal in the trailer for ." loading="lazy" decoding="async"> The Groundskeeper 's reveal in the trailer for The Great Outdoors Update . Groundskeeper '"`UNIQ--nowiki-00000015-QINU`"' perspective as shown in the trailer." loading="lazy" decoding="async"> The Groundskeeper 's perspective as shown in the trailer. Groundskeeper frequents." loading="lazy" decoding="async"> The outhouse that the Groundskeeper frequents. Ditto, but on the inside. Groundskeeper '"`UNIQ--nowiki-00000016-QINU`"' render." loading="lazy" decoding="async"> The Groundskeeper 's Tower Heroes render. Groundskeeper in its icon as a skin for ." loading="lazy" decoding="async"> The Groundskeeper in its icon as a skin for Mako. Groundskeeper '"`UNIQ--nowiki-00000017-QINU`"' appearance in the ." loading="lazy" decoding="async"> The Groundskeeper 's appearance in the 2025 Trick Or Treat Event . Groundskeeper plush." loading="lazy" decoding="async"> The Groundskeeper plush. Ditto, but facing right. Ditto, but facing backwards. Ditto, but at an angle. Ditto, but standing and without its scythe. Caw
+Caw
+INFORMATION
+Type
+Friendly
+Floors
+Canon Floors The Outdoors Visions Trick Or Treat
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Caw Caw Light Flying
+"They seem to have a liking to you now..." - "Feed the Birds" Achievement description
+Caws are entities/animals that appear in The Outdoors . They serve as a warning of approaching entities like Surge or the Groundskeeper.
+Appearance
+Their appearance is similar to Pied Crows with dark gray plumage/feathers and a white underbelly. The have eyes similar to Louie 's. Caws are friendly entities.
+Behavior
+Upon entering a room, Caws have a chance of spawning; in which case, they'll either be resting on the ground or perching on an object such as a lamppost or a tree. When a player gets close to one, it'll make a loud cry before flying up into the sky. Although at first Caws may seem just as an environmental entity with no impact on gameplay, they have two secret functionalities. For one, they will tend to perch near Lotus Petals and Iron Keys , [ 7 ] acting as an indicator for when one is present. Additionally, upon feeding one bread they will boost the spawn rate of Lotus Petals and Iron Keys in addition to providing the "Feed The Birds" achievement
+Trivia
+The Caws are named after the word "caw," which is "the loud, rough cry of a bird such as a crow".
+Grampy refers to the Caws as "Tweeties".
+The Caw is likely based on the hooded crow.
+Their cry however appears to be similar to American crows.
+Players can gain the "Feed the Birds" achievement by dropping or equipping bread near a Caw. [ 8 ]
+Gallery
+In-game Miscellaneous In-game Caws at &lt;a class="mw-selflink-fragment" href="#The_Small_Courtyard"&gt;The Small Courtyard&lt;/a&gt;." loading="lazy" decoding="async"> Caws at The Small Courtyard . Caw inside a cabin." loading="lazy" decoding="async"> A Caw inside a cabin. Caw due to a bug." loading="lazy" decoding="async"> A gravity-defying Caw due to a bug. Caw standing in the air due to &lt;a class="mw-selflink-fragment" href="#Bramble"&gt;Bramble&lt;/a&gt; possessing the lamppost it was perching on." loading="lazy" decoding="async"> A Caw standing in the air due to Bramble possessing the lamppost it was perching on. Miscellaneous Caws shown in the reveal teaser for The Outdoors ." loading="lazy" decoding="async"> Caws shown in the reveal teaser for The Outdoors . Caws shown in the &lt;a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://x.com/DoorsRoblox/status/1936534242042744871?s=20"&gt;26th Devlog&lt;/a&gt;." loading="lazy" decoding="async"> Caws shown in the 26th Devlog . Caw '"`UNIQ--nowiki-0000001E-QINU`"' appearance in ." loading="lazy" decoding="async"> The Caw 's appearance in Tower Heroes. Caw in the Outdoors Entities modifier for Tower Heroes." loading="lazy" decoding="async"> A Caw in the Outdoors Entities modifier for Tower Heroes. Caw ." loading="lazy" decoding="async"> The old version of the Caw . Caw during ." loading="lazy" decoding="async"> The Caw during The Halloween Spotlight Event . Mandrake
+Mandrake
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Uproots itself from the ground, flies at, and wails at players . Kills them if not replanted.
+Floors
+Canon Floors The Outdoors Visions Trick Or Treat
+Damage
+Instant Death (after ~10s)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Loop Pop Pop In
+Screams Scream #1 Scream #2 (Vine Removed) Scream (Source)
+Miscellaneous Vine Rip-off Oxygen Loss
+"Can you shut that thing up already?" - Curious Light
+The Mandrake is a recurring hostile entity in The Outdoors . It was initially revealed in Lightning Splash âs profile picture, teased in the outdoors teaser trailer, teased in the 37th devlog, and then teased in the trailer for The Great Outdoors Update .
+Appearance
+Mandrakes appear as pale beige turnip-shaped creatures. Their mouths are lined with six gray teeth at the top and four at the bottom. Mandrakes have white glowing eyes and three green leaves sprouting from the top of their heads. They're wrapped in pale green thorny vines. Whenever the Groundskeeper kills a Mandrake , its eyes and teeth disappear.
+Behavior
+A Mandrake is initially stationary and poking out of the ground. Once a player gets close to it or enters its line of sight, the Mandrake uproots itself, flies towards, and begins wailing at the player, which forces them to look at it. After about ten seconds in the Mandrake 's presence, the player suffers a âheart attack,â falls unconscious, and dies. [ 9 ] If another player is nearby, the Mandrake will detach itself from its vine, roll towards, and begin wailing at them. Players can pick up an active Mandrake , which detaches it from its vine, and replant it in the hole it uprooted itself from in order to subdue it. If the Groundskeeper âs nearby, he'll run towards the Mandrake and impale it with his scythe to kill it. Players can also run away from an active Mandrake , though it'll detach itself from its vine to follow them. If they get far enough, though, it'll roll back into its hole instead.
+Notes
+Mandrakes can spawn as early as the first door, though it's extremely rare. [ 10 ]
+Mandrakes can spawn in ponds.
+Despite Curious Light stating that they induce heart attacks, Mandrakes actually cause players to lose oxygen similarly to Firedamp and Floods .
+Trivia
+The World Lotus likely controls the Mandrakes as they're all wrapped in its vines.
+Grampy tells players that the vines can control almost any plant in The Outdoors .
+Mandrakes might be based on a myth from the Middle Ages, which states they'd scream upon being uprooted and kill anyone who heard it. [ 11 ]
+Mandrakes might also be based on the versions seen in the Harry Potter franchise .
+Grampy refers to the Mandrakes as âParsnipian[s].â
+Gallery
+In-game Assets & Animations Miscellaneous In-game Mandrake ." loading="lazy" decoding="async"> A screaming Mandrake . Mandrake that has been killed by &lt;a class="mw-selflink-fragment" href="#Groundskeeper"&gt;the Groundskeeper&lt;/a&gt;." loading="lazy" decoding="async"> A Mandrake that has been killed by the Groundskeeper . Ditto. Mandrake getting killed by the Groundskeeper." loading="lazy" decoding="async"> A Mandrake getting killed by the Groundskeeper. Mandrakes attacking a player at the same time." loading="lazy" decoding="async"> Two Mandrakes attacking a player at the same time. Mandrakes ." loading="lazy" decoding="async"> Ditto, but with three Mandrakes . Mandrake '"`UNIQ--nowiki-00000026-QINU`"' full body." loading="lazy" decoding="async"> A Mandrake 's full body. Mandrake under the floor." loading="lazy" decoding="async"> An inactive Mandrake under the floor. Mandrake under the floor." loading="lazy" decoding="async"> An active Mandrake under the floor. Ditto. Ditto, but with its connector vine visible. Mandrake behind a tree." loading="lazy" decoding="async"> A Mandrake behind a tree. Mandrake above ground." loading="lazy" decoding="async"> A Mandrake above ground. Ditto. Ditto, but behind a gate. Mandrake ." loading="lazy" decoding="async"> A close-up of a Mandrake . Mandrake rolling back into the ground after a player runs too far from it." loading="lazy" decoding="async"> A vine-severed Mandrake rolling back into the ground after a player runs too far from it. Ditto, but with the vine still attatched. Mandrake that has been killed by the Groundskeeper." loading="lazy" decoding="async"> An upside-down Mandrake that has been killed by the Groundskeeper. Mandrake being held by a player while appearing with Jack's blood room texture on it, due to Jack being spawned in the room via the Admin Panel." loading="lazy" decoding="async"> A Mandrake being held by a player while appearing with Jack's blood room texture on it, due to Jack being spawned in the room via the Admin Panel. Assets & Animations Mandrakes spawn in." loading="lazy" decoding="async"> The mound that Mandrakes spawn in. Mandrake '"`UNIQ--nowiki-00000028-QINU`"' connector vine." loading="lazy" decoding="async"> A Mandrake 's connector vine. Mandrake '"`UNIQ--nowiki-00000029-QINU`"' idle animation. (ID:&lt;a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://create.roblox.com/store/asset/130478917769258/msnew"&gt;130478917769258&lt;/a&gt;)" loading="lazy" decoding="async"> Mandrake 's idle animation. (ID: 130478917769258 ) Mandrake '"`UNIQ--nowiki-0000002A-QINU`"' hold animation. (ID:&lt;a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://create.roblox.com/store/asset/103340506042100/heldscream"&gt;103340506042100&lt;/a&gt;)" loading="lazy" decoding="async"> Mandrake 's hold animation. (ID: 103340506042100 ) Ditto, but facing forward. Mandrake '"`UNIQ--nowiki-0000002B-QINU`"' plant animation. (ID:&lt;a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://create.roblox.com/store/asset/99089177276401/plant"&gt;99089177276401&lt;/a&gt;)" loading="lazy" decoding="async"> Mandrake 's plant animation. (ID: 99089177276401 ) Mandrake '"`UNIQ--nowiki-0000002C-QINU`"' plant idle animation. (ID:&lt;a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://create.roblox.com/store/asset/134976494883489/planted"&gt;134976494883489&lt;/a&gt;)" loading="lazy" decoding="async"> Mandrake 's plant idle animation. (ID: 134976494883489 ) Mandrake '"`UNIQ--nowiki-0000002D-QINU`"' model." loading="lazy" decoding="async"> An inactive Mandrake 's model. Mandrake '"`UNIQ--nowiki-0000002E-QINU`"' model." loading="lazy" decoding="async"> A dead Mandrake 's model. Ditto, but with its idle animation, which is active during its death. Mandrake separated from the ." loading="lazy" decoding="async"> Mandrake separated from the World Lotus . Miscellaneous Mandrake in the reveal teaser for The Outdoors." loading="lazy" decoding="async"> A Mandrake in the reveal teaser for The Outdoors. Mandrake in 's profile picture." loading="lazy" decoding="async"> A Mandrake in Lightning Splash 's profile picture. Mandrake screaming at the Groundskeeper in the trailer for ." loading="lazy" decoding="async"> A Mandrake screaming at the Groundskeeper in the trailer for The Great Outdoors Update . Mandrake '"`UNIQ--nowiki-00000030-QINU`"' render." loading="lazy" decoding="async"> Mandrake 's Tower Heroes render. Mandrake '"`UNIQ--nowiki-00000031-QINU`"' appearance in Tower Heroes." loading="lazy" decoding="async"> Mandrake 's appearance in Tower Heroes. Mandrake in the âOutdoors Entitiesâ for Tower Heroes." loading="lazy" decoding="async"> Mandrake in the âOutdoors Entitiesâ modifier for Tower Heroes. Mandrake during ." loading="lazy" decoding="async"> A Mandrake during The Halloween Spotlight Event . Mandrake also referred as "Screamseed" or "Grass Screech"." loading="lazy" decoding="async"> A concept art of Mandrake also referred as "Screamseed" or "Grass Screech". Ditto. Ditto. Ditto. Surge
+Surge
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Causes one or two lightning strikes, and descends from the sky to attack uncovered players .
+Floors
+Canon Floors The Outdoors Visions Trick Or Treat
+Damage
+40 per tick
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Arrival Sounds Anticipation Thunder (#1) Anticipation Thunder (#2) Anticipation Thunder (#3) Arrival
+Idle Sounds Idle Close [ note 2 ] Idle Far [ note 2 ] Idle (Source)
+Jumpscares Jumpscare
+Miscellaneous Spark Fakeout
+"Keep your chin up. It helps to keep a look out." - Curious Light
+Surge is a recurring hostile entity in The Outdoors . It was teased in the 37th Devlog and then in the trailer for The Great Outdoors Update .
+Appearance
+Surge appears as six yellow and white scribbles resembling a mouth and two eyes. These seem to represent electric shockwaves. In-game, these scribbles are constantly shifting.
+Behavior
+One or two lightning strikes briefly turning the sky lime sometimes occur, warning players of Surge 's upcoming attack. Once it does, a burst of lightning turning the sky yellow begins, and players who are uncovered gain a fuzzy yellow vignette around the edge of their screens. Surge spawns hundreds of studs in the sky.
+Surge constantly moves towards players or erratically circles them if unable to reach them. Uncovered players who are near Surge take 40 damage per tick. After about 10 seconds, Surge loses the ability to damage players and ascends to the sky to despawn. The yellow vignette disappears at this point, and the constant lightning ends.
+Notes
+Surge 's attacks are not directly tied to opening doors . Instead, it spawns on a timer.
+Surge can spawn multiple times in the same area because of this, even if every player is dead.
+Surge spawns more frequently if a door is not opened for too long.
+Surge can not spawn in the following conditions unless one of its lightning strikes has already occured:
+The first door has not been opened.
+The Groundskeeper spawned in the last opened room.
+The last opened room is part of Eyestalk 's chase, including The Clearing and the ending room.
+The Mill has been reached.
+Instead of using raycasting, Surge damages players who are unsheltered and are near it at the same time.
+Each player has 10 spots that are six studs away from them. The game checks these spots for walls and overhead cover. If none are clear, the player is sheltered. If at least one is clear, the player is exposed and thus vulnerable to Surge .
+Strategy
+To avoid taking damage from Surge , players should enter a toolshed or a roofed area such as a cabin, a large cave, or an unlocked crypt. Since Hide is not present in The Outdoors , players do not need to wait for Surge to get close before entering a toolshed.
+Most cabins and toolsheds have grass around their entrances. If the Groundskeeper is present, players should mind its location while trying to hide from Surge .
+Jumpscares
+1st Person
+Surge briefly appears in the center of the player 's screen, flashing it yellow.
+3rd Person
+Surge zaps the player and leaves a corpse with the texture of lava. The corpse twitches and emits sparks.
+Trivia
+Surge may be inspired by ball lightning. One theory suggests that ball lightning is composed of heavy positive and negative ions in the air formed during a regular lightning strike. Under the influence of electrical forces, they coalesce into a ball and can coexist for quite a long time until their water shell is destroyed. Surge emerges from a cluster of lightning bolts and hovers near the player, similar to the movement of ball lightning.
+Surge may also be inspired by Sorrow from Grace, as they are both sky-related entities with similar mechanics.
+Grampy refers to Surge as a "Zapper."
+Grampy saying "Zappers" implies that there are multiple Surges in existence.
+Gallery
+In-game Assets Miscellaneous In-game Surge '"`UNIQ--nowiki-00000039-QINU`"' warning lightning." loading="lazy" decoding="async"> Surge 's warning lightning. Surge attacking the player." loading="lazy" decoding="async"> Surge attacking the player. Surge trapped inside a cabin." loading="lazy" decoding="async"> Surge trapped inside a cabin. Surge '"`UNIQ--nowiki-0000003A-QINU`"' jumpscare." loading="lazy" decoding="async"> Surge 's jumpscare. Surge ." loading="lazy" decoding="async"> A player's corpse after getting electrocuted by Surge . Surge being crucified." loading="lazy" decoding="async"> Surge being crucified. Assets Surge '"`UNIQ--nowiki-0000003C-QINU`"' face particle (#1)." loading="lazy" decoding="async"> Surge 's face particle (#1). Ditto (#2). Ditto (#3). Ditto (#4). Surge '"`UNIQ--nowiki-0000003D-QINU`"' particle, emitted in its face." loading="lazy" decoding="async"> Surge 's particle, emitted in its face. Surge '"`UNIQ--nowiki-0000003E-QINU`"' particle, emitted in its face and at the end of its lightning streak." loading="lazy" decoding="async"> Surge 's particle, emitted in its face and at the end of its lightning streak. Surge '"`UNIQ--nowiki-0000003F-QINU`"' lightning streak image." loading="lazy" decoding="async"> Surge 's lightning streak image. Surge '"`UNIQ--nowiki-00000040-QINU`"' particle, seen on the background of its jumpscare." loading="lazy" decoding="async"> Surge 's particle, seen on the background of its jumpscare. Surge '"`UNIQ--nowiki-00000041-QINU`"' arrival." loading="lazy" decoding="async"> The lightning that announces Surge 's arrival. Ditto, but colored. Surge '"`UNIQ--nowiki-00000042-QINU`"' vignette, visible if not sheltered/hidden (#1)." loading="lazy" decoding="async"> Surge 's vignette, visible if not sheltered/hidden (#1). Ditto (#2). Ditto (#3). Miscellaneous Surge attacking in the trailer for ." loading="lazy" decoding="async"> Surge attacking in the trailer for The Great Outdoors Update . Surge '"`UNIQ--nowiki-00000044-QINU`"' static appearance." loading="lazy" decoding="async"> Surge 's static appearance. Surge '"`UNIQ--nowiki-00000045-QINU`"' appearance in ." loading="lazy" decoding="async"> Surge 's appearance in Tower Heroes. Surge' s scrapped appearance." loading="lazy" decoding="async"> Surge' s scrapped appearance. Monument
+Monument
+Standard Vine-Infested Standard
+Vine-Infested
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Disguises itself as an obelisk, and moves towards players when unobserved.
+Floors
+Canon Floors The Outdoors
+Damage
+35 (Stab, Non-lethal [ note 1 ] ) Instant Death (Eaten)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Breathing
+Footsteps [ note 3 ] Footstep (Front Left Leg) [ note 4 ] Footstep (Back Right Leg) [ note 4 ] Footstep (Back Left Leg) [ note 4 ] Footstep (Front Right Leg) [ note 4 ]
+Jumpscares Jumpscare Kill (Player)
+"Such a perfect balance between organic and inorganic... It fooled even you!" - Curious Light
+The Monument is a recurring hostile entity in The Outdoors . It was teased in the 7th Devlog , where one can be heard killing a player .
+Appearance
+Monuments initially appear as gray concrete obelisks. They are full of red flesh on the inside, and so are their bases.
+Whenever active, Monuments extend their four red fleshy pointy legs from the bottom of their bodies. Each leg has a concrete plate on its outer-facing side.
+Behavior
+A Monument spawns and sits on top of its base. Once unobserved, it dismounts from its base, stands up, and begins walking towards the nearest player . The Monument moves faster the longer that no one's looking at it. Whenever observed again, it quickly retracts its legs and stands still until no one's looking at it. Then, it stands up again and resumes moving.
+Upon reaching a player, the Monument stabs them before dragging them under itself and crushing them to death. This can not be stopped, even if other players are watching the Monument .
+Monuments produce audible breathing that players can hear by standing next to one. While moving, Monuments produce audible footsteps.
+Notes
+Monuments can not attack players in toolsheds , but they can walk up to one.
+Monuments despawn upon triggering Eyestalk âs chase sequence, talking to Grampy, or entering The Hedge Maze .
+Looking at a Monument through a window does not count as observing it.
+Jumpscares
+1st and 3rd Person
+The Monument knocks the player over and stabs them with its front-right leg. It drags them below itself before crushing them to death.
+Trivia
+At The Mill , a dead Monument can be seen roasting on a campfire.
+Monuments may be inspired by weeping angels, who appear as statues and also stop moving while being observed.
+Monuments are actually physically only the meaty inside, and its appearance as a real monument is because it uses hollowed out monuments as a shell. [ 12 ]
+In a rare subroom, a Monument can be seen struggling against the World Lotus trying to control it.
+Monuments may be based on a scrapped entity that was meant to appear in The Mines . This entity would have disguised itself as a small locker.
+Monuments used to be the only entities in The Outdoors that are spawnable via the Admin Panel .
+Grampy refers to the Monuments as "Pillarm[e]n."
+Out of all the entities, Monument is the one that tastes the most like a french fry. [ 13 ]
+Gallery
+In-game Assets & Animations Miscellaneous In-game Monument '"`UNIQ--nowiki-00000052-QINU`"' jumpscare." loading="lazy" decoding="async"> Monument 's jumpscare. Monument killing a player." loading="lazy" decoding="async"> A Monument killing a player. Monument '"`UNIQ--nowiki-00000053-QINU`"' spawn location." loading="lazy" decoding="async"> A Monument 's spawn location. Monument on the path." loading="lazy" decoding="async"> A Monument on the path. Monument '"`UNIQ--nowiki-00000054-QINU`"' walking animation." loading="lazy" decoding="async"> Monument 's walking animation. Monument '"`UNIQ--nowiki-00000055-QINU`"' running animation." loading="lazy" decoding="async"> Monument 's running animation. Ditto, but without shadows. Monument ." loading="lazy" decoding="async"> The World Lotus attempting to take over a Monument . Ditto. Ditto, but animated. Monument depicted in a ." loading="lazy" decoding="async"> A Monument depicted in a painting . Monument being roasted at The Mill." loading="lazy" decoding="async"> A Monument being roasted at The Mill. Ditto, but without the background. Monument being observed through a window." loading="lazy" decoding="async"> An active Monument being observed through a window. Monument in one of the lush rooms within ." loading="lazy" decoding="async"> A static Monument in one of the lush rooms within The Mines . Monument ." loading="lazy" decoding="async"> The uncovered base of a Monument . Monuments chasing a player." loading="lazy" decoding="async"> Two Monuments chasing a player. Ditto, but clipped into each other. Monument spawned via the ." loading="lazy" decoding="async"> A Monument spawned via the Admin Panel . Ditto, but in The Courtyard . Ditto, but the placeholder version (visible by using exploits). Monument stuck out of bounds with a vine-infested Monument ." loading="lazy" decoding="async"> A Monument stuck out of bounds with a vine-infested Monument . Assets & Animations Monument '"`UNIQ--nowiki-00000057-QINU`"' model." loading="lazy" decoding="async"> Monument 's model. Nest Idle Exiting Nest Active Idle Walk animation. Ground Idle Exiting Ground Kill animation. Monument '"`UNIQ--nowiki-00000058-QINU`"' model." loading="lazy" decoding="async"> The vine-infested Monument 's model. Ditto, but without the World Lotus â vines. A side view of the vine-infested Monument. Ditto, but without the World Lotusâ vines. Monument separated from the World Lotus." loading="lazy" decoding="async"> The vine-infested Monument separated from the World Lotus. Monument '"`UNIQ--nowiki-00000059-QINU`"' struggle animation." loading="lazy" decoding="async"> The vine-infested Monument 's struggle animation. Ditto, but at a side view. Monument and the vine-infested Monument ." loading="lazy" decoding="async"> A height comparison between a normal Monument and the vine-infested Monument . Monument ." loading="lazy" decoding="async"> The base of the vine-infested Monument . Monument found at &lt;a class="mw-selflink-fragment" href="#The_Mill"&gt;The Mill&lt;/a&gt;.'"`UNIQ--ref-0000005A-QINU`"'" loading="lazy" decoding="async"> The dead Monument found at The Mill . [ note 5 ] Monument with its "Concrete" part removed." loading="lazy" decoding="async"> A Monument with its "Concrete" part removed. Miscellaneous Monuments ." loading="lazy" decoding="async"> The scrapped entity that possibly inspired Monuments . Monument ." loading="lazy" decoding="async"> A static Monument . Monument '"`UNIQ--nowiki-0000005C-QINU`"' appearance in ." loading="lazy" decoding="async"> Monument 's appearance in Tower Heroes. Eyestalk
+Eyestalk
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Chases players . Upon reaching one, restrains them with vines before smacking them to death.
+Floors
+Canon Floors The Outdoors
+Damage
+25 (Pounce, Non-Lethal [ note 1 ] ) Instant Death (Smack)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Intro
+Footsteps Footsteps (Far) Footsteps (Close) Footsteps (Source)
+Jumpscares Jumpscare (Player) Jumpscare (Eyestalk) Kill (Player) Kill (Eyestalk)
+"How unoriginal. I'm sorry you had to see that." - Curious Light
+Eyestalk is a major hostile entity in The Outdoors . It was teased in the 36th Devlog .
+Appearance
+Eyestalk appears as an aspen tree trunk with its lower half wrapped in pale green thorny vines. These vines form arms and legs, though its lower left-arm is an aspen branch. On the right side of its head, Eyestalk has two more branches with two small orange leaves growing off each one.it should also be noted that eyestalk has vines wrapped around the top of the aspen log body it has.Moreover it seems that eyestalk has eyes drawn onto him.
+Behavior
+Eyestalk 's appearance is foreshadowed by the appearance of aspen trees. Once players reach the end of The Clearing , Eyestalk forms itself and begins chasing them throughout the following areas. Upon reaching a player, Eyestalk restrains them with vines before smacking them twice, killing them. It screams afterwards. Eventually, Eyestalk catches up to the player after they stumble from a jump, but the Groundskeeper cuts it in half before it can smack them. One half of Eyestalk tries to grab the player's leg before the Groundskeeper picks it up and carries it away, while the other can be interacted with. Doing so results in the following message: âIt's just a piece of wood.â
+Strategy
+For the crossings, players should glance both ways for a path forwards before heading straight. Alternatively, they can focus on where a lot of aspen trees can be seen and move towards that direction. Snare can spawn on the tiled floors. In this case, carrying a light source is recommended for spotting and avoiding instances of it. A lantern is guaranteed to spawn near the end of The Clearing .
+Jumpscares
+1st Person
+Vines grow around the player 's leg before Eyestalk jumps at them and smacks them. More vines restrain the player's arms, and they look up at Eyestalk before it smacks them again.
+Trivia
+Eyestalk might be two separate entities as it comprises an aspen tree trunk and the World Lotus â vines, though it's unknown if the tree trunk is alive.
+Eyestalk is so similar to Seek that Curious Light calls it âunoriginal.â [ 14 ]
+The fact that the World Lotus copied Seek implies that it's aware of the latter.
+The scream that Eyestalk emits after killing a player is shared with Seek.
+Eyestalk will also appear in another ROBLOX game titled Darkest Hours , which is created by CaptainSpinxs .
+Grampy refers to Eyestalk as a âTreewalker.â
+According to Grampy, Eyestalk has existed for a long time before players encountered it. [ 15 ]
+Gallery
+Assets & Animations In-game Miscellaneous Assets & Animations Intro animation. Eyestalk '"`UNIQ--nowiki-00000064-QINU`"' running animation." loading="lazy" decoding="async"> Eyestalk 's running animation. Kill animation. Eyestalk '"`UNIQ--nowiki-00000065-QINU`"' model without any animations." loading="lazy" decoding="async"> Eyestalk 's model without any animations. Eyestalk separated from the ." loading="lazy" decoding="async"> Eyestalk separated from the World Lotus . In-game Eyestalk forming itself." loading="lazy" decoding="async"> Eyestalk forming itself. Eyestalk '"`UNIQ--nowiki-00000067-QINU`"' jumpscare." loading="lazy" decoding="async"> Eyestalk 's jumpscare. Eyestalk '"`UNIQ--nowiki-00000068-QINU`"' death." loading="lazy" decoding="async"> Eyestalk 's death. Eyestalk '"`UNIQ--nowiki-00000069-QINU`"' dead half." loading="lazy" decoding="async"> Eyestalk 's dead half. Ditto, but without the background. Eyestalk '"`UNIQ--nowiki-0000006A-QINU`"' corpse." loading="lazy" decoding="async"> The caption after interacting with Eyestalk 's corpse. Eyestalk appears." loading="lazy" decoding="async"> The Clearing where Eyestalk appears. Eyestalk bugged after reviving via the during its chase." loading="lazy" decoding="async"> Eyestalk bugged after reviving via the Admin Panel during its chase. Miscellaneous Eyestalk ." loading="lazy" decoding="async"> A possible inspiration for Eyestalk . Eyestalk '"`UNIQ--nowiki-0000006C-QINU`"' appearance in ." loading="lazy" decoding="async"> Eyestalk 's appearance in Tower Heroes. Eyestalk in the "Outdoors Entities" for Tower Heroes." loading="lazy" decoding="async"> Eyestalk in the "Outdoors Entities" modifier for Tower Heroes. Eyestalk '"`UNIQ--nowiki-0000006D-QINU`"' body." loading="lazy" decoding="async"> A follower in Tower Heroes called Groundskeeper Ellis, where Ellis runs on top of Eyestalk 's body. A concept art of Eyestalk, also referred as "Grass Seek". Grampy
+Grampy
+INFORMATION
+Type
+Friendly
+Behavior
+Resides at The Mill . Speaks to players upon interaction, and creates a Lotus when given eight Lotus Petals .
+Floors
+Canon Floors The Outdoors Visions Trick Or Treat
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Forming Lotus
+"Hmmmmmehhhh..." - Grampy
+Grampy is a friendly and talkative entity that only appears at the Mill.
+Appearance
+Grampy is a humanoid entity with two glowing purple eyes and black skin. Grampy wears a black cowboy hat with a black stripe. It is always seen sucking on Bugleweed.
+Behavior
+Grampy is considered a friendly entity and will not damage players. Grampy sits in a rocking chair and rocks back and forth. They'll talk to players if they interact with them, giving them a certain amount of dialogue options before ending the conversation. If a player gives Grampy eight Lotus Petals , it'll create a Lotus Flower for them to take.
+Dialogue
+Below is a list of the dialogue that Grampy can say.
+Dialogue
+Greetings General Dialogue Lotus UGC Dialogue Goodbyes Greetings
+"Howdy, hoss."
+"Howdy, I'm Grampy."
+"The name's Grampy."
+"Well howdy, stranger."
+General Dialogue
+"Keep yer boots off the grass. Them plants get ideas of bigger things if'n they hear meat trottin'."
+"Me n Sonny been tryin' to deal with this Parsnipian infestation. Them little boogers can grow just 'bout anywhere." (Referencing Mandrakes)
+"Yer not from around here, are ye?"
+"Hmmehh... it's gettin' about time for my nap."
+"Sonny's been huntin' down that Treewalker for a minute. Thanks to ye for luring the booger in." (Referencing Eyestalk)
+"Hmmmmmehhhh..."
+"Y'all best take cover from the Zappers. Would offer ye room in the storm shelter... but I ain't got one." (Referencing Surge)
+"Watch yer step on the crack over yonder, hoss. And don't ask me what it is, cause I ain't got a clue."
+"Y'all keep off the grass, hear? Them vines don't root... they ride. And Sonny don't much care for taxis."
+"Sonny takes care of the weeds, I take care of the flowers. Speakin' of which... ye seen any big ole pink ones lately?"
+"The purple flowers? Hmmehh... them's Bugleweed. Suckers got vine killin' properties."
+"Them weeds keep growin' up in my yard. Sonny handles 'em, though."
+"Say, hoss. Ye ain't been feelin' itchy, have ye? No... leaves... in strange places? Thorns, maybe?"
+"Sonny's prolly out vine cullin' right now, ye just missed him."
+"Y'all don't take it personally if'n Sonny deems ye a target. He just don't want the vines hitchin' a ride, see?"
+"Y'all been pullin' any of them weeds, hoss? Sonny's real good, could teach ye a good bit."
+"Vines are just bout capable of controllin' any plant out ere. Don't hurt the flowers, though... wonder why."
+"Sonny used to cull the vines by cuttin' em with his blade, but the boogers always grew back. Now we're resortin' to poison."
+"Sonny's out and about right now. Best ye get goin' fore he gets back."
+"Sometimes ye gotta take a load off 'n just feed the Tweeties. Does a body good." (Referencing The Caws)
+"One these days, take a seat and I'll tell ye the tale of the yellow shimmer. It's real, I swear it." (Referencing Curious Light )
+"Watch yerself around them Stickers, hoss. Can make ye limp worse'n a snake at a squaredance." (Referencing Snares )
+"Any y'all seen a youngin' runnin' around? Real tiny... wearin' a dress? Anybody?" (Referencing Sally )
+"This here scarf? Hmehh... stitched it fer my little princess. I'm keepin' it warm for er til' she finds er way home." (Referencing Sally )
+"Why'd she have to go and run off... probly lost n' scared somewhere..." (Referencing Sally )
+"Sonnyâs told me all's about ye. Best ye stay on his good side, hear?"
+"Sonny's got some Pillarman slow cookin' on the spit over yonder. Ye wanna stay for dinner?" (Referencing Monument)
+"Y'all got any of them petals? Could show ye a trick or two."
+"Sonny's real serious bout his work. Best leave him be."
+"Only good plant's a dead one, I tell ye. Save for the flowers, course."
+"Not often folks pass through 'ere hoss. Yer the first in quite a spell."
+"Place wasn't so bad... fore them vines went all catawumpus."
+"What about a red gobo-what-now? Hmmehhhâ¦ never heard of him." (Referencing El Goblino )
+Lotus
+Interact With Grampy Whilst Holding 1-7 Lotus Petals
+"I don't think ye know what ye got there. Get a few more n bring 'em back 'ere. 8 oughta do it."
+"If'n ye bring me back 8 of them petals, could get ye a little treat."
+"Lotus don't just bloom for anybody... but ye got a pretty good start right there."
+"Them ain't just flower petals, hoss. Yer holdin' real power."
+Interact With Grampy Whilst Holding 8 Lotus Petals
+"Now lookie here."
+"Y'all stand back and watch."
+"Alright. Hold yer horses."
+Grampy Successfully Creates A Lotus
+"'Ere ye go, hoss."
+"Hmeh. Still got it."
+"Not much, but it's honest work."
+Interact With Grampy Whilst Holding A Lotus
+"Y'all best watch how ye handle that. Worth twice it's weight in gold, I tell ye what."
+"Careful, hoss... what yer holdin' there's mighty valuble."
+"Hmmeh.. I see ye got one of them big ole pink flowers."
+UGC Dialogue
+"Did Sonny give ye that there hat? Hmehh... I'm gonna have to put some sense into that boy." (Wearing Groundskeeper's Straw Hat UGC)
+"Hoss... how'd you come across that there scarf...?" (Wearing Grampy's Scarf UGC)
+"...Princess!? Ah... hmeh... nevermind. Thought ye were someone else." (Wearing Sally's Head UGC)
+"So ye caught that doggone Treewalker, eh? Thanks to ye." (Wearing Eyestalk On Your Back UGC)
+"Like starin' into a mirror... perhaps I been chewin' on this here Bugleweed fer too long." (Wearing Grampy's Head UGC)
+"Sonny, that you? Ye lookin' a little small, boy. Take a load off and grab somethin' to eat." (Wearing The Groundskeeper's Head UGC)
+Goodbyes
+"Whelp, it's gettin' late. Be ye be on yer way."
+"Y'all stay outta trouble, hear?"
+"So long, hoss."
+"Don't be a stranger."
+"Keep yer nose clean."
+Trivia
+Grampy is likely related to the Groundskeeper since it refers to the latter as "Sonny." They also share similar appearances.
+Grampy' s name suggests that it's a male because the word "grampy" typically refers to old men or grandfathers.
+Grampy is related to Sally , as evidenced by the description for the UGC item " DOORS - Grampy's Scarf." and its reaction when a player talks to it while wearing the UGC item "Sally's Head".
+In the trailer for the Great Outdoors Update, the Groundskeeper could be seen painting a warning sign inside the Mill where Grampy resides.
+According to its dialogue, it takes care of the flowers.
+According to its dialogue, the scarf it wears was made for Sally.
+According to its dialogue, they do not know about El Goblino , but know about the Curious Light.
+According to Grampy's dialogue, it visits the Greenhouse with the Groundskeeper, but they didn't go into the Hotel prefering to protect the Outdoors. It also has no interest in it.
+Gallery
+Grampy without accessories." loading="lazy" decoding="async"> Grampy without accessories. Grampy standing." loading="lazy" decoding="async"> Grampy standing. Grampy creating a ." loading="lazy" decoding="async"> Grampy creating a Lotus . Ditto, but static. Grampy on the "Outdoors" map in ." loading="lazy" decoding="async"> Grampy on the "Outdoors" map in Tower Heroes. Grampy during ." loading="lazy" decoding="async"> Grampy during The Halloween Spotlight Event . Bramble
+Bramble
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Patrols The Hedge Maze at a slow pace, regularly oscillating between harmless and dangerous states.
+Floors
+Canon Floors The Outdoors Visions Chaos Mode
+Damage
+3-5 (Thorns) Sets HP to 3 (First jumpscare tick) Instant Death (Second jumpscare tick)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2025
+SOUND FILES
+Sounds Flicker Lantern Transform Movement Lamp Turn Off Lamp Turn On
+Footsteps Footstep #1 Footstep #2 Footstep #3 Footstep #4 Footstep #5 Footstep #6 Footstep #7 Footstep #8
+Jumpscares Jumpscare Kill (Player)
+"Hmm... it seems the vines have formed an entire body out of bramble..." - Curious Light
+Bramble is a major hostile entity in The Outdoors . It serves as the subfloor's final boss, roaming The Hedge Maze in a manner akin to Figure .
+Appearance
+Bramble appears as a tall humanoid made largely from pale green thorny vines, with pieces of a black lamppost inside its left leg, torso, and forearms. On its left shoulder, it has a small pink lotus flower. It has four fingers on its right hand and three toes on its right foot.
+Bramble 's head is a lantern that can horizontally split open to reveal its tongue. The lantern can also turn on and off.
+Behavior
+Initially, Bramble ambushes the Groundskeeper and drags them into the bushes. Then, it roams The Hedge Maze at a slow pace as its lantern head occasionally turns on and off.
+While the lantern is on, Bramble quickly moves towards players who it sees moving. Meanwhile, the player gets attacked by thorns that each deal small bits of damage until they stop moving, hide in a toolshed, or make Bramble lose sight of them. If the player continues to move, Bramble will kill them upon touching them.
+While the lantern is off, Bramble can not attack players.
+Whenever it is far away from any players, Bramble retreats into the ground and discards its current lamppost, leaving it broken. Afterwards, it possesses a new one that is closer to a player.
+Notes
+Bramble can possess broken lampposts again.
+Bramble can not see players over hedges.
+Bramble seems to actually be able to teleport to any light source, not just lanterns. This is shown in Chaos Mode in this footage : [1]
+Jumpscares
+1st Person
+Bramble picks the player up and screams at them. It punches them in the face before dropping their dead body afterwards.
+Trivia
+Bramble 's behavior seemingly resembles Figure 's.
+Additionally, Curious Light suggests that Bramble "has assigned itself mechanics" to act like other entities . [ 16 ]
+Bramble 's behavior also seems like the game "Red Light Green Light."
+Bramble was the monster fighting the Groundskeeper at the end of the trailer for The Great Outdoors Update .
+The vine hanging from a sewer pipe in Jeff Shop in The Mines and holding a lamppost may be a reference to Bramble .
+Whenever players enter The Mines from The Outdoors , the vine will not be present, further suggesting a connection between it and Bramble .
+Bramble vaguely resembles the Candlebearers from Pressure.
+The Bramble Lantern 's existence implies that Bramble was killed by the Groundskeeper after the player escaped The Outdoors .
+However, this may be an assumption by Glitch .
+As shown by NormallyAve , [ 17 ] one of Bramble 's scrapped designs was very different. Its vines were darker and not thorny, it seemingly possessed a spotlight instead of a lantern, and it wore an overcoat, pants, and boots. Bramble also had a hole in the lower half of its torso.
+When killing a player, Bramble would decapitate them by inserting their head into the hole in its torso. Afterwards, their corpse would have a shining daisy in place of their head.
+Another scrapped design for Bramble resembled its final one more, though the top of its head was more pointy.
+Bramble was originally called "Lanternhead". [ 18 ]
+Gallery
+Bramble '"`UNIQ--nowiki-0000007C-QINU`"' kill animation." loading="lazy" decoding="async"> Bramble 's kill animation. Bramble '"`UNIQ--nowiki-0000007D-QINU`"' idle animation." loading="lazy" decoding="async"> Bramble 's idle animation. Bramble separated from the ." loading="lazy" decoding="async"> Bramble separated from the World Lotus . Bramble attacking the ." loading="lazy" decoding="async"> Bramble attacking the Groundskeeper . Ditto. Bramble '"`UNIQ--nowiki-0000007E-QINU`"' jumpscare." loading="lazy" decoding="async"> Bramble 's jumpscare. Bramble '"`UNIQ--nowiki-0000007F-QINU`"' render." loading="lazy" decoding="async"> Bramble 's Tower Heroes render. Bramble '"`UNIQ--nowiki-00000080-QINU`"' icon in Tower Heroes." loading="lazy" decoding="async"> Bramble 's modifier icon in Tower Heroes. Bramble shared by ." loading="lazy" decoding="async"> Old concept art of Bramble shared by NormallyAve . Ditto. Ditto.
+Bramble disappearing into the ground.
+Bramble forming itself using a lamppost.
+Non-exclusive Entities
+World Lotus - The main antagonist of the subfloor.
+Snare - Deals 20 non-lethal damage to a player and holds them in place for a few seconds.
+Starlight - A death messenger to the player after dying in subfloors .
+Glitch - Acts as a failsafe and attacks players that are lagging too far back from the rest of the team when in a multiplayer subfloor elevator.
+Glitch Fragment Entities - Glitched variations of Screech , Rush and Ambush that appear when interacting with a Glitch Fragment .
+Portrait - Appears if a player brings Portrait from The Archives into The Outdoors , or shatters a pocket mirror .
+Non-exclusive Hazards
+Floods - Common hazards that can drain the player's oxygen, causing them to drown.
+Puzzles
+The Hedge Maze
+A map of The Hedge Maze.
+The Hedge Maze appears in the last 250m of The Outdoors . Players must escape through the other side of it while avoiding Bramble . However, the exit is blocked by one of the World Lotus ' roots. To remove it, players must use three guillotines, or "traps" as Starlight calls them, to cut its other roots. Afterwards, players can leave The Hedge Maze and escape The Outdoors .
+Features
+Guillotines Gates Guillotines
+Guillotines
+INFORMATION
+Type
+Feature
+Usage
+Guillotines helps player progress through the hedge maze and escape it.
+SOUND FILES
+Sounds Guillotine Activation
+Guillotines help progress through the Hedge Maze. In the maze, there are three guillotines which the player has to find and activate in order to escape. Player's need to pull the handle on them to cut through the vines of the World Lotus , allowing player to progress. Gates
+Gates
+INFORMATION
+Type
+Feature
+Usage
+The Gates can stop and help Players progress through The Outdoors
+SOUND FILES
+Sounds Activation Buzzer (Source) Creak (Source)
+Gates appear all throughout the Outdoors. A button is located near them, which when pressed, opens the gate. These gates appear in normally in room generation and also in Guaranteed Rooms, except The Mill (see below )
+Room Mechanics
+Guaranteed Rooms
+The Small Courtyard : The starting room of the The Outdoors . The room has a fountain with the Caws sitting on it. Look down for more information.
+The Clearing : The starting room of the Eyestalk Chase, a bunch of aspen trees are found in there, with some trees cut down. The log in the middle is Eyestalk before the chase is initiated.
+The Mill : The room where Grampy resides. Giving him eight lotus petals will result in making a lotus . Look down for more information.
+The Hedge Maze : The last room of The Outdoors . It is a huge maze where the player /s have to cut three huge vines with the three guillotines, whilst Bramble tries to pursue the player/s.
+Large Gates
+A player opening a gate.
+There are gray metal gates throughout The Outdoors . These can be opened by pressing a nearby button. Afterwards, a short noise will play before the gate opens. Players may be able to take alternate routes.
+Shears/Toolshed Rooms
+These rooms contain small toolsheds, containers that will always hold the Shears .
+The Small Courtyard : The starting room of The Outdoors , where you enter out of The Greenhouse . The Shears can either be found on the right or left side of the room against the wall or on the grass. This room also contains a vine-covered chest on the left side of the room resting beside a tree.
+The Mill : This is the room with Grampy in it, found not too far from The Hedge Maze, the final room. The Shears are found toward the left of the room next to the hiding closet under the cover of the balcony of the first building on the left.
+The Bridge : A room with a bridge connecting two sides of a ravine. The Shears are located on an island in a lake at the bottom of said ravine. This area is accessed via a grassy unmarked ramp section toward the left of the room. In this area there are also five vine-covered chests (1st is located in front of you when you reach the bottom of the hill, 2nd and 3rd are hidden in the 'vine-blocked loot area', 4th and 5th are located at the other side of the lake on the island), two lanterns (1st is slightly off the beaten path and 2nd is in the 'Vine-Blocked loot area'), and one crypt with a lotus petal (located on the left corner of the lake-shore). The bridge room is known as "Bridge_1" in the game files (so you don't get confused which bridge room will always contain the Shears).
+The Water Tower Room : This is the room where there is a water tower at the low elevated area of the room and the tree falls over near the water tower. The Shears are on the higher elevated area of the room where (if you go up from the water tower section) are located slightly to the right in the corner of a plausible sub-room. This room also has 2-3 Vine-covered chests (one located next to the fallen tree and one to two located in the higher elevated section slightly off the beaten path).
+The Graveyard : This room is identifiable because it has a crypt (the small room you unlock with the Iron Key ) and a "vine-blocked loot area" (The small area in some (sub-)rooms that has an entrance that has been obstructed by vines, inside is usually two to three vine chests along with one or more Lanterns ). The Shears are in the corner diagonally opposite from the 'Vine-Blocked loot area', they are also on the same side of the grass as the crypt.
+Crypt Rooms
+These rooms contains crypts which contains Lotus Petals that are unlocked by Iron Keys .
+The Graveyard : This room is identifiable because it has a crypt (the small room you unlock with the Iron Key ) and a "vine-blocked loot area" (The small area in some (sub-)rooms that has an entrance that has been obstructed by vines, inside is usually two to three vine chests along with one or more Lanterns ).
+The Large Graveyard : This room is similar to the The Graveyard, but it has two crypts instead of one. it Also has a Second Floor wich has 2 entrances, A Gate and a vine-infested path.
+The Small Graveyard : This room contains a small stone room that is connected to a small graveyard that contains a crypt through a gate.
+The Bridge : A room with a bridge connecting two sides of a ravine. This area is accessed via a grassy unmarked ramp section toward the left of the room. In this area there are also five vine-covered chests (1st is located in front of you when you reach the bottom of the hill, 2nd and 3rd are hidden in the 'vine-blocked loot area', 4th and 5th are located at the other side of the lake on the island), two lanterns (1st is slightly off the beaten path and 2nd is in the 'Vine-Blocked loot area'), and one crypt with a lotus petal (located on the left corner of the lake-shore).
+Flooded Rooms
+These rooms contain a flood which is deep enough to drown the player. In The Outdoors , there is only one type of flooded room, containing a large pond in the center of a garden-type room. However, the player is only able to drown if they crouch in the pond.
+Special Locations
+The Small Courtyard (0 Meters)
+The Small Courtyard.
+The Small Courtyard is the starting area of The Outdoors . The first part of this area is a brick structure containing flower beds, a wooden gate leading outside The Greenhouse , and paned windows reaching up to the structure's roof on each side of the gate. Outside the brick structure, there is the titular small courtyard containing a fountain, which is guaranteed to have Caws perching on it, a vine-covered chest, and a small toolshed with Shears inside. At the front of the courtyard, there is a metal gate. Opening it leads to a small forest with stone ruins and a dirt path leading to the next area. On the right side of a forest, a tree will always fall over.
+The Clearing (1,200 Meters)
+The Clearing.
+The Clearing appears about halfway through The Outdoors . This area's entrance is a metal gate. Opening it leads to the titular clearing surrounded by fallen and upright aspen trees, with a tree trunk lying near a lamppost in the center. A Lantern will always spawn near the end of this area. Upon reaching the end of The Clearing, Eyestalk forms itself using the aforementioned tree trunk and begins chasing players through the following areas.
+While evading Eyestalk, players can encounter a variety of obstacles, including: a three-way junction with only one correct path forwards, a cabin, a patio containing desks blocking the way and instances of Snare , a brick wall with an opening to crouch through, and a river with two bridges going across it.
+Eventually, the player jumps from a broken bridge and falls into a ditch. Panicked, the player tries to scramble out, but falls deeper into the ditch, allowing Eyestalk to catch up. Just as Eyestalk jumps down, the Groundskeeper cuts it in half before it can attack the player. One half of Eyestalk tries to grab the player's leg, but the Groundskeeper picks it up and, after a short look at the player, walks away. This marks the end of Eyestalk's chase sequence.
+The Mill (2,100 Meters)
+The Mill.
+The Mill appears in the last 300â400m of The Outdoors . [ 19 ] This area contains the titular mill with a pool of water behind it and a small wooden structure in front of it, where a Lantern and a toolshed containing Shears can be found.
+At the front of the mill, there is an overhang that Grampy resides under. Inside the mill, there is a bed with another Lantern beside it, a bunch of wooden boxes, an unfinished guillotine, a conveyor belt with Eyestalk's other half on top of it, and a few of the signs seen throughout the rest of The Outdoors . On the mill's left half, there is a large passage and a door leading outside the building. To the left of the mill, there are a few aspen trees lying on the ground.
+Near the end of this area, there is a campfire with a Monument 's corpse beside it and one of its legs being roasted on top of it. Players can spin the leg around by interacting with it.
+The Hedge Maze (2,250 Meters)
+The entrance to The Hedge Maze.
+The Hedge Maze appears in the last 250m of The Outdoors . This area's entrance is a metal gate leading to an arbor covered in vines and bugleweeds. Beyond this, there is a patio containing a statue of a horse or a large Caw.
+The maze itself is surrounded by trees and full of the World Lotus ' roots. The entity itself resides in the center of The Hedge Maze, spreading its roots outwards above the maze. Throughout The Hedge Maze, there are more metal gates, tall obelisks, and toolsheds for players to hide in.
+Past the exit to The Hedge Maze, there is an overlook of a river leading into a sewer pipe.
+Related Soundtracks
+Main article: Soundtracks
+Album
+Title
+Criteria
+Duration
+BPM
+Key Signature
+Track
+Single (in-game only)
+Outdoors Ambience (Leaves) (conjecture)
+Plays in The Outdoors on 0.04 volume, on a loop.
+1:20 (ambience)
+N/A
+N/A
+Ambience Loop
+Single (in-game only)
+Outdoors Ambience (Thunder) (conjecture)
+Plays in The Outdoors on 0.625 volume, on a loop.
+1:08 (ambience)
+N/A
+N/A
+Ambience Loop
+Single (in-game only)
+Outdoors Ambience (Wind) (conjecture)
+Plays in The Outdoors on 0.5 volume, on a loop.
+0:40 (ambience)
+N/A
+N/A
+Ambience Loop
+Vol 2. No. 4
+Starlight
+Plays during the Death Screen with Starlight .
+0:59
+(soundtrack)
+0:06
+(outro)
+148 BPM
+D#/Eâ­ Major
+Full Soundtrack
+Outro
+Vol. 5 No. 3
+Son Of A Birch
+Plays while being chased by Eyestalk in The Clearing and the rooms afterwards.
+2:03
+(soundtrack)
+0:12
+(soundtrack; intro)
+0:39
+(soundtrack; outro)
+0:30
+(intro)
+1:12
+(loop)
+1:01
+(outro)
+0:38
+(outro sfx)
+79 BPM
+Dâ¯ Minor
+Official Soundtracks
+Official Soundtrack
+Official Soundtrack - Intro
+Official Soundtrack - Outro
+In-Game Soundtracks
+Intro
+Loop
+Outro
+Outro SFX
+Vol. 5 No. 4
+Thorns
+Plays in The Hedge Maze with Bramble .
+2:37
+(soundtrack)
+0:18
+(intro)
+0:17
+(intro sfx)
+0:28
+(phase #1)
+0:28
+(phase #2)
+0:28
+(phase #3)
+0:57
+(phase #4)
+0:13
+(chase)
+0:05
+(outro)
+135 BPM
+Dâ¯ Minor
+Official Soundtracks
+Official Soundtrack
+In-Game Soundtracks
+Intro
+Intro SFX
+Phase #1
+Phase #2
+Phase #3
+Phase #4
+Chase
+Outro
+Vol. 5 No. 5
+Keep Off The Grass
+Plays in the final cutscene of The Outdoors .
+0:40
+(soundtrack)
+0:32
+(in-game)
+70 BPM
+Dâ¯ Minor
+Official Soundtracks
+Official Soundtrack
+In-Game Soundtracks
+In-Game Cutscene
+This audio file is hosted under a free license. It is made available under the Creative Commons Attribution-ShareAlike 4.0 license, the same terms as the source wiki. All audio remains the property of its original creators and the game's developers.
+Bugs
+The signs that say the remaining distance until the exit may be missing the last two digits sometimes, it is unknown why this happens.
+Gates might sometimes not open correctly after pressing their button. This bug likely appeared due a change in Roblox's physics, and LSPLASH , the main developer, has replied to a tweet where this bug is mentioned, blaming Roblox's physics. [ 20 ]
+This bug can also affect the big double door near the start of the first room.
+This bug doesn't cause major problems anymore as gates become instantly non-collidable once they start moving, since the 10/19/25 patch.
+When the The Halloween Spotlight Event started, a common bug appeared where Eyestalk would kill people during its ending cutscene. This was patched four days later, in the 10/27/25 patch.
+The Groundskeeper can get stuck sometimes, even ignoring Mandrakes that are attacking players nearby. It can also kill players through walls.
+Mandrakes might jump out at players from unreachable places or places they can't reach in time, killing them almost unavoidably, unless they somehow get away from it before dying. [ 21 ]
+Interacting with a Mandrake right as the Groundskeeper is about to kill it will make the player pick up the dead Mandrake, being impossible to drop and taking away the player's ability to hide.
+The Mandrake will disappear from the player's hands once the room where the Mandrake spawned despawns.
+If a player steps on a Snare while a Mandrake is attacking them, that Mandrake will commonly be unable to kill the player.
+Monuments rarely move without playing their footsteps sound. [ 22 ] They can also kill players through walls.
+Monuments can rarely spawn incorrectly making them detach from their bases prematurely and leave a visible crack making them easier to spot. This is more commonly seen when spawning them with the Admin Panel .
+Eyestalk might very rarely instantly disappear and kill everybody instantly after a few seconds. It isn't totally known why this happens, but NormallyAve , one of the developers, has spoken out about this bug and has been trying to fix it. [ 23 ]
+The same bug can affect Seek in its chases too, as they work the same exact way.
+Items that spawn on cabin tables have a chance of spawning too far into the cabin's corner, being unreachable.
+Items that spawn in fountains have a chance of spawning too far into the fountains's center, being unreachable.
+Bramble might very rarely jumpscare players even if they aren't moving, it is unknown why this happens. [ 24 ]
+In games with a lot of people, cutscenes and other events might be delayed for some players by several seconds.
+Monuments, Groundskeeper, Eyestalk and Bramble can lead players with God Mode into the Death Screen and damage them with their jumpscares.
+If Eyestalk reaches an unopened door, it will permanently stop and will lose its ability to kill players, as it lacks the ability to open doors.
+The same occurs if Eyestalk reaches the end of the chase without players triggering the cutscene.
+If players use a Lotus to rebirth into The Outdoors , most signs that say the remaining distance until the exit will be broken and won't display the correct number.
+For a very brief period of time, when The Great Outdoors Update released in the Lobby , players could join The Outdoors in the state it had before the update properly released (because only the Lobby had updated, not the Game place). [ 25 ]
+Creating an Outdoors lobby will give a seed of -1, as well as not allowing you to advance from a certain distance
+Trivia
+After completing The Outdoors , players will be sent to The Mines at Jeff Shop down the sewer drain, skipping major challenging rooms such as the rest of The Greenhouse (if the player chooses to enter The Outdoors in Room 90), the final room of The Hotel featuring Figure , and the first half of The Mines, including the first Seek chase, as well as The Nest . This is however likely intended to be counterbalanced by the harsher difficulty of the subfloor, comprising of mostly instant-kill entities.
+Major locations and entities in The Outdoors may have been designed to imitate the ones that would have been encountered in a normal run: The Eyestalk chase is likely meant to be the replacement for the first Seek chase encountered in The Mines , while the hedge maze has guillotines that work similarly to the anchors in The Nest , having to be searched for and then activated, albeit in a simpler manner. Bramble may have been to imitate Figure that would have been encountered earlier in The Mines.
+Notably, the sewer drain the players fall through will not have a large vine holding a lamp post, which can be normally seen when progressing through The Mines normally either from The Hotel or as a new run.
+This however creates a plot hole, as the players would have never encountered The Nest and the Grumbles , or even have made the Figure enter The Mines in the run, yet both appear in The Mines in pursuit of the players as usual. This is likely due to being an oversight as the developers intended to focus entirely on the subfloor. However it is possibly implied that there will potentially be new features in The Mines such as a completely different timeline when entering from the Outdoors in the future.
+Unlike The Rooms and The Backdoor , where you exit via a portal from Starlight , the way of entrance and exit through The Outdoors is directly connected to The Hotel and The Mines .
+Before the release of the subfloor, the big door in The Greenhouse that was going to lead to The Outdoors was only found in Room 99. After the release, both Rooms 90 and 99 contain this entrance door, most likely to allow players to enter The Outdoors without having to go through the challenging section of the Greenhouse.
+Entering from either doors mostly likely do not have an impact towards the Outdoors , as both leads to the same starting room and the same amount of progression to The Mines .
+The subfloor's name in the game files and in many assets is commonly mentioned as "The Garden", even before its release. Because of this, it was widely believed to be initially named "The Garden", until the final and current name was confirmed.
+The date of leaks from The Outdoors have shown that the subfloor was being concepted and developed even prior to DOORS ' release .
+The subfloor's first noticeable teaser was in the 6 Billion visits code announcement. [ 26 ]
+The Mines was initially also teased in a similar way. [ 27 ]
+Before The Mines Update , Room 99 in The Greenhouse had a door that was covered in vines, but was smaller than the current door with vines covering it, this door could have possibly been teasing the subfloor since The Hotel+ Update .
+Though it was believed that this subfloor would release as part of Roblox's The Hunt: Mega Edition event, this was not the case. [ 28 ]
+DOORS eventually ended up being a part of the event, however the event did not correlate with a game update; the contestants in the event played RANKED MODE . [ 29 ]
+The Outdoors , despite only being a subfloor , is very unique compared to the others, and even different from the main floors in some ways.
+It's the subfloor with the most entities with instakill attacks, with five entities having them.
+The only hostile entities and hazards in this floor without instant killing are Surge, Snare and Bramble's spikes.
+It is the first subfloor to feature major events, such as chases, cutscenes and a grand boss level.
+It is the first subfloor to include over 3 unique entities and the first to include 3D entities.
+It has the most achievements for a subfloor, with 5 exclusive achievements (4 if not counting "Rebirth").
+The Rooms and The Backdoor have 3 and 2 exclusive achievements respectively (3 for The Backdoor if counting "THE HUNT: First Edition") .
+The Outdoors is the only subfloor to feature no items directly related to Starlight, aside from Stardust .
+The Backdoor has the Starlight Vial and Starlight Bottle , while The Rooms has the Starlight Jug .
+The audio during the ending of the subfloor has both the sound effects and soundtrack being mixed into a single audio file, which is proven by having the music turned off in settings.
+The same occurs at the start of the second Seek chase and the ending of The Mines .
+If Modifiers are active in The Hotel , the entrance to The Outdoors will be blocked by a red barrier, preventing players from accessing it, similar to The Rooms .
+During the initial release of The Outdoors , there was no barrier in front of the entrance, but the Skeleton Key couldn't be used on the lock.
+Unlike The Rooms ' entrance, The Outdoors ' entrance is more visible in The Hotel and easier to unlock, most likely due to The Rooms being more of a hidden easter egg.
+Before The Great Outdoors Update , The Ou tdoors was already in the game, but was obviously inaccessible.
+During the extremely small period of time after the Lobby subplace updated and before the Game subplace updated, players could join The Outdoors . This has been documented by few, this video and this video being the only known pieces of footage of this: the version of The Outdoors that was in the game before The Great Outdoors Update was actually released.
+Many rooms had the same layout as some of the rooms that ended up releasing. One room required a lever to open a gate, exactly like the basements in The Hotel. There were no major events/rooms yet. No entities (other than Hide , Glitch , Starlight as the death messenger and Snare only in the first room) were present in this version.
+It is very likely that the 6B Visits Teaser was taken in this version or a very similar one, due to the colors and lightning and the shape of the tree to the left.
+NormallyAve , one of the developers, has replied to a message that included one of these videos with footage of the old Outdoors , just saying "LOL". [ 30 ]
+The Mill's name was teased before The Great Outdoors Update , suggesting that it was going to be a special room in The Outdoors , as it ended up being. [ 31 ]
+The Outdoors is the only subfloor where the player isn't assisted by Starlight throughout the floor and the exit of the floor.
+The average and approximate length of The Outdoors is 2,500m, but it can actually range from 2,050m up to 3,000m, based on currently observed runs.
+The total distance will be mentioned in the first sign found at the first room, past the gates.
+In total, The Outdoors has 35 rooms, 36 if counting the starting room with the fountain. you can see this in the top of the admin panel, where it shows the current room number.
+During development, Lightning_Splash posted an image featuring a model of Gubby (a Roblox OC) in The Outdoors .
+The Outdoors was originally supposed to have rain but the developers didn't like how it looked and therefore it was removed. Despite this, there is still rain in the first room of The Outdoors , which will slowly fade away and stop as the player steps outside. [ 32 ]
+This makes it possible to leave the starting room, observe the rain stop, and then returning to the room to notice it start again.
+This made Surge seem out of place. However, lightning can still occur without raining in reality, as long as the clouds are in a raining state.
+In the teasers and the release date trailer for The Great Outdoors Update , the image used for The Outdoors in some of the UI would show one of the backgrounds of the Jungle biome from Terraria.
+Related Achievements
+Detour
+I think I'm lost. Enter a subfloor . Receive their acknowledgement.
+Down The Water Spout
+I'm more of an indoors person. Escape The Outdoors .
+Touched Grass
+A breath of it! Enter The Outdoors through The Hotel .
+Feed the Birds
+They seem to have a liking to you now... Feed a Caw Bread !
+Picking Flowers
+Still got it! Have Grampy create a Lotus for you.
+Rebirth
+Binded back together. Become reborn through a Lotus .
+Gallery
+Rooms Teasers In-game Decorations Assets Rooms Special Randomized Special The Small Courtyard " loading="lazy" decoding="async"> Garden_Start / The Small Courtyard The Clearing " loading="lazy" decoding="async"> Garden_EyestalkStart / The Clearing The Mill " loading="lazy" decoding="async"> Garden_Mill / The Mill The Hedge Maze " loading="lazy" decoding="async"> Garden_HedgeMaze / The Hedge Maze Garden_EyestalkChase1 [ note 6 ] Garden_EyestalkEnd LotusSpawn Randomized Garden_Bridge1 Garden_Bridge2 Garden_Cemetery1 Garden_Cemetery2 Garden_Cemetery3 Garden_Choice1 Garden_Chunk1 [ note 6 ] Garden_Gate1 Garden_GiantRiver1 Garden_MultiChoice1 Garden_Overlook1 Garden_Overlook1_Mirrored Garden_Picnic1 Garden_Pond1 Garden_Pond1_Mirrored Garden_Skinny1 Garden_Skinny2 Garden_Skinny3 Garden_Skinny4 Garden_Stone1 Garden_StoneX1 Garden_Straight1 Garden_Straight2 Garden_Straight3 Garden_Straight4 Garden_Trail1 Garden_Trail2 Garden_Turn1 Garden_Turn1Mirrored Garden_WaterTower Teasers The 6 Billion Visits Code Announcement, featuring a sneak peek and first ever teaser of the unnamed subfloor. Ditto, but brightened for clarity. LSPLASH's profile picture with a teaser in the background. Ditto but only the teaser. Another potential teaser. (gubby?) A hint potentially about the subfloor by a DOORS developer on X. Ditto. Ditto. Ditto. Ditto. An old sneak peek that can be linked to the subfloor. Ditto. A room in the subfloor, hidden in the background. A teaser from RediblesQW featuring the location named The Mill. RediblesQW previously used this technique to tease the Nest. Curious Light glowing inside a gardening closet to show the Shears. The wooden gate at door 90 to access the subfloor entrance. Ditto, but closer. The entrance to the Outdoors. Ditto, but closer. The first room. Ditto. An area with a lake. Ditto, but a tree is falling. An area with a cabin. Ditto. Inside of a cabin. Ditto. A cemetery area. A place in the cemetery. A look at the subfloor with a tree with eyes on it An area in The Outdoors with a staircase. Ditto, but brightened by ominous, green lightning. A gif with the Groundskeeper, created by DOORS's animator . An area from the Outdoors. Ditto. Ditto. Ditto. A giant vine. A water tower. Caws drinking water. The Groundskeeper walking. The Groundskeeper collecting sticks to make signs. The Groundskeeper painting his signs. The Groundskeeper placing his signs. The Groundskeeper stabbing some flailing vines. The Groundskeeper planting lilac. Groundskeeper front view. The Groundskeeper attacking the player. Teaser featuring surge. Groundskeeper dragged away by Bramble. A leaked model of a well which is in The Outdoors. A room that is in The Outdoors. In-game Current Old Current The Outdoors elevator with the door closed. The Great Outdoors sign-up area in The Lobby after August 25th. The Mill. The Outdoors in The Lobby" loading="lazy" decoding="async"> The Outdoors in The Lobby Ditto, being free until the 25th. A large sewer drain seen during the ending. A glitch at the end cutscene caused by the Admin Panel. The background of its loading screen. (ID: 80736389682668 ) A drawing in a cabin saying 'Starlight' in wingdings. The Outdoors when are active." loading="lazy" decoding="async"> The red barrier that blocks The Outdoors when Modifiers are active. Ditto. Ditto, but at a different angle. Ditto, but with only 1 door opened. Ditto, but at a different angle. (need description). The Outdoors entrance seen blocked from the final room." loading="lazy" decoding="async"> The Outdoors entrance seen blocked from the final room. A door hidden under the Hedge Maze. This door is required for the rooms to generate. This applies with all other Floors/Subfloors. There is a 101, 201, A-1001, and a -0000 door for the rooms to properly generate. An inaccessible Cabin seen above on a hill. Ditto, but close up. Ditto, but the inside. A large wall of text can be seen on the cabin's wall. The cabin also appears to be entirely empty, lacking any furniture unlike the normal cabins. A bridge with aspen trees all around it. A sub-room with a fountain in it. A bridge room in Eyestalk's chase. A sideways obelisk. Bugleweeds found in the starting room, just beyond the gate. Old The Great Outdoors sign-up area in The Lobby before the update released. The Great Outdoors sign-up area in The Lobby after the update released. An in-game teaser of the Outdoors at door 99 before the Mines Update. The entrance, but from a different angle, with different lighting and with no vines. A player inside the entrance room. The inside of the entrance. Ditto. Decorations Normal Interactable Normal Big Gate. (GardenDoor) Big Greenhouse Window. (ftcWindow) Potted Plant. Greenhouse Growing Table. Lamppost. Fountain. Light Green Pinetree. Green Pinetree. Ditto, but the old version. Dark Green Pinetree. Red Pinetree. Chopped Pinetree. Small Tree. Swamp Tree #1 (Removed) Swamp Tree #2 (Removed) Obelisk. Exit Sign. Tiny Rocks. Table. Iron Table. Closed Coffin. Opened Coffin. Ditto. Bench. Iron Bench. Picnic Table. Cabin Potted Plant. Cabin Chair. Deer Skull. Vase #1. Vase #2. Vase #3. Vase #4. Toilet Paper. Mini-Fountain. Tombstone #1. Tombstone #2. Tombstone #3. Tombstone #4. Well Bucket. Light Aspen Tree. Aspen Tree. Dark Aspen Tree. Chopped Aspen Tree. A broken piece of wall. Grampy's Basket. Bucket of Black Paint with Thick Paintbrush. Buckets of Green and Red Paints. Wooden Crate. Stacked Wooden Crates. Ditto. Groundskeeper's Bed. [ note 7 ] Firefly Lamp. Aspen Log. Tiny Potted Plant #1. Tiny Potted Plant #2. Empty Plant Pot. Broken Plant Pot. Horse Statue. Caw Statue. Interactable "No stepping on grass" sign. Well. Painting. Eyestalk's Dead Corpse. Bonfire with a piece of Monument. Groundskeeper's Scythe. Assets Grass sign texture. The Outdoors logo without the glow effect. The maze progress icon. The logo for the Outdoors in The Great Outdoors Update Trailer. The old Lobby Button for the Outdoors Ditto, temporarily free. An older Lobby Button for the Outdoors. An unused Lobby Button for the Outdoors visible in Trailers.
+References
+â "ALL subfloors will be PERMANENTLY FREE to access, as long as you have discovered them." - Text on "THE ARCHIVES UPDATE" Doors event page on Roblox
+â RediblesQW on Twitter: "my boy has glowed up" ( link )
+â NormallyAve on Twitter: "oh yeah this one is even older and earlier than that one lol" ( link )
+â "The Groundskeeper was angry enough to personally eliminate you... ...Just stop making it mad. It's not even meant to attack you." â Curious Light, DOORS and YouTube
+â https://x.com/jaspercreations/status/1950241027282862097
+â "It also seems the Groundskeeper has set up traps on the World Lotus roots." â Curious Light, DOORS and YouTube
+â "caws should also perch near living monuments like they do for petals and keysâ â Redibles, YouTube
+â Legit - MODS. (2025, August 12). DOORSâ¯: How to get all new 8 badges in The Outdoors Update [ROBLOX] [Video]. YouTube. https://www.youtube.com/watch?v=yLcclWXB_Io&t=9m5s
+â "Hmm... let's call it a... Mandrake. I believe its wails caused you to suffer a heart attack.â â Curious Light, DOORS and YouTube
+â https://www.speedrun.com/roblox_doorsce/runs/me2pql8m
+â "Many people believed that the mandrake root screamed as it was pulled from the ground. To dig up the mandrake and hear its cries meant certain death, so ancient herbalists instructed people to tie a dog to the mandrake and force the animal to pull it up, thereby killing the dog but saving themselves.â â John Gerard, Claude Moore Health Sciences Library
+â RediblesQW on Twitter: "monuments arent shape shifters, they are more like meaty hermit crab esque things that use hollowed out obelisks in the outdoors as shells" ( link )
+â https://x.com/jaspercreations/status/2086922949869617494
+â "You died to what I will call... Eyestalk. How unoriginal. I'm sorry you had to see that." â Curious Light, DOORS and YouTube
+â â minute [...] A period of time, especially one that is relatively long; a while. â â Oxford University Press, Oxford English Dictionary
+â "It's almost as if Bramble has assigned itself mechanics in order to act like any other entity..." â Curious Light, DOORS and YouTube
+â NormallyAve on Twitter: "I didnt code bramble (my hands) but I did draw concept art of them a long time ago the first one is from early 2024
+there are earlier designs for him though that werent drawn by me" ( link )
+â https://discord.com/channels/458441314023899159/1077299658667348178/1500187389329543189
+â @vurxxk : 300m @NobleRyS : 400m
+â https://x.com/LightningSplash/status/1977652159828439302
+â https://medal.tv/en/games/roblox/clips/kU14vIAv8HgowF9G8
+â https://youtu.be/rmQ9CxfRKgs
+https://youtu.be/PiJ_ea8bSR4
+â https://discord.com/channels/458441314023899159/1424086180093362289/1424425551744995453
+â https://youtu.be/zN9yZiiw1x4
+â https://www.youtube.com/watch?v=22d96j6SzVI https://youtu.be/bLCeBGqeBwo?si=k9GZshdRi4onzJPz
+â "happy New Year, and thank you all for starting it off with 6,000,000,000 VISITS in #RobloxDoors!" -DoorsRoblox, Twitter.
+â "#RobloxDoors hits 3,000,000,000 VISITS." - DoorsRoblox, Twitter.
+â "unfortunately we werent asked to participate and never implied that we were participating? we are working on the next major update and will drop more teasers as we get closer to launch" - RediblesQW, Twitter.
+â https://x.com/DoorsRoblox/status/1906839547679273469
+â https://discord.com/channels/458441314023899159/1077299658667348178/1453550209266352311
+â X account from RediblesQW, co-developer.
+â "Q: why did you guys remove the rain in the Outdoors? A: honestly just didnt like how it looked. the rain fades away after a bit when you first enter the outdoors" â LightningSplash, Twitter
+Notes
+â 1.0 1.1 1.2 1.3 Capped to a minimum of 3 HP.
+â 2.0 2.1 PlaybackSpeed increases since the moment Surge spawns from 0.5 up to 1.7 following a quadratic ease-out curve during 9 seconds. This is the sound with PlaybackSpeed 1:
+â Monuments have many more footsteps for the different materials they can walk on. They are the same as the players ' footsteps with modified PlaybackSpeed.
+â 4.0 4.1 4.2 4.3 PlaybackSpeed is set to a random number from 0.4 to 0.8 each time it is plays. This is the sound with 1 PlaybackSpeed:
+â Also known as "MonumentFood" in the game's files, as that is its model name.
+â 6.0 6.1 Room randomly generated in "chunks", might vary a lot.
+â In-game file name is "GroundskeeperBed".
+Related pages The Great Outdoors Update The Great Outdoors Update is a major update of DOORS released on August 10th, 2025 for DOORSâ 3rd anniversary. This update added The Outdoors, Stardust, Itemâ¦ Achievements Achievements, also ded known as Badges, are awards players can obtain in-game or through other means (e.g. "Group Member" by joining the LSPLASH Roblox group) Floors Floors are levels within Limbo that players progress the story through, serving as the 'chapters' for the game. These floors may contain different items andâ¦ The Greenhouse The Greenhouse is a location in The Hotel comprising Doors 90â99. Rush and Eyes spawn more frequently here, and it is one of the only locations in the entireâ¦ The Hotel The Hotel is the first main floor in DOORS. It can be accessed by using one of the elevators in the Lobby, creating or joining an elevator for The Hotel, orâ¦ Lobby Lobby is a canon location where players spawn when they join DOORS. It is also a community hub for DOORS players to communicate and strategize for an upcomingâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+

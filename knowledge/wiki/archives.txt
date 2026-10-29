@@ -1,0 +1,721 @@
+﻿SOURCE: https://doorswiki.com/wiki/the-archives/
+PAGE: archives
+DOWNLOADED: 2026-10-18 14:20
+
+ The Archives | DOORS DOORS All pages All pages DOORS / Pages / The Archives Contents Overview Entry Interior Sectors Variations Entities Unique Entities Non-exclusive Entities Hazards Overview Gallery Interactables Room Mechanics Guaranteed Rooms Trivia Bugs Locations[1] Metro Station Archival Storage Z-50 A-000 Soundtracks Related Achievements Bugs Gallery References The Archives Curious Light Entities Floors Hazards Pages with broken file links Pages with unsourced statements Spoilers Stubs The Rooms
+Updated October 18, 2026
+This page contains spoilers . They are hidden by default, but may be expanded.
+Not to be confused with The Rooms , the subfloor's predecessor, or The Archives Update . This content has spoilers for {{{2}}}. {{{1}}} The Archives INFORMATION Rooms 1,300 (1,301, if counting the starting room) Date Added August 28, 2026 SOUND FILES Sound Files Closet Bash Closet Open Closet Close Door Opened Elevator Idle Elevator Open Elevator Close Tile Fall Tile Land #1 Tile Land #2 Intercom Day Shift Chime (High) Intercom Day Shift Chime (Low) Intercom Lullaby #1 Intercom Lullaby #2 Intercom Lullaby #3 Intercom Lullaby #4 Intercom Lullaby #5 Intercom Interference #1 Intercom Interference #2 Intercom Interference #3 Intercom Interference #4 Intercom Interference #5 Intercom Interference #6 Intercom Interference #7 Intercom Night Shift Chime (High) Intercom Night Shift Chime (Low) Turn Stile
+" WHERE FORGOTTEN MEMORIES GO " - The quote in the trailer of The Archives
+The Archives is an office-themed subfloor [ 1 ] that acts as a faithful reimagining and replacement to The Rooms . Its environments feature a more refined, atmospheric design with predominantly red tones, alongside spaces, storage areas, aquatic water, tables, and various scattered documents and objects.
+Overview
+In The Archives , you can find a lot of lore dispersed through books around the floor. The sections are different. They are marked by distinct lettered door numbers such as "A-09" or "C-38", giving the area an appearance of flee the facility dedicated to helping to forgotten information and memories. Each sector seems to have different sector variations such as Botanical Wing, Structural Anomaly, and other variations. Here are many brand new and exclusive entities that await for the players. The subdued lighting and unusual surroundings create an eerie, secluded ambience, fitting its role as the place where forgotten memories are kept. It is inspired by the music "911 / Mr. Lonely" by Tyler, The creator, as jasper_creations and also, stated on discord [ 2 ] .
+This sub-floor also introduces new features such as water dispensers, computer keyboards, escalators, vending machines and a waiting system. There are also plenty of cupboards around that serve as hiding places, with some being damaged and presumably unusable, similar to The Rooms . However, all of the cabinets may contain shelves and items, such as file holders that are required to be removed before players can actually hide in them. A trolley holding a CRT television and a disc player below it, alongside a couple of discs can also be mainly seen in the trailer which had shown the teasers as footage. Given how The Archives was first officially teased through the television, it is possible that they can be interacted with & serve an important role through the floor, possibly with the discs holding footage of the "forgotten memories."
+The floor also appears to have different sections through the rooms. The player can use certain Elevators which appear after every 50 rooms in each sector (for example:- Sector A, Sector B, Sector C, etc.). These sectors are divided by the waiting rooms shown, in which the player has to collect a ticket from the Teller and proceed to deal with the entity. They can also use gold to skip sectors, increasing in cost with every sector skipped.
+Inside of the new stairwell expansion update, The Archives gained a pre-run shop, containing Pizza for 50 knobs, being able to get upgraded with stardust, Coin Roll (x4) for 150 knobs, giving 50 gold each, Flashlight for 100 knobs, and Vitamins for 100 knobs. Pre-run shop in The Archives only appears from using the skip in the lobby.
+Entry
+In Quick Play, go into an elevator in Lobby Menu of the Quick Play of the Lobby or click The Archives within the HOST GAME Lobby Menu section of the Lobby Menu . [ citation needed ]
+Another way to enter Archives is finding a hidden door locked behind a Skull Lock and 2 locks which need lockpicking. [ citation needed ] (In total, 4 uses of the Skeleton Key and 2 Lockpicks to access the Archives) in room 60 of The Hotel (Previously, door lead to The Rooms , but with The Archives Update its destination was changed to The Archives)
+Interior
+In A-000, the player will find themselves inside a medium-sized room that looks like an office lobby. It has an exit to the exterior, as well as windows, chairs, two elevators, and an interactable computer. It also has a Shakelight Vending Machine.
+The Archives is a huge office building with 26 different sectors, each having 50 doors and being represented by a letter ordered alphabetically. At the end of every sector, there is an elevator to continue progression through The Archives , that is controlled by a computer, which the player can pay Gold to skip sectors.
+Starting in C-050, Emergency Exits (which will take the player to the room before The Infirmary) will begin to spawn at the end of every sector. There is also a unique exit at the end of the last sector, sector Z. Exiting or finishing The Archives will award the player two different Achievements.
+Sectors Variations
+Once entering any sector, players may read the terminal presented in front of the elevator upon first arriving. The sectors may have one of the following variations, in which some may affect the players' progression. There is also chat logs from the Drones, describing each of the variations of the sectors. However they do not seem to actually serve as tips for the players, as it is mostly about the Drones ' interaction and communication with each other regarding said variations.
+The first sector can also have one of the variations, which can be discovered through the terminal in front of the first door. Most sectors may not have these variations, and are appointed with "No news at this time." However, the sectors may still have variations despite stating so.
+Botanical Wing - a Sector Variant covered in Vines, Plants and vegetation and it's Overgrown. (look for "Botanical wing" in sector description).
+Pizza Party - a Sector Variant with some rooms with party, decorations like Balloons, Colored Lights, Banners, increased Drones spawn rate and lots of Pizza on plates (look for " Come grab a slice of pizza ", " Pizza party! ", or " Good work everybody! " sector description).
+Structural Anomaly - A Sector Variant with giant, half-empty rooms with anomalous geometry (look for any grammatical or punctuation errors in the description of the sector or "?").
+This seems to be reminiscent of the Backdoor.
+Ventilation Error - A Sector Variant that has slightly darker rooms and foggy areas (look for "Ventilation error" in sector description).
+Windows/Surface Sector - A Sector Variant that has a significant amount of windows in its rooms.
+Entities
+Unique Entities
+Honcho Ransom Drone Forget-Me-Not Teller Bash Scribbles Alma Portrait Fih Honcho
+Honcho
+Normal Starlit Normal
+Starlit
+INFORMATION
+Floors
+The Archives
+Damage
+70
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Intercom Ground Slam Impact Footstep Footstep Loop Footstep (Source) Door Bang [LOUD] Door Smash [VERY LOUD] Chase Fail Chase Win
+" ATTENTION. COME TO MY OFFICE. NOW!"
+Honcho is an important entity that appears in The Archives .
+Appearance
+Honcho appears as a flat humanoid entity seemingly made of paper wearing a light blue casual outfit with a white collar and sleeves seemingly rolled up, a blue tie, dark blue pants held up by brown straps, and brown shoes. It also has visible staples on its arms, likely resembling cartoonish arm hair. The limbs and torso can also bend and lightly fold in defining angles and are able to express flexible movements. Its legs are notably either folded horizontally inward, or have a piece attached behind it by the middle, likely for the entity to keep balance. It also has black 'tattoos' in his arms, resembling many Starlight symbols.
+Its most prominent feature is its face and/or head, being a distinctive black square with choppy edges, giving it a foggy-like appearance, mainly resembling the redaction bars seen in documents. They are likely to be always facing the screen of the player and may appear animated. This could be covering its actual face and/or head, or that it is its head and is actually otherwise a physical manifestation of redaction, suggesting Honcho's role akin to reviewing and redacting documents.
+In its old design, which was discovered through an accidental leak in October 2025, it only bared small changes with its outfit, having brown pants without straps but instead tied with a black belt. It also had visible pockets on the left side of its shirt and both side of its pants. Its head is a black square formed by smaller ones which fade around it. Its outfit was likely adjusted to fit more with the cooler tone of The Archives .
+Behavior
+Occasionally, when the player reaches the end of a sector, the elevator to the next sector will be overridden. This can happen as early as A-50, and as late as Y-50. Taking the elevator will lead the player to Honcho's executive office where he resides. Walking up to the desk will play a cutscene, displaying a graphic whereby Honcho orders the player to sort boxes into their respective depots. The graphic then disappears, and he throws the player down a pit in the floor. He will then jump down the pit and chase the player as they sort boxes into their corresponding areas. The player can override the doors to shut on Honcho as he chases them by holding an input key, giving them enough time to play the minigame. If the player is successful at finishing the boss fight before Honcho reaches them, a cutscene will play where Honcho grabs the player, stamps them, and smashes them through the floor, letting the player continue their run.
+Notes
+If any player has a Starlight Bottle in their inventory, Honcho will snatch it from them during the first cutscene, giving him a glowing yellow aura surrounding him after landing in the sorting room. Upon completing the entire sorting challenge, all players will be rewarded with the Star Employee achievement.
+This content has spoilers for the ending of The Archives . If the players reach room Z-50 after the challenge is over, Honcho can be seen praying to Starlight .
+Jumpscares
+1st Person
+Honcho grabs the player and punches them in the face. Then, he brands them with a hot branding iron before smashing them through the floor into the regular office rooms.
+Lore
+According to its logs, Honcho is 213 years old. It hates The Archives and is desperate to leave but can't. It also seemingly has an obsession with Starlight , most likely believing it can take him out of the subfloor due to the Architect being present in every single floor, judging by the Starlight symbols on his arm, him taking the player's Starlight bottle and him praying to Starlight at Z-50 in star employee.
+Journal
+Honcho's page in My Journal
+Honcho
+Tall, paper-thin humanoid entity. Wears clothes that would typically be seen in an oldschool office environment. Has markings on its arms that seem to be drawn with a pencil
+Honcho calls me to its "office" where it then sends me down into the mail room to "work". It then breathes down my neck until the end of what I assume is my shift or something
+Honcho tries to break into the room while I'm doing the job that it assigned me itself. Seems kinda ironic... but as long as I'm out of the room by the time it gets in, I'll be fine
+Trivia
+Its name comes from the term Head Honcho , defined as "the person with the most authority".
+Honcho's lack of a visible head is possibly a word-play as the entity's official name is simply Honcho , missing the word "head" , like in its definition.
+With this in mind, it is speculated that Honcho runs The Archives to some extent.
+Honcho is the first entity to have an Item Skin related to it before it is even released to the game.
+The mug also officially reveals the back of it.
+It is one of the first entities to have an official render made by the developers outside of the wiki, alongside Ransom and another entity(seemingly Scribbles) that was partly cropped.
+However, both Ransom and Scribbles may be excluded as the former's render is simply its pre-existing assets from The Rooms without any adjustments, and the latter only seemingly being a partly cropped screenshot that was likely intended to only be used for the teaser, leaving Honcho the first and only entity to have a proper render.
+Honcho seems to have drawn-on stars on its arms that wasn't there when The Archives floor was still in development (old design being introduced in an accidental leak and the current design, the design without said stars)
+According to Honcho's logs, Honcho is 213 years old. This is because the last entry is after 77,825 days of his creation.
+Furthermore, he hates the Archives and wants to leave it but can't. This may explain why he takes the Bottle of Starlight from the player if they have one.
+This is further proven when Honcho goes on the intercom and demands players report to him, announcing: "Attention, come to my office, NOW." in barely audible english.
+Honcho is addicted to coffee.
+Gallery
+In-game Assets & Animations Other In-game Poster #1 ("ARE YOU WORK") Poster #2 ("BE DO EFFICIENCY") Poster #3 ("BE GOOD DO STUFF") Poster #5 ("DO MORE THINGS") Poster #6 ("EFFICIENT GET PIZZA") Poster #7 ("EMPLOYEES EFFICIENT") Poster #8 ("GET ORGANIZE") Poster #9 ("GRAB PAPER AND COFFEE") Poster #10 ("MAKE ME PROUD") Poster #11 ("WORK GOODER") A screenshot of the cutscene that plays at the start of the Executive Office. Honcho mug smoothie item skin." loading="lazy" decoding="async"> The Honcho mug smoothie item skin. Assets & Animations Intro animation. Alternate intro animation. Landing animation. Idle animation. Sprint animation. Ditto, but the old version. Fail animation. Ditto, but the old version. Win animation. Ditto, but the old version. Ending animation. Praying loop. Praying action #1. Praying action #2. Grab animation. (Unused) Take item animation. (Unused) Honcho's model." loading="lazy" decoding="async"> Honcho's model. Honcho's old model." loading="lazy" decoding="async"> Honcho's old model. Honcho's oldest model." loading="lazy" decoding="async"> Honcho's oldest model. Honcho's face censor. It has a chance to appear on posters throughout The Archives." loading="lazy" decoding="async"> Honcho's face censor. It has a chance to appear on posters throughout The Archives. Honcho posters." loading="lazy" decoding="async"> All 12 Honcho posters. Honcho's appearance during the 'You're Hired!' cutscene." loading="lazy" decoding="async"> Honcho's appearance during the 'You're Hired!' cutscene. Ditto, but pointing its arm to the right. Honcho's arm drawings texture." loading="lazy" decoding="async"> Honcho's arm drawings texture. Ditto, but the alternate version. Other Honcho's older model." loading="lazy" decoding="async"> A render of Honcho's older model. Ditto, but its oldest model. Honcho running, as shown in the 2026 April Fools presentation." loading="lazy" decoding="async"> A render of Honcho running, as shown in the 2026 April Fools presentation. Ditto, but cropped. Honcho busting open the door behind in The Archives Trailer." loading="lazy" decoding="async"> Honcho busting open the door behind Doors Manâ¢ in The Archives Trailer. Honcho walking in the Archives Trailer." loading="lazy" decoding="async"> Honcho walking in the Archives Trailer. Ransom
+Ransom
+INFORMATION
+Floors
+The Archives
+Damage
+75
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Fakeout Spawn Jumpscare #1 Jumpscare #2 (Source) Jumpscare #2 (In-Game) Jumpscare Riser Gold Spawn Gold Increase Paid Laptop Ambience Laptop Error Laptop Power Fail UI Error Monitor glitch noises
+Ransom is an entity that has a chance of appearing in The Archives from Sector A and above. It is a rework of A-90 .
+Appearance
+Ransom's main initial appearance is a pixelated, monochromatic face that is heavily distorted. Its eyes are fully black, and it appears to be looking slightly upwards. However it can contort its face to a gaping, horrifying face straightforward at the player when attacking.
+Its other notable appearance is a red, octagonal stop sign with a similar style to it, being pixelated and static.
+It features a bright red theme behind it, as seen in computer screens, screen pop-ups and its jumpscare through the trailers.
+Behavior
+If encountered, Ransom will proceed to show up on the attacked player's screen using its passive state, flashing the screen with red static and playing a glitch noise. To survive, the player must make zero walking, turning, crouching or item-changing inputs onto the game. If the player is successful, Ransom disappears from screen. If the player fails to do so, Ransom screams at the player, followed by a download bar that quickly downloads Ransom's "malware" which hijacks the affected player's UI.
+Several pop-ups fill the player's screen, along with the most notable pop-up displaying an image of Ransom crying. The text beside it reads "YOUR ITEMS HAVE BEEN ENCRYPTED" and "IF YOU DO NOT PAY THIS RANSOM BEFORE THE TIMER ENDS, YOUR ITEMS WILL BE UNRECOVARABLE BY ANY MEANS". The player's hotbar items are overlayed with the same red octagonal stop signs, and they cannot pick up or use any item while being ransomed. While any player is ransomed, all computer and television displays show a red static of Ransom . The affected player is given a timer of 01:30 minutes to collect 500 gold, as shown on the most notable pop-up. Chances of finding gold, and the rare Honey Pot scattered on the floor is increased at this time. However, the affected player cannot store any of this as the gold instead goes to paying for their ransom amount. The pop up will show the amout of gold needed left to pay for the ransom. If the player is successful in finding 500 gold, all pop-ups disappear and a single large pop-up displays the words "THANK YOU" with a green, octagonal thumbs-up logo. However, if the player fails at finding 500 gold before the timer runs out, Ransom will scream at the player, deal 75 damage and confiscate all the items from them.
+Notes
+When any player is being attacked by Ransom , all screens display its face, and the Teller 's screen will show a red screen with lines of code.
+Therefore when players encounter Ransom and the Teller concurrently, it is advised to count the number of doors passed to hand the ticket to it at the correct door, as there will be no visible indication of the room called while Ransom hijacks all displays.
+Journal
+Ransom's page in My Journal
+Ransom
+"Death feels like getting shoved into a deep pit"
+This entity looks similar to a human face... or like some sort of scary mask. It is able manifest either it's face or its hand in my direct vision
+When I see this symbol, I have to stop. If I don't, Ransom will force me to collect gold for it-otherwise it will hurt me
+Don't believe this entity possesses any intelligence. There are no signs
+When I am being attacked by this entity, I see what seem to be standard computer pop-ups. I am pretty sure these don't actually exist and are only in my head
+Trivia
+Ransom's name and behavior are a reference to a type of malware called ransomware.
+If Ransom's countdown timer appears while the player has a filled inventory, they will be unable to drop any items to pick up the Honey Pot and use it, consequentially forcing them to manually search for the remaining coins.
+During the countdown, all containers have a significantly increased chance to contain coins, making the ransom easier to pay.
+The Honey Pot that spawns because of Ransom's attack can only be found while the countdown is ongoing. Once the countdown ends, it despawns.
+However, if the player picks up the Honey Pot before collecting the last coins needed for the ransom, the Honey Pot will stay in the player's inventory, allowing the player to smash it and collect an extra 500 coins.
+Ransom can infect Noise , turning it into Hijack if you use the Disc .
+When this happens, Ransom can start appearing in The Stairwell , but with a different behavior.
+Ransom is the only Rooms entity rework to keep the same design as its predecessor, A-90 .
+Ransom's theme takes several samples from Salinewin, a destructive Windows malware.
+Gallery
+In-game Assets Other In-game Ransom visible while infecting a computer." loading="lazy" decoding="async"> Ransom visible while infecting a computer. Ransom appearing on a computer screen in The Archives trailer." loading="lazy" decoding="async"> Ransom appearing on a computer screen in The Archives trailer. Ransom seen on a ceiling monitor." loading="lazy" decoding="async"> Ransom seen on a ceiling monitor. Ditto. Ransom's jumpscare." loading="lazy" decoding="async"> Ransom's jumpscare. Ransom's timer popup." loading="lazy" decoding="async"> Ransom's timer popup. Ransom's face on a computer monitor." loading="lazy" decoding="async"> Ransom's face on a computer monitor. Ditto, but without a background. Ransom's popup window when you satisfy the 500-coin ransom fee." loading="lazy" decoding="async"> Ransom's popup window when you satisfy the 500-coin ransom fee. Ransom seen in the infected laptop in the room S-50." loading="lazy" decoding="async"> Ransom seen in the infected laptop in the room S-50. Ditto, but only the image. Assets Ransom's red face." loading="lazy" decoding="async"> Ransom's red face. Ransom's crucified face." loading="lazy" decoding="async"> Ransom's crucified face. Ransom's shout face. It can be seen on hacked computer monitors during Ransom's minigame, as well as when it occasionally flickers in and out on head." loading="lazy" decoding="async"> Ransom's shout face. It can be seen on hacked computer monitors during Ransom's minigame, as well as when it occasionally flickers in and out on Hijack's head. Ransom's jumpscare face." loading="lazy" decoding="async"> Ransom's jumpscare face. Ditto, but the alternate red version that flickers between the normal version. Ransom's journal illustration." loading="lazy" decoding="async"> Ransom's journal illustration. Ransom's stop sign icon." loading="lazy" decoding="async"> Ransom's stop sign icon. Ditto, but the version seen in the journal. Popup #1. Popup #2. Popup #3. Popup #4. Popup #5. Popup #6. Popup #7. It features a glitched version of the hacked computer's background image, seen in the S sector's hidden room. Popup #8. (Face) Popup #9. (Stop Sign) Popup #10. (Thank You) Popup #11. (Thumbs Up) Ransom displays on the Players screen when attacking." loading="lazy" decoding="async"> The vignette Ransom displays on the Players screen when attacking. Ditto but gif. Other Ransom's name shown in the 2026 April Fools presentation." loading="lazy" decoding="async"> Ransom's name shown in the 2026 April Fools presentation. Ransom ." loading="lazy" decoding="async"> A teaser of Ransom . Ransomâs Stop Sign." loading="lazy" decoding="async"> Ransomâs Stop Sign. Ransom being a bit visible during a frame of a teaser." loading="lazy" decoding="async"> Ransom being a bit visible during a frame of a teaser. Drone Not to be confused with Drone , the scrapped item .
+The Drones
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+INFORMATION
+Floors
+The Archives
+Damage
+5 (Non-Lethal) 30 (Stampede)
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Crowd Laugh A Crowd Laugh B Laugh A #1 Laugh A #1 (Rare) Laugh A #2 Laugh A #2 (Rare) Laugh A #3 (Rare) Laugh A #4 (Rare) Laugh B #1 Laugh B #1 (Rare) Laugh B #2 Laugh C #1 Laugh C #1 (Rare) Laugh C #2 Laugh C #2 (Rare) Laugh D #1 Laugh D #2 Laugh D #3 Laugh E #1 Laugh F #1 Laugh F #2 Laugh G #1 Laugh G #2 Laugh G #3 Laugh G #4 Laugh H #1 Laugh H #2 Laugh H #3 Laugh I #1 Laugh I #2 Laugh I #3 Laugh J #1 Laugh J #2 Laugh J #3 Laugh K #1 Laugh K #2 Laugh K #3 Laugh King #1 Laugh King #2 Laugh King #3 Laugh L #1 Laugh L #2 Laugh L #3 Laugh Slender #1 Laugh Slender #2 Nudge #1 Nudge #2 Nudge #3 Shove #1 (Normal) Shove #2 (Paper) Stampede Stampede Chatter
+Drones are entities that appear in The Archives .
+Appearance
+Drones take forms of shadowy-like humanoid figures in completely black and chalky silhouettes, varying in either a masculine, feminine, or neutral form, and are mostly seen idling in a casual stance, animated with two frames or more. They emit a circular soft shadow beneath them. Multiple drones with the same appearances can appear in the same room.
+Their faces are made up of colorful sticky notes that may have crudely drawn facial features, either eyes, a nose, and/or a mouth arranged to represent their face, with some of the sticky notes being blank.
+Some of them may have less sticky notes only covering fewer features, while some may have a cluster amount with a complete set of features or at an excessive amount such as an additional eye. The drawings on the sticky notes also vary in different styles, with one of the eye on one of them being the same eye from another entity in The Archives , though it is unknown if they are connected or simply foreshadowing one another.
+Behavior
+Drones spawn in random positions in rooms and occassionally vanish and reappear in a new spot. When a player pushes a Drone too far, they will knock the player over dealing 5 damage and laughing in their face. If the player is holding an item and gets knocked by a Drone , that item gets dropped.
+When the clocks located on walls strike 5:00 or 9:00, a distinctive chime can be heard from the speakers. This is very quickly followed by a horde of Drones that rush through the centre corridor of the room. If a player is caught by the hoarde, they get trampled, being dealt 30 damage and have a footstep mark on their face for a short while in the process. A stampede occurring will also alter the lighting, and can either make it a dim purple or foggy.
+Spawn chances for Drones in a room increases when there is a "pizza party" or "come grab a slice of pizza" event in a sector.
+Notes
+Always take caution when going to the next room, as there could be Drones standing right behind the door.
+Some of the doors in the Archives are see-through, so you can check if any Drones are standing directly behind the next door.
+Drones will always spawn in rooms decorated for pizza parties.
+Stampedes always take the shortest path to the next room.
+Players can easily avoid getting trampled in the rush by hugging themselves against the side walls of the room.
+While in some rooms there may be a path marked by the floor, this is misleading, as the stampede doesn't take that path.
+A stampede may hit you through furniture, even if it's a safe spot for entities like Bash or Scribbles.
+Singular Drones may appear in a bathroom stall.
+This drone is usually the largest variant overall.
+Walking very slowly into drones pushes them slightly away, making them also disappear a bit quicker.
+Journal
+Drone's page in My Journal
+Drone
+"Death feels like getting kicked and trampled by a group of people that are laughing at me . Embarrassing"
+Dark, humanoid creatures that cover their faces with various sticky notes. These things come in many shapes and sizes
+The Drones aren't inherently hostile unless I bump into them. I just have to keep my distance, and I'm fine
+These guys act like husks. While they look humanoid, they show no actual sings of intelligence
+When the clocks around The Archives strike either 5:00 or 9:00, a large group of Drones will run though the office I have no idea where they're all going.
+The nature of the Drones being inky creatures that cover their faces with small peices of paper reminds me a lot of Scribbles. Relation unknown if any.
+Seems these guys do the bidding of another entity named Honcho . It seems like Honcho keeps most of the Drones down in the mail room, where they just organize stuff all the time. Really weird.
+Trivia
+Numerous Drones take on the form of characters popular in mass media. Example's include but are not limited to Flowery and FRIEND from Deltarune, SOMETHING from OMORI, Hatsune Miku, ENA, and Kingpin from Spiderman, Into the Spider-Verse.
+It is possible they are or at least represent staff of The Archives , given the way how some of their silhouettes form work attires and how some of them are positioned near work stations.
+The clocks and speakers chiming at 9:00 and 5:00 is a reference to traditional office hours of working from " nine-to-five ".
+The Drones make an appearance in Doors' 4th anniversary tweet , wearing birthday hats and even one holding a fork. They have different expressions than they do in the trailer. There are also new variants that were not shown in the trailer.
+Drones cannot kill the player individually, but can be fatal when being trampled in a stampede.
+Drones can push you onto Tables.
+Gallery
+A Drone in the Archives Teaser with its face censored. Drones in-game. A Drone in a bathroom. A couple of Drones in one room. 2 Drones flying. Drone A #1. (Idle) Drone A #2. (Push) Drone C #1. (Idle) Drone C #2. (Push) Drone J #1. (Idle) Drone J #2. (Push) Drone M #2. (Push) Drone N #1. (Idle) Drone N #2. (Push) Drone Mail A. Drone Mail B. Drone Mail C. Drone Mail D. Drone Mail E. Drone Mail F. Rare Drone A #2. (Push) Rare Drone C #1. (Idle) Rare Drone C #2. (Push) Forget-Me-Not
+Forget-Me-Not
+INFORMATION
+Floors
+The Archives
+Damage
+40
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Outcomes Bloom ForgetMe ForgetMeNot Jumpscare Travel Travel Fail Sizzle (Source) Sizzle End
+Ambience Room Ambience
+Forget-Me-Nots appears in The Archives as a hostile entity.
+Appearance
+They appear as clusters of blue vines that entirely cover and block the doorway, featuring light blue flowers with yellowish eyeballs with a larger, main one in the center of the door. A blue vegetation similar to grass or thorns is noticeably on the floor in front of them.
+Its flowers can also emerge from walls or ceiling around the door it is covering, which can grow and shrink.
+Behavior
+Forget-Me-Not can appear in any sector from Sector B onwards. It cannot appear in Sector A.
+Forget-Me-Not is an entity that has a mini-game similar to that of Exit-8, where the player must memorize a completely normal room, then traverse through multiple rooms while checking if anything in them has changed or not.
+When Forget-Me-Not spawns, the room before its actual room will always be a small room with two escalators, the left one moving down to the next numbered door, and the right moving upwards.
+When the player enters Forget-Me-Not's actual room, it will resemble a metro station. Forget-Me-Not will be blocking the way through the next door. To pass through, you will need to look at 6 of Forget-Me-Not's little flowers that are scattered through the room. Once done, the big flower on the door that Forget-Me-Not is blocking will disappear.
+Before entering the next room, all players should take a good minute or two to memorize the room. While every player is in this room, the clock will not tick down, even if no one is looking at one.
+When a player interacts with Forget-Me-Not, they will push through them as if they were going through very thick tall grass, and end up inside Forget-Me-Not's mini-game. Each player has their own space inside Forget-Me-Not, and each player's space will almost never be the same as another players space, so never listen to your friends when they say what is different on their side, because it will seldom be true on yours (the anomalies are client-sided).
+Each player must look around the room and try to spot any differences from the room they are in. If something is different from the real room, the player should backtrack. If nothing has changed, the player should move forth. If the player tries to go back when nothing changed, or go forth when something has changed, Forget-Me-Not will use its flowers to bite the player, taking away a good chunk of health. The total number of rooms you need to go through is not known, but assumed to be between 3-4.
+When inside Forget-Me-Not, the clock continues to tick down, but the horde of drones does not pass through the metro station and does not hurt the player.
+Notes
+Alma is able to spawn in the metro station.
+Trivia
+They resemble the real-life flowers Myosotis, otherwise known as "alpine forget-me-nots".
+As such, it is possible that this genus of flowers may actually hold unique properties that allows the ability to prevent memories from being forgotten in The Archives .
+This flower is also the state flower of the U.S. state Alaska.
+As due to the extreme similarities, its most likely that the forget-me-not's mechanic is a reference to Exit 8, a horror videogame where the player walks through a hallway and if there is anything different from the last, they turn back until they go to the 8th exit.
+The signs in the Metro are in wingdings and translate to "towards" and "against"
+Gallery
+Small Versions of the Forget-Me-Nots shown in the The Archives Update teaser. A close-up view of the small ones. Doors Manâ¢ interacting with the small ones. Ditto, but animated. The Forget-Me-Nots shown in the Archives Trailer. The first Forget-Me-Nots encounter room seen from the doorway. Ditto, now with the train visible. An Anomaly where multiple objects in the room turn into a pinkish red. Lime for the wet floor sign. A player who died to The Forget-Me-Nots. A bug where Forget-me-nots spawn otside their room Ditto, but the door Teller
+The Tellers
+Normal Blue Aggressive Inactive Normal
+Blue
+Aggressive
+Inactive
+INFORMATION
+Floors
+The Archives
+Damage
+50
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Activated Idle #1 (Flail) Idle #2 (Hair) Print Ticket Take Ticket Take Ticket End Roll Loop Increase Increase End Serving Riser Angered Angry Chase Closet Attack Attack Kill Eat Ticket Deactivate
+The Tellers are entities in The Archives .
+Appearance
+These entities appear to be a humanoid with its head being a TV monitor. On the top of its head are electrical plugs connected by wires hanging down, in a way that resembles hair. They wear a dark trenchcoat, and their right hands being a ticket puncher It appears to have a base with casters in place of its legs, possibly similar to an office chair.
+They appear completely stationary and idle in front of a door. Its head displays a number with the text "Now serving" above it.
+Behavior
+The Tellers will always spawn in a unique room with a long, snaking but empty queue line. The Tellers will be standing at the next door in this room, blocking the way through. When the player first enters this room, the Teller powers up.
+When a player walks up to The Tellers, it will print a ticket in their mouth, take it out, and hold it out to the player. The player must take this ticket. If multiple people are present, Teller will print out each players respective ticket one at a time. Each ticket printed will always be a higher number then the last.
+Once every player has a ticket, The Tellers will move out of the way and stand next to the door. Every time a new numbered door is opened, The Tellers will move through it and go stand next to the next numbered door, then increase a number on it's screen. Every roof or wall monitor will also show the number that The Tellers has.
+Once The Tellers reach a number that any player has on their ticket, it will block the following door. The Teller' s screen will then start to fill with a red color over the course of 7 seconds. The player with the same number ticket as Tellers' number must hand over their ticket to the Tellers . If the ticket is not handed over by the time their screens are fully red, The Tellers will chase the player.
+The player can hide in a closet to avoid The Tellers if The Tellers are in chasing mode. If the player is in a closet, The Tellers will walk up to the closet, take the player's ticket, and power off without dealing any damage to the player.
+The player can dodge the The Tellers in chasing mode eventually allowing the door to open. However, the tellers eventually will catch up no matter what and it will be faster.
+Multiple Tellers can spawn in a sector but not when there's an active teller.
+Interactions with other entities
+When the Tellers comes into contact with a ForgetMeNot door, the flowers will cover it.
+When Ransom is active, The Tellers' screens will become red and corrupted, showing Ransom's pop-ups.
+If Bash or Scribbles spawn while the Tellers is active, they are able to open the next door, and increase the The Tellers' number. This could be dangerous for the player because Teller's countdown may start while the player is still hiding in the last room.
+It is possible for more than one Teller to be active at once, causing the player to have to keep track of multiple tickets. This will also change the color of the second Teller to yellow, third Teller to green, and the fourth to aqua/blue. There is a bug where if a teller ends the door before another teller, the next teller will transfer to the next color while never having two tellers present at once.
+Journal
+(Red, wiped text) axyjcjp sb dtgx aicr y kjrgt sqidq ifwgndxap
+(Visual description) This entity looks like a mannequin on wheels, with a queue screen on its face and a holepunch for a hand
+(How to succeed) Gives me a ticket with a number on it, and follows me. Once the number on the entity's face is the same as the one on the ticket, I have to turn in my ticket. Otherwise it attacks me
+(Behaviour) Movements seem almost programmed... I don't think this thing has a consciousness at all
+Notes
+TBA.
+Trivia
+If a player's Teller number is called in the room with Forget-Me-Nots
+To work out what room the ticket is needed in, you can use this formula.
+Room
+=
+Ticket Number
+â
+Now Serving
++
+Current Room
+{\displaystyle {\text{Room }}={\text{ Ticket Number}}-{\text{Now Serving }}+{\text{Current Room}}}
+Gallery
+Alt render of the aggressive Teller. A render of Teller with Ransom on its screen. A render of a second Teller. Teller Ingame, holding a ticket. An deactivated Teller as it appears in The Archives Trailer. Teller's jumpscare. Ditto, but static and cropped. Yellow version of Teller. Ditto. Notice the second Teller. Ditto, but Green. Ditto, but Cyan. Teller with Forget-Me-Not flowers on it. Ditto. An Orange and Red Teller with Forget-Me-Not flowers on them. An aggroed Teller that is glitched and trying to chase the player but can not move. Three Tellers in one room. Bash
+Bash
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Cue Rumble Far Close
+Bash is an entity in The Archives and is a rework of A-60 .
+Appearance
+Bash' s render is similar to A-60 .
+When comparing the two representations of Bash, we see a distinct evolution between the in-game model (in game) and the stylized journal sketch (in journal).
+In the in-game screenshot (in game), the entity is presented in an overwhelming crimson hue, matching the description of a "more red" face. The key features are intense and dramatic: eyes that burn with blinding, fiery energy, dynamic and complex fire effects, and a wide maw filled with glowing teeth. The facial structure is defined, but the color saturation is extremely high, dominating the scene.
+In the journal sketch (in journal), the representation is more schematic. The entity is drawn with a pale tan or dark orange appearance, displaying a deeply angry expression with distinctly drawn teeth and eyes blazing with stylized fire. The text accompanying this image explicitly confirms it is an "Orange entity" with "fire bursting from its eyes." This version is a more subdued, graphic interpretation of the 3D model seen in-game.
+Behavior
+Bash's behavior is similar to Rush 's behavior, but has several key differences.
+Before the entity's appearance, a distant roaring noise can be heard that grows louder as the entity nears the room the player is in. Upon its arrival from previous rooms, Bash rushes through the main corridor of the rooms, despawning at the end of the following, unoccupied room. The entity is also significantly fast, going almost double the speed of Rush.
+While the entity is present, players will need to find a safe space to hide in. This includes lockers , within the walls of enclosed desks, or in separate side rooms. However, if they fail to do so, Bash sets them of fire, dealing 35 damage in the process. If a player is standing on either carpet or grass (botanical sections), Bash can still do fire damage even if they are not in his direct line of sight.
+Using exploits, you can see that Bash is crucifiable, however it has no animation for getting crucified.
+Journal
+"Painful death. Feels like getting hit by a truck of molten lava"
+"Scarlet colored entity that looks very angry. Has fire bursting from its eyes, and shows a shiny set of teeth"
+"I have to listen very carefully for this entity. It is very fast, and attacks suddenly. Simply hiding will keep me safe "
+"Most likely unintelligent. Just mindlessly charges forward"
+Ranked Low Intelligence and High Danger
+Notes
+Unlike Rush , players simply need to be in safe spaces and can still be within Bash's line of sight. Bash is the rework of A-60.
+Bash always spawns in the first room of the sector before rushing through. This means players will have ample time to find a locker or a safe spot if it comes near the last few doors, but will have very little time to react to its attack in the first few doors and will likely get hit.
+Trivia
+Bash's rework from [The Rooms] to [The Archives] was done to fully integrate lore with DOORS game and discourage any connection between this game and Nicorocks5555's ROOMS.
+The head might be based off of Red from Godzilla NES
+Gallery
+In-game Assets Other In-game Bash's red glow/indicator seen in the background." loading="lazy" decoding="async"> Bash's red glow/indicator seen in the background. Ditto. Bash as seen in the trailer. It appears more orange compared to its in-game counterpart." loading="lazy" decoding="async"> Bash as seen in the trailer. It appears more orange compared to its in-game counterpart. Bash's old journal page." loading="lazy" decoding="async"> Bash's old journal page. Bash's current journal page." loading="lazy" decoding="async"> Bash's current journal page. Bash seen from a window with its face seen clearly." loading="lazy" decoding="async"> Bash seen from a window with its face seen clearly. Bash rushing through a room." loading="lazy" decoding="async"> Bash rushing through a room. Assets Bash's original face from The Archives trailer. (ID: &lt;a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://create.roblox.com/store/asset/135209392869015/Texture"&gt;135209392869015&lt;/a&gt;)" loading="lazy" decoding="async"> Bash's original face from The Archives trailer. (ID: 135209392869015 ) Ditto, but the body. (ID: 95647498855808 ) Bash's full trailer face." loading="lazy" decoding="async"> Bash's full trailer face. Bash's old journal illustration" loading="lazy" decoding="async"> Bash's old journal illustration Bash's Head Sprite." loading="lazy" decoding="async"> Bash's Head Sprite. Ditto, but animated. Bash's Face sprite." loading="lazy" decoding="async"> Bash's Face sprite. Ditto, but the full sprite sheet. Bash's full face animation." loading="lazy" decoding="async"> Bash's full face animation. Bash's current journal illustration." loading="lazy" decoding="async"> Bash's current journal illustration. Other Bash shared by NormallyAve." loading="lazy" decoding="async"> An early design for Bash shared by NormallyAve. Scribbles
+Scribbles
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Ambience Wind Close
+Scribbles is an entity in The Archives. It is a rework of A-120 . [ 3 ]
+Appearance
+In the April Fools presentation teaser, its render is cropped out, but a piece of paper with an eye is hung up on the wall, while presumably effects of papers being flown can be seen in the room.
+They appear to be made from a cluster or sheets of papers. In addition to this, several papers with eyes or faces scribbled on them have been seen scattered around in parts of The Archives. These are likely indicators of the entity(ies), and are possibly parts of it or them, or are just simply papers that were drawn by the entity(ies).
+Behavior
+It is unknown what sector this entity starts to appear at, but the earliest recorded is at Sector B.
+Scribbles will spawn after opening a door that leads to a special room. This room is always covered in papers that Scribbles has drawn on. After opening the door, every players screen will begin to shake for a couple seconds before Scribbles comes from the front doorways like A-120.
+While Scribbles passes by, it will fling papers across the entire room. If a player is in its line of sight, they will take damage at a fast rate, most likely from paper cuts. However, Scribbles papers only have a limited range. So, if you get a long-long-long hallway you can dodge Scribbles by going down far into the hallway.
+Standing behind a wall, large enough pillar, or hiding in a closet are all viable options to avoiding this entity.
+Attempting to open the door that Scribbles behind will result with the game explaining it's locked (Something is blocking the door)
+Notes
+Scribbles is the re-work of A-120. Scribbles will stay in the room if the player is in Scribbles' line of sight. If the player is not in Scribbles' line of sight, Scribbles will continue onto the next room.
+Trivia
+Scribble's name is a reference to the original A-120 (A-200)'s original name, The Happy Scribble.
+Gallery
+Scribbles partially shown in the 2026 April Fools presentation." loading="lazy" decoding="async"> Scribbles partially shown in the 2026 April Fools presentation. Scribbles ." loading="lazy" decoding="async"> A piece of paper left by Scribbles . Ditto. Scribbles's paper." loading="lazy" decoding="async"> The eye present on Scribbles's paper. Scribbles face (unused)." loading="lazy" decoding="async"> First layer of Scribbles face (unused). Scribbles eye (second layer)." loading="lazy" decoding="async"> Scribbles eye (second layer). Ditto (third layer). Scribbles face." loading="lazy" decoding="async"> Fourth layer of Scribbles face. Scribbles face." loading="lazy" decoding="async"> Fifth layer of Scribbles face. Scribbles as seen in-game." loading="lazy" decoding="async"> Scribbles as seen in-game. Every possible paper texture. One of Scribbleâs faces on its papers. Scribbles first arm texture." loading="lazy" decoding="async"> Scribbles first arm texture. Scribbles second arm texture." loading="lazy" decoding="async"> Scribbles second arm texture. Scribbles ink texture." loading="lazy" decoding="async"> Scribbles ink texture. Scribbles Journal Page." loading="lazy" decoding="async"> Scribbles Journal Page. Scribbles passing through a room." loading="lazy" decoding="async"> Scribbles passing through a room. Alma
+Alma
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Crying Curious Idle Appear Spotted Windup Attack #1 Attack #2 Attack #3 Vanish
+Alma is an entity that appears in "The Archives".
+Appearance
+Alma presents as a dark humanoid figure that appears to resemble a young adult or adolescent. She is entirely in grayscale and surrounded by black shadows. She has pale skin, black hair, and is covering her eyes with her hands.
+When attacking the player, Alma uncovers her eyes and seems to be crying. Her arms stretch out towards you and her mouth opens, emitting a high pitched screaming noise.
+Behavior
+Alma spawns beginning at Sector J in The Archives.
+Alma is guaranteed to spawn at some point in each sector after the player's first encounter with her. Alma will always spawn in a special room, usually early into the sector. Several rooms before her actual room, crying/weeping can be heard up ahead. It starts out quiet, and the closer the player is to Alma's room, the louder it will get. Upon reaching Alma's room, the crying sound will change to a different crying sound.
+Alma's room is very dark. Players walk into the room onto a small upper level that wraps around half the room. Alma can be seen sitting in the center of the room, surrounded by what seem to be dead Drones, under a single light. When any player walks down the stairs and onto the floor that Alma is on, Alma will look at the player, before disappearing.
+Alma will almost always spawn at least once per sector. She can spawn at anytime during the sector as well. When Alma spawns, she will be out of view from the player. Crying sounds can be heard from Alma while she is active. Alma will circle around the player in an attempt to be seen by the player. A good way to avoid looking at her is by looking down at the floor and turning away from Alma when she tries to move into focus. If the player looks at Alma for more than a second, she will become enraged. If the player can avoid looking at Alma for long enough, she will eventually fade away.
+When Alma becomes enraged, it will become aggressive and attempt to dash at the player, doing this about 3-5 times before disappearing. If Alma catches the player with a dash or they enter a closet, a minigame similar to Figure's closet minigame will occur where you have to tap to keep an eye icon within a growing/shrinking eye icon, after a bit it will disappear. If the eye icon gets out of the boundary in the minigame, Alma will deal continuous damage that can be potentially fatal.
+Trivia
+If Alma spawns before the Honcho sequence, she may appear during it, causing massive issues.
+The word "Alma" means "apple" in Hungarian, Turkish and Kazakh, and "soul" in Spanish and Portuguese.
+Gallery
+In-game Assets In-game Alma's jumpscare. Assets Journal Illustration. Sitting. Sheet #1 (Sitting). Sitting Hand #1. Sitting Hand #2. Sheet #2 (First Spawned). Sheet #3 (Idle). Idle Hand #1. Idle Hand #2. Sheet #4 (Pre-Rushing) Sheet #5 (Rushing) Rushing Hand #1. Rushing Hand #2. Closeup #1. Closeup #2. Closeup Hand #1. Closeup Hand #2. Jumpscare #1. Jumpscare #2. Jumpscare Hand #1. Jumpscare Hand #2. Jumpscare Hand #3. Jumpscare Hand #4. Alma 2024 design. Portrait
+Portrait
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Music SFX
+Portrait is an entity in The Archives which only appears under certain circumstances.
+Appearance
+Under its disguise , it looks exactly the same as the player's avatar.
+Portrait's true appearance is a gray Roblox avatar with concrete-like texture. Its eyes are two simple black dots and has a nose protruding out of its face.
+Behavior
+Portrait permeates in the mirrors throughout The Archives' s bathrooms. In this form, it looks identical to the player and will mimic their behavior, including: moving around, holding items, looking around, etc., giving the illusion of a normal mirror. However, when the player stares at the mirror for around 20 seconds, the mirror will begin to crack, revealing its true appearance. After the animation is done, Portrait will completely disappear from that mirror and the crack will disappear.
+From this point onward, Portrait will have a chance to appear outside of the mirrors under its true look and copy the players' actions. When it holds an item, that item will also have the Marble Material applied on it. In this state, it is completely harmless, even if the player decides to walk into it or try to interact with it in any ways. It has a chance to disappear if it escapes the player's view.
+While Portrait is mimicking the player holding an item, holding the interact button on Portrait's item will cause it to manifest into reality, duplicating the player's item. This can be done twice before Portrait shatters into pieces and is removed from the room. Portrait will stop appearing after this.
+To unlock the "Annihilation" badge, the player must activate Portrait in a mirror at The Archives and then get back to The Hotel. Only when back at The Hotel, try to use the Portrait to duplicate the Crucifix.
+Notes
+TBA
+My Journal
+TBA
+Trivia
+Using the Crucifix on Portrait used to drop both a Pocket Mirror and another Crucifix , this has been patched to avoid infinite item dupe.
+There is a rare chance that Portrait may copy your avatar. The items held by it are not affected.
+If the player enters the elevator at Door 100 with Portrait, the entity will copy the player's animations during the cutscene while looking at the 3rd person camera during the cutscene. This may be a bug.
+If you are holding a Crucifix , Portrait will stare at it constantly and will try to move away whenever you try to interact with him while holding the Crucifix .
+This might imply that Portrait is smart enough to know what it does.
+Gallery
+Alt render. Ditto. Portrait when the player looks at a mirror for too long. Portrait copying the player's held item. Portrait disguised as the player's avatar. (One of the hats have the same texture of Portait) Ditto, but while holding a pizza (Notice how the pizza is uncolored but the rest of the body isnt) Portrait's UGC head looking at the player in the lobby Portrait whenever the player holds out the Crucifix . Ditto, but closer. Fih
+Fih
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Fih are passive entities in The Archives.
+Overview
+Fih, like Caws, are decorative entities. They are supposedly one of the most important entities in the game [ 4 ] . They appear in Fih Tanks across the Archives, and are based on fih. Through the Journal, Fih are implied to be (or similar to) real fish rather than plastic toy fish.
+Several rooms in the archives contain Fih Food, which can be given to them for an achievement that unlocks their journal entry.
+Almost every room containing Fih will have Fih Food. In some cases there will be an absence of Fih Food, but this is a rare occurrence.
+Fih also seem to be content with existing.
+Journal
+"Strange little aquatic entities found in around The Archives. Seem to be content with existing.
+These creatures seem to be made out of some plastic-like material , and come in a few different colors. They're kinda cute.
+Likely have no intelligence. These act more like wind-up toys than entities... they just swim in circles"
+Gallery
+Fih's Journal entry A Fih Tank after a 5:00 Drone Hoard A Fih Tank in complete darkness
+Non-exclusive Entities
+Starlight (starlight) - A death messenger to the player after dying to any entities .
+Glitch - Acts as a failsafe and attacks players that are lagging too far back from the rest of the team when in multiplayer.
+Glitch Fragment Entities - Glitched variations of Screech , Rush and Ambush that appear when interacting with a Glitch Fragment .
+World Lotus - Appears in a special room if players are revived with a Lotus . [ 5 ]
+Hazards
+Currents
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Overview
+Currents are hazards that are encountered starting in sector B. They appear as puddles of water scattered next to outlets on the floor, and electric currents surge through them at a constant rate. The electric currents deal damage to the player if they are standing in a puddle when they go through the water, and the puddles make your player slide a little bit. This makes it very difficult to change direction when moving through the puddles. The only way to avoid being electrocuted by currents is going through the puddles between the currents' arrival.
+Gallery
+A player who died to Current.
+Interactables
+Shakelight Vending Machine Water Cooler Trash Can Printer Shakelight Vending Machine
+Shakelight Vending Machine
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Overview
+The Shakelight Vending Machine is an interactable found across the Archives that allows the Players to obtain a Shakelight for the price of 10 Gold . Unlike the previous Shakelight Dispenser in The Rooms , every Player needs to spend its own 10 Gold to get one for themselves. Water Cooler
+Water Coolers
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Overview
+Water Coolers appear as a typical office break room water cooler. Using combos of the same two types of water, or any amount of purple poison, will damage you. Mixing cold water and hot water will heal you a tiny amount of health, about 20-30 per water cooler. Trash Can
+Trash Can
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28,2026
+Overview
+The Trash Can is a Interactable that deletes your items upon usage.
+Currently, you can use this with the Tip Jar, Pizza, Bread and Cheese. Printer
+Printer
+INFORMATION
+Floors
+The Archives
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Overview
+The printer is a interactable that allows players to print out black and white images of their items appearences on the hotbar.
+To use the printer, you must hold out the item you want to print an image of, and then interact with the printer.
+When an item is placed into the printer, the printer will play a short animation before letting you pick up the item again.
+Using the printer for the first time will grant you the Unpatched Dupe Glitch .
+The item is not deleted in the process.
+Most items can be placed inside the printer, but there are a few items that the game will not let you place inside the printer.
+Said items are proven to be the following:
+Waiting Ticket
+Buddies
+(this tab is a stub. more info needed)
+Room Mechanics
+Elevators take certain amounts of gold ( 100, 125, etc. ) to skip a sector and proceed to the next (example: going from A to F), costing 100 gold in the first upgrade and increasing the next ones by 25% of the previous amount (e.g. 125 to 156 instead of 125 to 150), but only in that sector. Closets function as a chest, containing books that are tossed out once interacted with, and also sometimes rewarding Gold, Stardust, and/or items such as Paper Airplanes, Bandages, Pizzas and Lunchboxes. When the books are thrown out, the closet's doors become slightly ajar and it functions as a regular hiding spot.
+Guaranteed Rooms
+The entrance (spawns at A-001), Sector entrance (B to Z-001), the elevator (A to Y-050), and the exit (Z-050). This content has spoilers for a secret badge in the Archives . S-050 ((The elevator including vacuum in a secret area and archival storage). When interacting gives you the "WHO AM I" badge.)
+Trivia
+There is an easter egg in one of the room of the Archives, a skeleton hidden behind a wall .
+The Archives has a bit of important lore setup for Floor 3 and the main overarching story. [ 6 ]
+The main reason for the replacement of The Rooms with The Archives is to increase the floor's replayability, as the developers and the community thinks that The Rooms had a very dull and unexciting gameplay. [ 7 ]
+Another reason is to disprove theories about DOORS and nicorocks5555 's Rooms being connected, and to fully add The Archives into the game's canon. [ 8 ]
+The floor was originally planned to release in November 2025, however as the team decided to change the way they release updates, the major update was moved ahead to early 2026 before being delayed again to August 28, 2026.
+The teasers which were shown as old VHS footages, with realistic first person view movements and the eeriness of the rooms were inspired by Kane Pixels' Backrooms series. [ 9 ]
+Interestingly enough, sectors with classification of "Structural Anomaly" shows that most of its rooms have structures similar to that of Kane Pixel's depiction of the Backrooms.
+One of the rooms shown in the game was inspired by SCP Containment Breach, which was suggested by jasper_creations to RediblesQW . [ 10 ]
+Any planted Lotuses in The Rooms were moved to T-005 of The Archives when it released. [ 5 ]
+A Lotus Room in the Archives will have a special terminal with the Lotus learning language.
+Rooms from The Archives can be seen in the Thingies and Lucky Bundles ' showcase videos.
+As shown in game, The Archives have more of a cooler blue tone as compared to the light grey theme The Rooms had.
+The previous achievement Roomy (used to be obtained from entering the Rooms ) is now moved to the Legacy section in the achievement page.
+Many of the soundtracks in game will likely be released on Spotify in the future.
+The soundtrack for r4nsom, called Encrypted, is probably inspired from salinewin.exe, a dropper/trojan style malware that was not an attack that forced its way onto people's computers but rather a file that you can download that clearly stated it is malware and would destroy your computer. As it destroyed your computer, it would make a cool beat. Since this is probably the most famous malware that made a really cool beat, it was likely the inspiration for Encrypted.
+For the trivia above, these "cool beats" are called bytebeats.
+Room S-50 and the ending of the Stairwell reveals that both floors used to be connected in some way. However, they were seperated by the vacuum.
+The Archives is a rework of The Rooms subfloor.
+r4nsom and Portrait are the only entities that can spawn outside the Archives without the Admin Panel (r4nsom only in Stairwell).
+The Terminals in The Archives may be based on the Minitel Terminal as they bear resemblance and the drones use it to communicate via "D#######> Text" similar to how a Minitel would work too.
+Bugs
+If the player is affected by the r4nsom effect and is killed by a different entity, the r4nsom pop-up remains on the screen and does not disappear.
+A r4nsom attack can sometimes cause certain sounds to stop playing (such as doors opening, lockers opening, damage). This is fixed when r4nsom attacks again.
+If you die in the Ventilation Error variant, the fog will appear in the Starlight death screen .
+Locations [ 1 ]
+Metro Station
+The metro station is a room containing Forget-me-nots. It has a subway on the right of the room along with two sets of two signs showing the player where to go if an item is there or not. It also has sets of blue chairs and a big sign on the left to show the player where to go just like the signs on the ceiling. The changes for the metro station puzzle are a different floor, flipped over train, floating chair set, or ceiling signs missing.
+Archival Storage
+This content has spoilers for a secret badge in the Archives ..
+S-50 has this side room called "Archival Storage" which is a storage room containing rows of document boxes. An adjacent Vacuum opening, originally connected to The Stairwell , leads to the 'Who Am I?' badge cutscene. Said cutscene will portray the Player blacking out and waking up to reveal that they went insane, scribbling on dozens of sheets of paper scattered across the room. Archival Storage also has a side room that contains an old laptop with the original Ransom virus on it, of which can be ejected as a CD to obtain as an item. This CD can then later be used in The Stairwell on one of Noise 's TVs to infect it with Ransom, spawning the entity Hijack, which will get the player the REDACTED badge. Note: Doing this will also allow Ransom to spawn in The Stairwell if the player then survives and escapes the landing where they spawned Hijack.
+There is a sign that points to the Archival Storage in room A-000.
+Z-50
+This content has spoilers for the ending of the Archives ..
+Z-50, is the true ending and Last door of The Archives . It is room 1300 of the Archives. It is one of the biggest rooms in this floor due to the large void-like area, where it contains a large part of it broken off and leading to an exit door, with a brick stair (similar to the one found in the Lobby , highly speculated to be the entrance for Floor 3 due to similar textures (although this isn't confirmed) leading to a blue portal, the end of the archives, along with the Suitcase . Entering the portal will bring the player back to The Hotel as it is the end of the Archives.
+If you did Star Employee earlier in the run, Honcho can be seen bowing down to Starlight once you reach this room.
+A-000
+A-000 is first entrance and the spawn room of the Archives. A hidden entryway room in the secret maze sub-room of The Hotel at Door 60 requires a Skeleton Key and 2 Lockpicks , which is how you access the Archives without doing it straight from the Hotel.
+Soundtracks
+Some soundtracks can be found either on the official game or on the Roblox Creator Store or Inside of the Game.
+No.
+Title
+Criteria
+Duration
+BPM
+Key Signature
+Track
+1.
+Elevator Travel (conjecture)
+Plays when entering any sector through an elevator. Depending on the sector variant, one of these 4 versions will play.
+0:32 (normal)
+0:34 (overgrown, pizza, weird)
+80 BPM (normal, overgrown, pizza)
+115 BPM (weird)
+D minor (normal, overgrown, pizza)
+G minor (weird)
+Normal
+Overgrown
+Pizza
+Weird
+2.
+Starlight Ambience (conjecture)
+Plays when near any fire escape, as well as when near the portal located at Z-50 .
+0:48
+148 BPM
+D#/Eâ­ Major
+Ambience Loop
+3.
+77,825 Days
+Plays when viewing the Terminal Computer in Honcho's office.
+1:46
+78 BPM
+D minor
+Official Soundtrack
+In-Game Soundtrack
+Phase 1
+Phase 2
+4.
+You're Hired!
+Plays in the " You're Hired " Short video at the start of the Honcho's boss fight.
+1:29
+120 BPM
+D minor
+Official Soundtrack
+In-Game Soundtrack
+5.
+Let's Get To Work
+Plays during the Honcho's boss fight.
+2:53
+70 BPM
+D minor
+Official Soundtrack
+In-Game Soundtrack
+Office Cutscene (Full)
+Office Cutscene (Outro)
+Landing Cutscene
+Phase #1
+Phase #2
+Phase #3
+Outro (Win)
+Outro (Fail)
+6.
+Flashback (conjecture)
+Plays during the 'Who Am I?' cutscene in the Archival Storage at S-50 .
+0:18 (Tension)
+0:48 (Music & SFX)
+119 BPM
+Aâ­ major (Tension)
+D minor (Music)
+Tension (Unused)
+Music
+SFX
+7.
+Reconnecting
+Plays when accessing the laptop located at the Archival Storage at S-50 .
+1:26
+150 BPM
+D minor
+Official Soundtrack
+In-Game Soundtrack
+Phase #1
+Phase #2
+Outro
+8.
+Forget Me Not
+Plays during the Forget-Me-Nots memory section.
+1:00
+132 BPM
+B minor
+Official Soundtrack
+In-Game Soundtrack
+9.
+R4NS0M
+Plays during Ransom's Ransomware minigame.
+1:23
+110 BPM (official soundtrack)
+115 BPM (in-game)
+E minor (official soundtrack
+Câ¯ major (in-game)
+Official Soundtrack
+In-Game Soundtrack
+Layer #1 (in-game)
+Layer #1 (source)
+Layer #2 (in-game)
+Layer #2 (source)
+Layer #3 (in-game)
+Layer #3 (source)
+Riser
+Paid
+10.
+Irresistible (conjecture)
+Plays when Alma is spotted by a player.
+0:13
+70 BPM (Curious)
+107 BPM (Active)
+A minor (Curious)
+D minor (Active)
+Curious Loop
+Active Loop
+This audio file is hosted under a free license. It is made available under the Creative Commons Attribution-ShareAlike 4.0 license, the same terms as the source wiki. All audio remains the property of its original creators and the game's developers.
+Related Achievements
+Forgotten Memories
+Something about this place feels like it should mean something to me... Enter The Archives.
+Emergency Exit
+I think I'll call it here. Escape The Archives using an Emergency Exit
+Z-50
+Better than using the treadmill. Escape The Archives at Z-50
+Most Valuable Employee
+I hope I get a promotion! Successfully organize the Mail Room.
+CD-1
+I wonder where i can put that. Getting the CD-1 in S-50
+Star Employee
+Do you know how long it took me to get that? Successfully organize the Mail Room after giving Honcho something it shouldn't have.
+Now Served
+Your serving, queen! Successfully survive the Teller.
+Perfect Memory
+I can remember plenty of things. Successfully outsmart the Forget-Me-Nots.
+Shock Hazard
+This place is a mess. Successfully survive a Currents hazard.
+Witness Pretection
+I swear I didn't see anything! I swear! Resist looking at Alma.
+Carpet Burn
+Ouch! That Burns! Successfully survive Bash.
+Limitless Paper
+The Paper People's Personal Purgatory Successfully survive Scribbles
+Crowd Watching
+Im late for work! Successfully avoid a stampede of Drones
+Firewall
+Don't try that with me. Successfully avoid or disable Ransom.
+Gold Standard
+Drowning in MONEY! Find and use a Honey Pot.
+Quick Purchase
+They're out of my favorite soda! Use some loose change to purchase a Shakelight.
+Unpatched Dupe Glitch
+Quick! Before it's patched! Use a printer to scan and print an item.
+Fih Are Friends
+Women fear me. Feed the Fih.
+Pizza Time
+I'm not paying for those. Have a full hotbar of Pizza.
+It's Still You
+Despite everything. Stare at your reflection for too long.
+Bad Luck
+What's 7 more years? Beckon Portrait with a Pocket Mirror.
+Smashing Deal
+Now THATS an offer! Bargain with Portrait.
+REDACTED
+REDACTED Watch, and create a new entity.
+Who Am I?
+Of course I remember my own name... Try to remember.
+Bugs
+When a player with a buddy opens a cupboard with golds inside, then fling aside the items out, the buddy can be seen floating out of the player's inventory while the model is broken in a half second.
+Portrait can sometimes phase through the floor, this can happen when you looked down as Portrait spawns.
+Gallery
+Teaser/Trailer Videos Teaser Images In-Game Assets/Decorations Teaser/Trailer Videos The Archives Update teaser. A teaser for Ransom, a rework of A-90. A teaser previewing a waiting room. A teaser of Doors Manâ¢ holding a camera. An Admin Panel update teaser shared by Jasper_creations . The Archives Update trailer." loading="lazy" decoding="async"> The Archives Update trailer. Teaser Images The Archives. " loading="lazy" decoding="async"> The preview video for the Lucky Bundle showing a room of The Archives. Ditto, but a still frame. The Archives. " loading="lazy" decoding="async"> The preview video for the Thingies Bundle showing a room in The Archives. Ditto, but a still frame. Ditto, but with higher FOV (due to using the Vitamins ). The Archives shown in the trailer." loading="lazy" decoding="async"> A room in The Archives shown in the 2026 April Fools Event trailer. Ditto, but cropped. The Archives shown in the trailer." loading="lazy" decoding="async"> Another room in The Archives shown in the 2026 April Fools Event trailer. Ditto, but cropped. A room of the Archives shown in Devlog 64. A teaser revealing 2 out of 7 entities for the Archives in the 2026 April Fools Event trailer. The thumbnail for The Archives Update teaser, showing a TV with static on a metallic surface. Noise's hand shown in The Archives Teaser Forget me nots shown in The Archives Teaser Drone 1 in The Archives Teaser Possible New Entity shown in The Archives Teaser at 0:36 A list of new developers on the team with the Archives in the background. despite everything video." loading="lazy" decoding="async"> Doors Manâ¢ waving at himself while holding a camera in the mirror in the despite everything video. The Archives shown in one of 's Twitter posts, showing the ability to sit on a chair and an item that's probably a lunchbox." loading="lazy" decoding="async"> A room in The Archives shown in one of Jasper 's Twitter posts, showing the ability to sit on a chair and an item that's probably a lunchbox. A room in the Archives, as seen in the trailer. Ditto. In-Game A large room. A top office room seen during the night shift. The Archives Lotus Rebirth room. Lotus Typing the word "Language" Three times on a terminal computer. Assets/Decorations The Archives logo. It can be seen in some of the rooms throughout The Archives. Illustration #1 (Botanist) Illustration #2 (Bubbles) Illustration #3 (Calligraphy) Illustration #5 (Flames) Illustration #6 (Party) Illustration #7 (Pie) Illustration #8 (Pillars) Illustration #9 (Pizza) Illustration #10 (Shakelight) Chair. Camera. Cardboard Box #1 (Small) Cardboard Box #2 (Wide) Curved Desk. DVD collection. (Was lobby exclusive, but has now been removed) Office Desk. Old Television Set . (Was Lobby exclusive, but has now been removed) Paper Holder. Paper Shredder. Potted Plant. Ditto. Radiator. Shelf. Wall Decor #1. (Wood) Wooden Table. Whiteboard #1. Whiteboard #2.
+References
+â 1.0 1.1 "the archives should be considerated as a floor and not a sub-floor next update - Splash on Discord
+â "btw, the archives are insipred by the music 911 / mr lonely by tyler" - Jasper on Discord
+â RediblesQW on Twitter: "Q: Will A-120 have a redesign/new gimmic for The Archives? A: yes" ( link )
+â "you are missing out something on the fih, they are more important that you may think" - Splash on Discord
+â 5.0 5.1 https://x.com/LightningSplash/status/1996141949536100630
+â RediblesQW in the live chat: "outdoors was general worldbuilding, archives directly sets up some of the lore of the main overarching story"
+â https://x.com/jaspercreations/status/2034406272682868877
+â https://x.com/RediblesQW/status/1996082565984182627?s=20
+â https://x.com/jaspercreations/status/2059421568787227008?s=20
+â https://x.com/jaspercreations/status/2081778170336792657?s=20
+Related pages The Rooms The Rooms is a Vision (formerly a subfloor) with different entities and layout that can be explored during gameplay. It was based on the Roblox experienceâ¦ The Archives Update The Archives Update is a major update for DOORS that released on August 28, 2026. This update features The Archives: a revamp of The Rooms, with new entitiesâ¦ Jasper creations jasper_creations is an assisting DOORS developer who has partaken in creating and remaking animations for The Hotel+ Update. Their most notable animations areâ¦ Pizza Pizza is an item found in The Archives. It was originally a scrapped item. Coin Roll The Coin Roll is an Item that can be found in The Archives or purchased in the Pre-Run The Archives for 150 Knobs. Flashlight The Flashlight is a type of light source item that can be found in containers. It can be bought at The Hotel, The Mines, The Outdoors, and The Rooms. It canâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+

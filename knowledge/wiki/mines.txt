@@ -1,0 +1,470 @@
+﻿SOURCE: https://doorswiki.com/wiki/the-mines/
+PAGE: mines
+DOWNLOADED: 2026-10-18 14:20
+
+ The Mines | DOORS DOORS All pages All pages DOORS / Pages / The Mines Contents Overview Entities Main Entities Recurring Entities Miscellaneous Entities Hazards Removed Entities Room Mechanics Guaranteed Rooms Dark Rooms Firedamp Rooms Minecart Rooms Generator Rooms Blood Rooms Flooded Rooms Lush Rooms Special Locations Elevator The Adit The Shafts The Bridges The Caverns The Nest Jeff Shop The Sewers The Railway Station The Sewage Pipes The Dam The Woods Secondary Locations General Rooms Entity-related Rooms Related Soundtracks Bugs Trivia Related Achievements Gallery References Notes The Mines Featured Articles Floors Locations Locations (The Mines) Pages with broken file links Spoilers Stubs The Mines
+Updated October 17, 2026
+This page contains spoilers . They are hidden by default, but may be expanded.
+Not to be confused with The Mines Update .
+The Mines
+Lobby Entrance
+INFORMATION
+Rooms
+100 (101, if counting The Adit )
+Date Added
+August 30, 2024
+SOUND FILES
+Sound Files
+Mines Ambience Mines Title Door Opened (Mines) Side-Door Opened (Mines) Door Slam (Mines, Seek Chase, Gloombats) Earthquake (Mines) Outside Rain Bulb Flicker Bulb Break Bulb Charge Bulb Ambience Dark Room Ambience
+"So... you've conquered the Hotel , and made it this far. Congratulations, and welcome." - Guiding Light
+The Mines is the second main floor in DOORS . It can be accessed by creating or joining an elevator in the Lobby , or after escaping The Hotel or The Outdoors . If accessed from the Outdoors, you spawn in the Mines version of the Jeff Shop .
+Overview
+The Mines appear as a messy, abandoned (and occasionally flooded) mining site comprised of different rooms and sections. Interior spaces are made of various materials such as rock, steel, and wood and have amenities such as lights, ladders , lockers , minecarts , and generators scattered around it. As in The Hotel , the players' goal is to escape The Mines by traversing 100 randomly generated rooms, including special locations.
+Story-wise, The Mines picks up where The Hotel left off; players are in a free falling elevator. If a run is started from The Mines , the Pre-Run Shop is opened, allowing players to purchase items exclusive to this floor. After all players are done or the Pre-Run timer runs out, the elevator they are in crashes into The Adit .
+Prior to the Content Update , players were not able to join a Mines run unless they had already beaten The Hotel or enter another players The Mines elevator; however, players who have not beaten The Hotel will be given a "skip penalty" of -50% knobs and couldn't get any badges. After the update, all players can join a Mines run.
+This content has spoilers for the end of The Mines . Door 200:
+After defeating Seek âs Dam form and powering the roomâs generator , players leave The Mines through a ladder and sewer grate leading to a path in a forest. The Rift is also present here to store items for later runs to be easier with one saved item in total.
+At the end of the path is a castle; upon interacting with the door, a cutscene plays where players open it and look at what lies beyond, only to be startled and forced to seek shelter inside by the Queen Grumble rising from the ground behind them.
+Before Queen Grumble can attack players, however, a black, slimy arm latches onto its eye. The Queen Grumble screams in pain as it is enveloped in slime, and Seekâs humanoid form emerges from the slime as the castle doors close, bringing The Mines to an end.
+Currently, the run ends immediately after this cutscene with a âTo Be Continuedâ screen, awarding the player an achievement called "See You Soon", though it will likely continue into the next floor when it releases.
+Entities
+Main article: List of Entities
+Entities are unnatural beings that inhabit The Mines. Most of them pose as roadblocks and threats to hinder player's progress and usually attempt to kill or damage them in whatever ways they can. See their respective pages for more information.
+Main Entities
+Guiding Light - A helpful entity that guides players throughout their journey. If players die, she will provide tips on how to survive the entity that killed them most of the time (not including the 2023 April Fool's Event ). Guiding Light also highlights important items and objects (such as keys and doors) after a certain amount of time has passed in a room.
+Seek - The main antagonist of The Mines . It announces its presence with eyes appearing from black goo on the walls before chasing players twice and a boss fight in The Dam .
+Queen Grumble - The Queen of the Grumbles and the secondary antagonist of The Mines . It appears chasing players at the end of The Caverns , before crawling through tunnels to hunt players in The Nest . Appears a second time in The Sewage Cells to chase players.
+Grumbles - Patrols The Nest and guards the Queen Grumble . They crawl through tunnels and chase players on sight.
+Figure - The major antagonist of The Mines . It is completely blind and thus relies on sounds and vibrations to locate players three times inside The Shafts . Despite this, it is not the main threat for players in the mines. It is also the entity responsible for the players' entrance to The Mines.
+Recurring Entities
+Giggle - Drops down from a ceiling onto the player's face and starts biting it. Players must attempt to dislodge the entity and counteract the attack, otherwise it will deal 10 damage per tick.
+Gloombats - Small batmoth-like creatures that swarm in groups. They won't directly attack players unless they are stepped on before hatching or the player is using any type of light emitting item.
+Rush - Flickers the lights and shakes the ground before rushing through several rooms, behind or in front of the player, up to an unopened correctly labelled door and opens it, breaking all the lights in the process and making the room a dark room. Deals 125 damage to players within range on sight.
+Ambush - A more elusive entity, which has a rare chance to replace Rush, shakes the ground before rebounding 2â6 times through several rooms to catch players off-guard. Deals 100 damage to players within range on sight.
+Eyes - Appears randomly upon entering a room, and are signified by a distinct sound effect and a bright blue/purple glow. The entity deals rapid damage if stared at and is able to teleport around the room.
+Screech - Can spawn in almost any room (excluding The Caverns , The Sewage Cells and The Dam ) and reveals its presence with a â Psst! â and a slight screen shake. Players must look around in order to spot the entity and counteract the attack, otherwise it will deal 40 damage to them.
+Dupe - Poses as a door with a number label, but the number is always out of order and wrong. Players must not enter the wrong door, or Dupe will attack them, dealing 40 damage. A fake door may be identified by listening for growls or scratching sounds near the door and the wrong door number.
+Miscellaneous Entities
+Halt - Chases down players in The Bridges , and tries to ambush them by appearing from behind and in front, the player having to turn around repeatedly in order to get out of The Bridges.
+Hide - Becomes aggravated if a player hides for too long in a hiding spot, after which it will push them out and appear in the last spot a player hid in, damaging them. Players will be unable to hide in the same hiding spot again and will block them from hiding in them for a bit.
+Louie - Appears in small tunnel-like holes. If a player drops an item near its hole, the rat entity will come out and trade the item for food or loot.
+Jack - Rarely appears behind doors (
+1
+2000
+{\displaystyle \frac{1}{2000}}
+) and in hiding spots (
+1
+200
+{\displaystyle \frac{1}{200}}
+) to jumpscare players.
+Timothy - A spider that lurks in containers . When players open a container, it has a
+1
+200
+{\displaystyle \frac{1}{200}}
+chance to spawn and jump on their face and take away a small bit of health.
+Dread - Attacks players when they stay for too long in one room, and can appear in any room. After the time has passed the player's screen will begin to darken, and exhibit a monotone tint. It will slowly chase players while remaining scarcely visible.
+Void - Attacks players that are lagging too far back from the rest of the team when in multiplayer elevator. It will teleport them back to their team but deals a random amount of damage in the process.
+El Goblino - A friendly entity that players can chat with in Jeff's Shop. After a player talks to him three times, he will go silent.
+Jeff - A friendly entity that resides in its respective shop , selling items to players who are interested.
+Bob - A friendly entity that players can interact with but causes nothing to happen. It appears in Jeff's Shop.
+Shadow - A very rare harmless ghostly entity (
+1
+2000
+{\displaystyle \frac{1}{2000}}
+) that appears briefly when the lights flicker randomly after opening a new door.
+Curious Light - Appears as a yellow rift if the Bottle of Starlight was previously used.
+Glitch - Acts as a failsafe (The Mines and The Hotel). It will appear when the next room has failed to load. It also functions as Void in The Rooms and The Backdoor .
+Glitch Fragment Entities - Glitched variations of Screech , Rush and Ambush that appear when interacting with a Glitch Fragment .
+World Lotus - It appears as a thorny vine holding up a lantern in the pipe at the back of Jeff's Shop .
+Portrait - Appears if a player brings Portrait from The Archives into The Mines , or shatters a pocket mirror .
+Hazards
+Firedamp - Flammable gas leaks that can explode if a player uses a lighter , lantern or a candle . They can also cause players to suffocate from asphyxiation if they stay in the room for too long.
+Flooded Rooms - Shallow water in which staying underwater for too long will cause the player to drown.
+Gloombat Eggs - Large eggs that hatch a Gloombat if stepped on.
+Minecarts - Used to destroy wooden barriers blocking certain paths. If a minecart runs into a player at a high enough speed, it will damage and knock over the player.
+Stalagmites - A lethal rock-formation that will brutally impale the player if fallen into its spikes.
+Removed Entities
+Snare - Removed due to player feedback about the entity being placed in the worst places possible such as crawlspaces, as well as having the entity appear more than once, forcing the player to restart if run into.
+Room Mechanics
+Guaranteed Rooms
+Door 100.5, The Adit (after the elevator crash)
+Door 101, Introduction Minecart Room
+Doors 110 - 114, The Chasm (1st Figure room)
+Doors 120 - 124, The Meat Cave (2nd Figure room)
+Door 142, The Caverns (first Seek chase)
+Door 143, Single Jump Room
+Door 146, Minecart Transition Room
+Door 149, Pre-Nest
+Door 150, The Nest
+Door 151, Post-Nest
+Door 152, Stairwell Entrance
+Door 154 - 162, Jeff Shop
+Door 170 - 180, The Sewage Pipes (second Seek chase)
+Door 200, The Dam (final boss room)
+Door 200.5a, The Woods and first Castle room
+Dark Rooms
+Dark rooms function nearly identically to the ones in The Hotel , however Screech is not exclusive to these rooms, being able to spawn anywhere in The Mines except in a few rooms, but it may have a Gloombat nest.
+Firedamp Rooms
+A firedamp room.
+Firedamp rooms are indicated by a fire caution sign on the door and an orange mist inside the room. Players can die in this room if they stay inside it for too long and suffocate (their vision will slowly blur and black out along with their hearing becoming muffled), or if they activate a flammable item inside it, such as a Lighter or a Candle will cause the gas to explode (there is a bug where an already lighted candle won't cause any harm), killing them instantly. Non-flammable light sources like Glowsticks , Flashlights , Bulklights , Straplights , and Laser Pointers are safe to use in Firedamp rooms, as well as the Moonlight Candle , as it is powered by Guiding light and not heat energy.
+Minecart Rooms
+Minecart rooms usually require players to push a minecart to destroy wooden planks blocking the next door. If players are hit by a Minecart, it will damage or even kill them, depending on the Minecart's speed. Sometimes, pushing the Minecart is not required, and it only serves as a decoration.
+Generator Rooms
+Generator rooms require finding 1-3 Fuses around the room inside of item lockers, on tables, in drawers, and in chests to power up a Generator to open a blocked gate to the next door.
+The following rooms may spawn as Generator Rooms:
+The Adit : This room will always spawn on Door 100.5 and will require two fuses. It depicts an elevator landing spot with a small minecart track. If the player has an item in the Rift , it will appear on a stone island around some shallow water.
+A compact room with a small stone median and some containers. This Generator spawns with 2 Fuses in it in this room.
+A room with a long minecart track and two wooden barricades players must break with the minecart. The button and the metal door are separated by a median. The Generator in this room always spawns with 1 Fuse in it.
+A corridor with eight sub-rooms, some may contain Shears or vine-covered chests. The Generator, always with no Fuses in it at the start, may spawn in the corridor or in a sub-room.
+A large room with a bridge and a pit that can be accessed by a ladder. The Generator will spawn in the pit as well. This room usually spawns before The Caverns. This room's Generator spawns with 1 Fuse in it.
+A sewer room with two different levels bordered by ladders, with many sub-rooms and a chance of a Dupe spawn that will not be behind the metal door. This room is usually time-consuming and may be the generator room that takes the longest. It also is pretty rare since The Content Update .
+The 4-Way Minecart Room: A large room with six adjacent slopes and sub-rooms, with four of the slopes having the track of the minecart . The generator, always with no fuses in it at the start, may spawn near one of the sub-rooms or behind a wooden barricade that blocks the location of a sub-room.
+Additionally, The Dam will spawn as a generator room, however all the fuses have been inserted, players only need to pull its lever.
+Blood Rooms
+Blood Rooms are rooms that can only generate if Jack spawns behind a door. When Jack spawns, it will jumpscare players and disappear, and they will be left with a room that is completely red. The lights and floor will be covered with a bloody texture, similar to what is seen in Seek 's chase. If there is exposure to the outside, the rain will be a blood red color, and if there are Seek's eyes in the room, the scleras will turn red as well. Overtime, this room will slowly fade away back to normal, but the rain will stay as it is until they proceed to the next room. Blood Rooms have the lowest chance of spawning out of all Room Mechanics (tied with Shadow ), that being a 1 in 2000 chance. These rooms can occur as early as Door 101 and as late as Door 200.
+Flooded Rooms
+Flooded rooms are rooms where the ground is covered by shallow or deep water. Deep water rooms come in the form of tunnels that a player must swim through to continue. Players are at risk of drowning if they stay underwater for too long. Their vision will begin to blur and their eyes will gradually close. Light sources like lighters and flashlights also start to malfunction.
+Lush Rooms
+Rooms that are exposed to the outside. They can spawn as either circular room that connects to a main room through a side door, or they can overgrow a standard room. They can contain a cupboard containing Shears and/or green-vine chests that can be opened with them, giving players rare loot.
+Special Locations
+These are locations in the Mines that are different and unique to most rooms located in the floor. All are guaranteed to spawn except for The Grotto , The Bridges , and The Sewage Cells. There are 13 Special Locations, listed in order of appearance during a player's run.
+Elevator
+Main article: Elevator
+This is the elevator that was used in the Hotel at Room 100 that has now crashed down to The Adit . It appears as a mining elevator with wooden boxes and a floodlight inside.
+The Adit
+Main article: The Adit
+Room 100.5, the first room players encounter when entering the Mines. It contains a Generator with 2 missing Fuses; players must find the 2 Fuses to continue. It also contains the Rift on an extended part of the dirt surrounded by water.
+The Shafts
+Main article: The Shafts
+Three rooms where players encounters the Figure after escaping from The Hotel .
+The Bridges
+Main article: The Bridges
+The Bridges is the room where Halt resides. It consists of three sections, each with three bridges, two of which are broken. The broken bridges usually have containers and lockers in front of the broken bit.
+The Caverns
+Main article: The Caverns
+The Caverns appear at Rooms 142-149. A series of rooms where the first Seek chase takes place. It consists of falling rocks, cross platforms, broken bridges, and some rails.
+The Nest
+Main article: The Nest
+Room 150. A vast cavern with large tunnels, winding paths, rooms, and cave systems where the Grumbles reside and patrol.
+Jeff Shop
+Main article: Jeff Shop
+Room 152-159. A shop run by Jeff located within The Sewers , where players can buy items and give Jeff tips. They can also talk to El Goblino and Bob .
+The Sewers
+Main article: The Sewers
+A series of rooms after The Nest where the Jeff Shop , The Railway Station , The Sewage Cells, The Sewage Pipes , and The Dam are located. They usually randomly generate in chunks of about 1-10 rooms.
+The Railway Station
+Main article: The Railway Station
+A puzzle room that can spawn between Doors 153-199.
+The Sewage Pipes
+Main article: The Sewage Pipes
+Rooms 195-198. It was the previous location of the second Seek chase.
+The Dam
+Main article: The Dam
+Room 200, where the final Seek boss fight takes place.
+It consists of scraps you can jump on, valves, generators, lockers, toolboxes and drawers.
+The Woods
+Main article: The Woods
+A forest that players walk through after escaping The Mines . A castle is located at the end, where the final cutscene, where the Queen Grumble gets infected by Seek, takes place. It always contains the Rift behind the ladder.
+Secondary Locations
+Secondary Locations are rooms that are unique to most common rooms but are less noticeable and important.
+General Rooms
+Minecart Tutorial Room: The room after The Adit that contains a minecart and two rails with a rail lever .
+Lush Rooms: Rooms that are exposed to the outside. They can spawn as either a circular room that connects to a main room through a side door, or they can overgrow a standard room. They can contain a cupboard containing Shears and/or green-vine chests that can be opened with them, giving players decent loot like a Bulklight , a Laser Pointer , or even a Crucifix . Additionally, some lush rooms require Shears to access.
+Small Lush Rooms: Rooms that contain only either two green-vine chests or a cupboard with Shears.
+Large Lush Rooms: Rooms that are rare to encounter and always contain both a cupboard with Shears and green-vine chests.
+The Grotto: The room where Halt used to reside before The Content Update . It's a large cave with winding paths and minecarts. It now spawns as a standalone room.
+Pit Room: A room that contains a deep pit which can be accessed by a ladder. There are two possible ways to escape this room. The first way is to go down into the pit, and the other way is to cross a plank which runs over the pit.
+Steep Minecart Room: A room containing a generator that requires players to destroy wooden barriers by pushing a minecart down two adjacent slopes.
+4-Way Minecart Room: A room containing a generator, six adjacent slopes, and sub-rooms, with four of the slopes having the minecart track, a few wooden barricades, and the sub-rooms that can either be blocked or openable.
+Deep Flooded Room: A room completely filled with water, that players have to navigate. There are air pockets that players can use to avoid drowning . These rooms can spawn with slight changes in generation.
+Nest Entrance: The room between The Caverns and The Nest. It contains a platform with lockers either side, and a buffer gate in the middle. This room marks the conclusion of the first Seek chase, and the beginning of Door 150.
+Sewer Pillar Room: A room that spawns within The Sewers . It's a room that has pillars on each side of the main walkway.
+Large Sewer Room: A room that spawns within The Sewers. It's a large room with two floors. The upper floor showcases a large, open sewer area with a generator, and four ladders either side that leads to a lower floor, with sewage water flowing through the middle and doors either side.
+Roofless Room: A lush room that players can encounter within The Sewers that is completely open to the outside. Walls line each side of the room, but there is no roof. Green-vine chests can spawn in this room.
+Tunnel Room: A rare room that has two tunnels, one on the left, the other on the right. The tunnels shares a resemblance to the tunnels in The Nest . The room might have been created by a Grumble . It can spawn before The Ravine or after the Jeff Shop .
+Lethal Company Room : An extremely rare Sewer room that has a layout referencing that of Lethal Company, a survival game.
+Sewer Fan Room : An extremely rare Sewer room that contains a giant fan and a metal bridge. Giggles may spawn under the bridge as a bug.
+The Sewage Cells : A rare Sewer room that contains flooded tunnels, with some being blocked by bars. This room can generate up to more than 20 segments, in a maze-like structure.
+Lotus Rebirth Room : A room that appears only when the Lotus flower is used.
+Snake Room : An extremely rare Sewer room with an extremely long ladder that leads to an area with multiple loot boxes and a varied number of crucifixes , and lockers. [ 1 ] A view of the rare "Snake Eater" room.
+Entity-related Rooms
+The Chasm: The room that players encounter Figure for the first time (a part of The Shafts ).
+The Festering Meat Cave: The room that players encounter Figure for the second time (a part of The Shafts).
+The Generator Cave: The room that players encounter Figure for the third time (a part of The Shafts). Ever since The Content Update , this room won't have a 100% chance of spawning, but it has a high chance of doing so in most runs. This room also used to spawn in the Door 130 range.
+The Ravine: A long, flooded room with exposure to the outside. This room is where Seek seeps out of a metal pipe and begins its chase. This room will only (and is guaranteed to) spawn at Door 142 (a part of The Caverns ).
+The Sewer Corridor: A long corridor, this is the location of the beginning of The Sewage Pipes Seek chase. There is a hole in the ceiling, where the Queen Grumble emerges. It can only spawn once and is guaranteed (a part of The Sewage Pipes).
+Related Soundtracks
+Main article: Soundtrack
+Album
+Title
+Criteria
+Duration
+BPM
+Key Signature
+Track
+Single (in-game only)
+Fallen (conjecture)
+Plays while falling in the elevator Of the Mines, and eventually ending with the elevator crashing into The Adit .
+0:42
+(track)
+0:26
+(loop)
+148 BPM
+D Minor
+Track
+Loop
+Single (in-game only)
+Title Card ( Mines ) (conjecture)
+Plays right after the elevator crashes into The Adit , and The Mines' title card appears on screen.
+0:12 (track)
+96 BPM
+B Major
+Title Card
+Single (in-game only)
+Mines Ambience (conjecture)
+Plays as ambience with a volume and speed of 0.4 and 0.2 respectively, in The Mines .
+1:00
+(source)
+5:03
+(in-game)
+136 BPM
+(source)
+N/A
+(in-game)
+A Minor
+(source)
+N/A
+(in-game)
+Source Ambience
+In-Game Ambience
+Single (in-game only)
+I'm Behind You (conjecture)
+Plays as ambience in The Dining Hall with Halt .
+1:51 (track)
+97 BPM
+E Minor
+Full Ambience
+Vol. 1 No. 4
+Guiding Light
+Plays during the Death Screen with Guiding Light .
+1:19
+(soundtrack)
+0:24
+(outro)
+74 BPM
+D Minor
+Full Soundtrack
+Outro
+Vol. 4 No. 1
+Ready Or Not
+Plays while being Sekk chased by Seek in The Mines .
+4:44
+(soundtrack)
+0:24
+( caverns intro)
+0:10
+( sewage pipes intro)
+0:50
+(chase loop)
+0:12
+(cutscene)
+0:26
+(minecart loop #1)
+0:50
+(minecart loop #2)
+0:22
+(outro)
+151 BPM
+Dâ¯/Eâ­ Minor
+Official Soundtracks
+Official Soundtrack
+In-Game Soundtracks
+Caverns Intro
+Sewage Pipes Intro
+Chase Loop
+Minecart Cutscene
+Minecart Loop #1
+Minecart Loop #2
+Outro
+Vol. 4 No. 2
+Ready To Rumble
+Plays during Entering The Nest . of The Mines.
+3:19
+(soundtrack)
+0:44
+(intro, outro)
+0:25
+(anchor A)
+0:25
+(anchor B)
+0:25
+(anchor C)
+0:25
+(anchor D)
+0:25
+(anchor E; unused)
+76 BPM
+Dâ¯/Eâ­ Minor
+Official Soundtracks
+Official Soundtrack
+Official Soundtrack - End Chase
+In-Game Soundtracks
+Intro & End
+Anchor A
+Anchor B
+Anchor C
+Anchor D
+Anchor E (Unused)
+Vol 4. No. 3
+Jeff's Jam
+Plays from the radio in Jeff's Shop in The Mines .
+2:04
+(soundtrack)
+100 BPM
+G Minor
+Full Soundtrack
+Single (in-game only)
+Closer (conjecture)
+Plays while Dread is attacking the player .
+1:58
+(soundtrack)
+0:15
+(end)
+144 BPM
+D#/Eâ­ Minor
+Full Soundtrack
+End
+Vol 4. No. 4
+Oh Dam
+Plays in The Dam while boss fighting against with Dam Seek .
+3:06
+(soundtrack)
+0:18
+(intro)
+0:25
+(phase #1)
+0:12
+(phase #2)
+0:25
+(phase #3)
+0:25
+(outro)
+151 BPM
+Dâ¯/Eâ­ Minor
+Official Soundtracks
+Official Soundtrack
+In-Game Soundtracks
+Intro
+Phase #1
+Phase #2
+Phase #3
+Outro
+Vol. 4 No. 5
+Fresh Air [ note 1 ] [ 2 ]
+Plays at first as ambience in The Woods , like Elevator Jammed, then plays in the final end cutscene of The Mines .
+1:55
+(soundtrack; normal)
+1:55
+(soundtrack; ambience)
+0:26
+(loop)
+0:38
+(end)
+141 BPM
+D#/Eâ­ Major
+Official Soundtracks
+Normal Version
+Ambience Version
+In-Game Soundtracks
+Loop
+End
+This audio file is hosted under a free license. It is made available under the Creative Commons Attribution-ShareAlike 4.0 license, the same terms as the source wiki. All audio remains the property of its original creators and the game's developers.
+Bugs
+There used to be a bug that transfers any modifiers players had in The Hotel into The Mines , allowing them to play The Mines with modifiers. [ 3 ] This has been patched.
+If two or more people align themselves with the minecart that spins in circles, they can essentially speed it up and have it fly off the tracks. If a player is playing alone and wants to do this trick, they have to push the cart, push it again, and then run the other direction of the cart and when it comes back, they push again. This bug may have been patched in the recent Bugfixes.
+Sometimes, when the minecart is pushed, a bug happens where the minecart will be unable to move no matter how many times a player has pushed it. It soft-locks a player immediately forcing them to restart their match if they need the cart to, for example, break a wall.
+Sometimes, when a minecart is pushed but has slow momentum, it has a chance to phase through a wall. This is most apparent in The Nest where it can sometimes phase through the wood and soft-lock players.
+In the chasm, one of the right sided minecarts can rotate in circles after being pushed near the exit by the player.
+If Gloombats spawn shortly before entering Door 200, it will become a dark room and it will disable Guiding Light . This is most likely a bug.
+When entering The Mines through The Outdoors , collecting gold will not count towards knobs on the Death Screen .
+Trivia
+The Mines are players' first interaction with water or any other fluids, unless you count the rain in The Courtyard and the Lobby .
+If a player's head stays underwater (in a room where water is high enough to cover them entirely) for too long, they will eventually drown and die.
+In The Mines , players can only jump during 2 Seek encounters, those being The Caverns and The Dam .
+Redibles has made several sketches of The Mines , showing off two rooms and one entity.
+The Mines didn't support Modifiers on release [ 4 ] , but support was officially added as of The Content Update .
+The Content Update also brought Modifiers to The Hotel that allow entities from The Mines to spawn.
+The Mines brought multiple updates to The Hotel, one of them being the change of The Courtyard and The Infirmary appearances.
+The Rift appears at the beginning and at the end of The Mines , similarly to how it functions in The Hotel. [ 5 ]
+Players choose to start a run from The Mines by selecting the on-screen Play button in the lobby, or by moving into an elevator labeled with the same button.
+Prior to The Content Update, players used to require the Rock Bottom achievement to play The Mines , meaning that they would need to beat The Hotel first before they can proceed to or start runs in The Mines . Players who obtained Rock Bottom before The Mines were added would be allowed to start runs at The Mines .
+Players could join someone else's elevator if they didn't have the Rock Bottom badge, although it would result in getting a -50% penalty on knobs and disable achievements for the player.
+As of The Content Update, this is no longer the case.
+If continuing from The Hotel, all dead players will be revived.
+Rush has the ability to zoom through walls, instead of following the rooms intended path. This makes the majority of safe spots in The Hotel and The Mines now unsafe.
+Unlike The Hotel, where the main antagonist is Figure , the main antagonist of The Mines is Seek .
+On September 1st, The Mines received an overall patch that helped reduced the difficulty, after receiving feedback from players. [ 6 ]
+Despite The Mines ' increased difficulty, the base completion reward is 50 knobs, the same as The Hotel, making it a bad floor to grind knobs.
+There are 2 types of Grumbles , the normal ones and the queen . The queen has a stretch mark (according to RediblesQW 's concept [ 7 ] ) on its face and deals fatal damage to players (only in minecart and chase sequences). It is the same Grumble that players see right before The Nest, during chase sequences, in The Sewage Pipes , and in the end cutscene of The Woods .
+When a door closes with an antagonist entity behind it (Seek, Figure, Grumble), the Crucifix symbol can be seen in the door frame which prevents the entity from passing. This also happens when a player enters a room with Figure in it, however the symbol appears on the door that a player entered in through.
+The Mines look somewhat similar to Mysterious Mines from FNaF World and the cave from The Maze.
+The crawlspaces in The Mines may be inspired my the crawlspaces in the cave from Roblox horror game The Maze.
+The Mines share a few ambient sounds with The Hotel.
+Earthquakes and flickering lights can occasionally happen, tricking players into believing that Rush is about to attack. However, Rush can only attack once both an earthquake and the flickering lights happen at the same time, but this doesn't happen 100% of the time either.
+This floor is more than likely a coal mine, largely due to the presence of firedamp .
+On release, The M ines was much harder than it currently was, The developers have said the reason of this was because they were used to the gameplay and decided to make it harder for themselves.
+The rarest room is actually the "Snake Eater" subroom, which is incredibly tall. The player must use an incredibly long ladder to reach to the top of the subroom, which has many items and gold . [ 8 ] Dread can spawn here and is a huge threat.
+Before The Mines Update , as seen in a Sneak Peek , Room 102 was thought to be a randomly generated room, which was later changed to be spawned only after The Adit .
+Related Achievements
+Whoever Smelt It
+...Dealt it. Survive a Firedamp leak.
+Running Track
+Cart Ride From Seek (For Free Knobs) Escape Seek in The Mines.
+Trespassing
+Sorry, sorry! Escape The Nest .
+Down The Drain
+Down you go! Beat Seek in The Dam.
+See You Soon
+That sure was the beginning. Escape The Mines .
+Rocky Road
+I think I'm good with vanilla. Escape The Mines with at least a 50% bonus using modifiers .
+A Hard Place
+And a rock! Escape The Mines with at least a 150% bonus using modifiers .
+Gallery
+In-game Rooms Assets Decorations Other In-game the Mines before beating ." loading="lazy" decoding="async"> The penalty applied for going to the Mines before beating The Hotel . The countdown timer for the Mines before it was released. The exit door of The Adit, but with the Haste timer on the door. Ditto. Room 101, but as a Jack blood room. The Mines ." loading="lazy" decoding="async"> An intersection room found in The Mines . Ditto. A small generator cave room. A large mines room that contains a vent hiding spot. The Cavewalks, a room that contains a stairway leading down to a minecart on tracks. Ditto, but closer to the minecart, with a board right in front of the rails. A rare, large cave room that can be found. Ditto, but at a different angle. Ditto. Ditto. A sub-room containing a dead-end tunnel. Ditto, but with minecart rails. A large room with minecart rails, containing a minecart. Ditto, but a different angle. Ditto, but a different room that's smaller. Ditto, but closer to the minecart, leading to a path that's blocked off by rocks. A lush sinkhole sub-room that has a rare chance to spawn. Ditto, but a different sub-room. Ditto, but a different angle. Ditto, but in the outside section of the sub-room. Ditto. A lush sinkhole room that can be found in the mines. Ditto. Ditto, but lights on Ditto. Ditto, but with Eyes. Ditto, but teleporting. Ditto, but without Eyes. Ditto. Ditto, but angled towards the ceiling. Ditto, but with Seek Eyes. A mines door covered in vines. A rare lush variant of an intersection bridge room. Ditto. A tool wardrobe located in a Sinkhole. A flooded room. Ditto, but the normal variant. Another flooded room. Ditto, but the normal variant of the room and with Seek eyes on the walls. A large flooded room. The Mines ." loading="lazy" decoding="async"> A room with a Minecart in The Mines . The Lush Drain leading to the sewers at Door 113.(Before The Content Update) Ditto. Ditto, but with Glowsticks. Ditto. The Mines ." loading="lazy" decoding="async"> A sewer door with a wooden door frame from The Mines . The Mines ending cutscene, seen through roblox images." loading="lazy" decoding="async"> The final frame of The Mines ending cutscene, seen through roblox images. The Castle, at the end of The Mines in The Woods. A Louie hole in a Grumble tunnel room. A Straight line water "Maze". The inside of the mid-run rift room, which was added during The Outdoors update. Ditto, but with full-bright. The beginning of the rare "Snake" sub-room. Ditto, but looking up the extremely long ladder. Ditto, but at the top. Ditto, but from a different angle. Rooms Randomized Special Side-Rooms Randomized Mines
+Mines_BigRoom1 Mines_Bridgewalk2 Mines_Bridgewalk5 Mines_BridgewalkLush1 Mines_CaveWalk1 Mines_CaveWalk2 Mines_Cross1 Mines_Curve1 Mines_Donut1 Mines_Flooded1 Mines_FloodedCrawlspace Mines_Fork1 Mines_Gap1 Mines_Gate1 Mines_Gate2 Mines_Gate3 Mines_Gate4 Mines_Gate5 Mines_GrumbleTunnel1 Mines_HRoom1 Mines_Lush1 Mines_MegaCave1 Mines_MegaDoor1 Mines_MTHallway1 Mines_MTHallway2 Mines_MTHallway3 Mines_MTHallway4 Mines_MTHallway5 Mines_MTIntersection1 Mines_MTJunction1 Mines_MTTurn1 Mines_ORoom1 Mines_ORoom2 Mines_RandomRoom1 Mines_RandomRoom2 Mines_Shaft1 Mines_Shaft2 Mines_Shaft3 Mines_Shaft4 Mines_Shaft5 Mines_Shaft6 Mines_Shaft7 Mines_Shaft8 Mines_ShaftX Mines_SideRooms1 Mines_Tall1 Mines_TightHallway1Dos Mines_TrackRoom1 Mines_UselessMinecart1 Mines_UselessMinecart2
+Sewers
+Sewer_Basin1 Sewer_Basin2 Sewer_Cylinder1 Sewer_DirtStraight1 Sewer_DirtStraight2 Sewer_DirtStraight3 Sewer_DirtStraight4 Sewer_DirtStraight5 Sewer_DirtT2 Sewer_DirtX2 Sewer_Drain1 Sewer_Fan1 Sewer_Gate1 Sewer_Hide1 Sewer_Lattice1 Sewer_Lattice2 Sewer_Lattice3 Sewer_LethalRoom1 Sewer_Intersection1 Sewer_LushDrain1 Sewer_Maintenance1 Sewer_Maintenance2 Sewer_Maintenance4 Sewer_Minecart1 Sewer_MinesTransition1 Sewer_MinesTransition2 Sewer_Straight2 Sewer_Straight3 Sewer_Straight4 Sewer_Straight5 Sewer_Straight6 Sewer_Trash1 Sewer_Walkways1 Sewer_Walkways3 Sewer_WalkwaysX Sewer_WalkwaysLush1 Special HaltHallway LotusSpawn Ditto (Bright)
+Mines
+Mines_NewStart Mines_FigureTease1 Mines_Figure1 Mines_SeekStart Mines_SeekJumpTutorial Mines_SeekGeneral Mines_SeekMinecartTransition Mines_SeekMinecart1 Mines_SeekToGrumble Mines_Nest Mines_FigureGate1
+Sewers
+Sewer_PostNest Sewer_JeffShopEntrance Sewer_JeffShop Sewer_SeekEnter Sewer_SeekChaseX Sewer_SeekVsGrumble1Left Sewer_SeekVsGrumble1Right Sewer_SeekSewer1 Sewer_Dam Side-Rooms (Room name needed) Snake Eater Subroom" loading="lazy" decoding="async"> (Room name needed) Snake Eater Subroom (Room name needed) Sewer Pipes Subroom" loading="lazy" decoding="async"> (Room name needed) Sewer Pipes Subroom TBA Assets The Mines in-game." loading="lazy" decoding="async"> The logo for The Mines in-game. Ditto, but only the text. (Also the logo in the Lobby) The Mines in the and Loading Screen background." loading="lazy" decoding="async"> The Mines in the Saves and Loading Screen background. The Mines , more visible during entity earthquakes." loading="lazy" decoding="async"> A dusty, fog particle found all throughout The Mines , more visible during entity earthquakes. Decorations Normal Interactable Normal Lamp. Wooden Toolbox. Light Stand. Table #1. Table #2. Tiny Rocks. Minecart Barrier. Wooden Crate. Stacked Wooden Crates. Ditto. Lamppost. Swamp Tree. Obelisk. "Broken Road" warning sign. Broken Z Anchor. Sewer Lamp. Fairy Lights. "Humans" Sign. "This way!" Sign. "Jeff Shop" Sign. "Gud Deals!" Sign. Potted Plant. Broken Minecart with a plank. Wooden Chair. Mini-Bookshelf. Wooden Stool. Bucket of Black Paint with Thick Paintbrush. Pallet. 2 pallets. Trash Can #1. Trash Can #2. Trash Can #3. Trash Can #4. Trash Can #5. Trash Bag. Oil Barrel. Sewer Sink. Cardboard Box. (Normal) Cardboard Box. (Wide) Cardboard Box. (Small) Industrial Shelf. Exit Sign. Interactable Jeff's Radio. Other The Mines Sneak Peek." loading="lazy" decoding="async"> DOORS' The Mines Sneak Peek. The Mines Trailer." loading="lazy" decoding="async"> DOORS' The Mines Trailer. The Mines trailer." loading="lazy" decoding="async"> Hide inside a locker from The Mines trailer. The Mines teaser, releasing the name and what appears to be the first room of the game into the world." loading="lazy" decoding="async"> The Mines teaser, releasing the name and what appears to be the first room of the game into the world. The 3 Billion visits message, appearing to have a new room as the background. The Mines '"`UNIQ--ref-00000043-QINU`"'." loading="lazy" decoding="async"> A leak of new rooms in The Mines [ 9 ] . A player riding a Minecart. An image of the The Adit from the mines trailer. The Mines ." loading="lazy" decoding="async"> Sneak peek #5, appearing to be another room in The Mines . A trailer shot of a flooded room. A simple sketch made by RediblesQW of a room. Ditto, but it's a different room.
+References
+â Video (you may need to try a couple times, the seed has variations)
+â LightningSplash on X (September 19, 2024). Retrieved on April 7, 2025. LightningSplash: "i just realized i typo'd one of the songs as Fresh Rain instead of Fresh Air.... i'm too lazy to reupload the album (cause for some reason I can't just edit the name of a track) so we're just gonna have to deal with it"
+â https://youtu.be/mz7HBaHTstk
+â Q: "Will The Mines have modifiers?" A: "not on release" -LSPLASH, Twitter
+"Modifiers will be added soon."
+-Modifiers area, when creating an elevator to the mines.
+â Q:"Is the rift returning in floor 2 and onwards?" A:" im not entirely sure myself but id imagine it being accessible in future floors in some way" - Ghostly_Wowzers, Doors wiki
+â https://x.com/DoorsRoblox/status/1830092658053619905
+â "...I concept that when a new Grumble is chosen to be the colonies queen... the strongest Grumble is the one to step up to the role. The Queen's Mark itself could be seen as a stretch mark, left by the fact that the Queen is larger than the other Grumbles, basically the Grumble chosen to be the Queen isn't really any different from other Giggles or Grumbles until it grows in size bigger than its body is physically prepared for. the reason for the queen size could be through genetics, mutation, or being fed by the other Grumbles that submit to it. theres not real correct answer and this is just my internal concepting for the Queen's design, it's more up to the Player's interpretation." â RediblesQW, YouTube (pinned video comment)
+â https://youtu.be/sP03C8n_MhA?si=0n_xk3o52FGPLYRQ
+â https://x.com/LightningSplash/status/1789131513646170169
+Notes
+â Mistitled as "Fresh Rain".
+Related pages The Mines Update The Mines Update, also referred to as the Floor 2 Update, is a major update to DOORS, adding in 4 new entities with 2 of them being variations, a variety ofâ¦ The Adit The Adit, also known as Door 100.5, is the starting area and first room players encounter when entering The Mines. It appears as the first definite room evenâ¦ The Hotel The Hotel is the first main floor in DOORS. It can be accessed by using one of the elevators in the Lobby, creating or joining an elevator for The Hotel, orâ¦ Guiding Light Moonlight, also known as Guiding Light and Blue Light, is a mysterious blue light, one of The Three Architects, and one of the main deuteragonists of DOORSâ¦ Floors Floors are levels within Limbo that players progress the story through, serving as the 'chapters' for the game. These floors may contain different items andâ¦ DOORS DOORS ðï¸ is a Roblox horror game inspired by Spooky's Jump Scare Mansion, nicorocks5555's Rooms and Spelunky developed by Lightning Splash and co-developedâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+

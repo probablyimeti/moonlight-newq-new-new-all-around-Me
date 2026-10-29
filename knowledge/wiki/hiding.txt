@@ -1,0 +1,270 @@
+﻿SOURCE: https://doorswiki.com/wiki/hiding/
+PAGE: hiding
+DOWNLOADED: 2026-10-18 14:20
+
+ Hiding | DOORS DOORS All pages All pages DOORS / Pages / Hiding Contents Overview List of Hiding Spots Main Visions Entity Surviving Notes Modifiers Bugs Trivia Related achievements Gallery References Hiding April Fools DOORS Floors Game Mechanics Lists Miscellaneous Pages with broken file links Sub-Floors The Backdoor The Hotel The Mines The Outdoors The Rooms
+Updated October 12, 2026 Not to be confused with Hide , the entity . Hiding INFORMATION Type Survival Time 30s maximum, lowers depending on the door or if the player enabled Rent's Due modifier . Date Added August 10, 2022 Usage Allows the player to dodge certain entities attacks, such as Rush , Ambush , Backdoor Blitz, Rooms A-60 & A-120, or Outdoors Surge.
+"Listen closely for Rush and stay near hiding spots." - Guiding Light
+Hiding is a basic mechanic which allows players to utilize specific pieces of furniture to survive from certain entities .
+Overview
+When the player is near a hiding spot like a wardrobe or a bed, the hiding ( ) icon will appear. By pressing E on PC, the " hiding button " on Mobile or on Xbox, it will play a short animation of the player entering the closet, or crawling underneath the bed (for The Hotel, or The Backdoor [only closet]), locker or fridge (The Rooms), or entering the lockers, crawling into sewage grates, or getting into the dumpsters. To exit a hiding spot, players will need to walk forward or press the exit button on mobile.
+List of Hiding Spots
+Main
+The Hotel The Mines The Backdoor The Rooms The Outdoors The Archives (WIP) The Hotel
+Image
+Name
+Description
+Sounds
+Wooden Closets
+Wooden Closets are the most abundant hiding spot in The Hotel . They act as a basic hiding spot that can protect players from most entities , but not Hide . The player hides in them by getting into the empty interior and closing the wardrobe doors.
+Entering
+Exiting
+Singular Pillow Beds
+Singular Pillow Beds are hiding spots found in The Hotel spawning from Doors 1-88 that only 1 player can hide under. They appear to be just a normal bed with red covers white pillows. The player hides under the side they are facing.
+Entering
+Exiting
+Double Pillow Beds
+Double Pillow Beds function and look almost the same like Singular Pillow Beds. However, up to 3 players can hide under.
+Toolsheds
+Toolsheds or Cupboards are the closets found inside The Courtyard , The Greenhouse and The Electrical Room . They appear as rectangular wood boxes meant for the harsher outside. The player hides in them the same way as a wardrobe.
+Entering
+Exiting
+The Mines
+Image
+Name
+Description
+Sounds
+Iron Lockers
+Iron Lockers are the most abundant hiding spot in The Mines and protect the player from some entities . They appear to be an empty locker with two doors and a dark gray texture likely made of metal. The player hides in it the same way as a closet.
+Entering
+Exiting
+Circular Vents
+Circular Vents are rare hiding spots in The Mines that can protect you from some entities. It appears to be a vent with a hollow pipe behind it. The player hides in it by opening the vent and climbing in.
+Entering
+Exiting
+Dumpsters
+Dumpsters are hiding spots uncommonly found in The Mines. They can be found in the four-way junction and flooded rooms . The player hides in them by opening the lid and jumping in. Dumpsters can hide 2 players at once.
+Entering
+Exiting
+Toolsheds
+Toolsheds or Cupboards are the only hiding spot found in three different floors. They appear as rectangular wood boxes meant for the harsher outside. In The Mines , Toolsheds can be found in sinkhole rooms.
+Entering
+Exiting
+The Backdoor
+Image
+Name
+Description
+Sounds
+Wooden Closets
+Backdoor Wooden Closets look like the mix of Hotel Wooden Closets and Toolsheds. It functions identically to wardrobe beside from the absence of Hide .
+Entering
+Exiting
+The Rooms
+Image
+Name
+Description
+Lockers
+Lockers are main hiding spot in The Rooms . They appear as a one door locker with a cubic design and have a basic animation of the camera swinging to the locker.
+Fridge
+The fridge is a hiding spot that only appears in one room in The Rooms . It is a recolored locker in white form, and it looks like a fridge.
+The Outdoors
+Image
+Name
+Description
+Sounds
+Toolsheds
+Toolsheds or Cupboards are the only hiding spot found in three different floors. They appear pretty much like wardrobes, but in rougher shape. In The Outdoors , Toolsheds can be found in several rooms, almost guaranteed to find atleast one in every room.
+Entering
+Exiting
+The Archives (WIP)
+Image
+Name
+Description
+Sounds
+Locker
+Iron Lockers are the most abundant hiding spot in The Archives and protect the player from some entities . They appear to be an full of books locker with two doors and a beige texture likely made of metal. The player hides in it the same way as a closet.
+Entering
+Bash
+Exiting
+Visions
+Super Hard Mode Retro Mode Battle Mode Rush Mode Super Hard Mode
+Image
+Name
+Description
+Sounds
+Infirmary Beds
+Although the ability to hide in them was removed in The Hunt Update , they are still hideable in Super Hard Mode.
+Their design is similar to regular pillow beds, but with a metal frame and white mattress.
+Entering
+Exiting
+Retro Mode
+Image
+Name
+Description
+Retro Closets
+Retro Closets are main hiding spot in Retro Mode . They appear as a two door box with a handle and studs all over the wardrobe. When opening the doors, they swing open. Multiple people can hide in one retro wardrobe. Hide cannot appear in these hiding spots.
+Battle Mode
+Image
+Name
+Description
+Hiding Boxes
+Hiding Boxes are hiding item added during the 2025 April Fools Event. It takes the appearance of a cardboard box and acts as a portable one-time use hiding spot. The item can appear in rooms and in sub-rooms when playing Battle Mode . Hide cannot appear when using it.
+Rush Mode
+Image
+Name
+Description
+Sounds
+Wooden Rush Closets
+The design is pretty similar to Hotel Wooden Closets with the exceptions, the closet being purplish-blue, rush's decal in the middle and the closet being somewhat circular.
+Entering
+Exiting
+This audio file is hosted under a free license. It is made available under the Creative Commons Attribution-ShareAlike 4.0 license, the same terms as the source wiki. All audio remains the property of its original creators and the game's developers.
+Entity Surviving
+See the example below to know which entities can be avoided by hiding and which cannot. (NOTE: Harmless entities are not included)
+Can Survive While Hiding
+The following entities are not capable of damaging, killing, or otherwise jumpscaring players that are hiding:
+Ambush
+Glitch (Jumpscare only)
+AR0xMBUSH
+RNIUSHCg==
+SCJVEREECH (No damage, only jumpscare)
+Rush
+Figure (If heartbeat control minigame was completed)
+A-60
+A-120
+Blitz
+Screech (Despawns when hiding)
+Eyes
+Lookman
+Grumble
+Queen Grumble (During The Nest )
+Giggle (If not triggered)
+Groundskeeper (if he angered)
+Mandrake (If picked up)
+Surge
+Monument
+Bramble
+Cannot Survive While Hiding
+The following entities are capable of damaging, killing, or otherwise jumpscaring players that are hiding:
+Hide
+Halt
+Void
+A-90 (If you move)
+Seek
+Jeff the Killer
+Haste
+Dread
+Gloombats
+Queen Grumble (Chase Sequences)
+Giggle (If triggered)
+Sally
+Figure (If heartbeat control minigame failed)
+Notes
+The only spots considered hiding spots by the game are wardrobes, beds and lockers.
+However, it is possible to hide from Rush , Ambush and similar entities without hiding by staying out of their line of sight. Doing this for the first time awards the player with the In Plain Sight achievement .
+Once the player is inside a closet or underneath a bed, the game will consider the player hidden.
+As of The Hotel+ Update , hiding after Screech appears will despawn it.
+Out of every hiding spot, Jack can only appear inside wardrobes (The Hotel) and lockers (The Mines).
+The player was unable to hide in a closet during Seek 's chase, this is due to a bug forcing the player to constantly move forwards, therefore the player will always exit any closets.
+As of The Hotel+ Update and prior to The Content Update , the player needs to hold W to run, so the player is able to hide in a closet during a Seek Chase, if there are any at all.
+Seek is still able to kill hiding players, instantly triggering its jumpscare upon interaction with the hiding spot.
+This may also be a reference to the phrase "You can run, but you can't hide (although the "hide" is not present)" mentioned in Seek's achievement, since the player can run to survive Seek but they can't hide from it.
+Only one player can hide in each hiding spot. Multiple players cannot hide together.
+This is not the case in 2024 April Fools Event .
+Double pillow bed lets 3 players in at a time.
+The dumpster in The Mines lets 2 players in at a time.
+Wardrobes and Lockers can not be entered from behind. Doing so will grant the player with a block symbol in their screen that flashes slowly in red and white. However, they can be entered from the sides.
+This is not the case when playing in Hotel- Modifier.
+In one of the rooms within The Rooms subfloor, there is a locker colored white to mimic the style of a fridge.
+There are also a type of unusable locker within a room type called "Broken Lockers" which the player cannot hide in.
+This type of locker is more known as a Blue locker.
+Players may hide in lockers for as long as they wish in The Rooms, The Backdoor , and The Outdoors , as Hide is not present on these floors .
+However, you can't hide for too long in The Backdoor , due to the presence of Haste .
+The player used to be able to hide under the beds in The Infirmary before The Hunt Update , but this feature was removed for unknown reasons.
+Hiding time will increase if Ambush spawns. If Ambush despawns after, the hiding time will be set to default.
+Jeff The Killer can still stab you through a closet even if you are hiding.
+Modifiers
+Nowhere To Hide "Hiding spots are no longer guaranteed for everyone." Floors: The Hotel , The Mines , The Backdoor (With Admin Panel ) , The Rooms (With Admin Panel ), The Outdoors (With Admin Panel )
++10%
+Bugs
+There used to be a bug where hiding under a bed would result in the player 's camera clipping through the floor. This has since been fixed.
+There is a bug, when leaving under the bed, the camera will not have animation.
+There is a bug where the player character's camera will move similar to walking animation, before exiting the closet.
+If a player hides while holding a Puzzle Painting , the player's point of view will tilt awkwardly.
+There is a bug where if the player hides under a bed behind a big sized window but on top of the bed, the animation has a chance to glitch out and make the player stuck outside.
+There is a bug with beds, where if the player hides near the corner, exits, and during the exit animation does a "freeze tab glitch", it's possible to go through the floor, causing the player's death or Glitch to appear and teleport them. This bug is not consistent and it is hard to replicate.
+Being in a hiding animation right when Void's teleport occurs will make the mentioned teleport fail, causing the player to fall into the void (being teleported by Glitch right after).
+Gold used to have a big hitbox that could block raycasting from node entities, being able to survive more easily without hiding .
+This was fixed in The Mines Update . It still works in Hotel- and in Super Hard Mode .
+Drawers in The Backdoor and in The Mines could block raycasting from node entities, being able to survive more easily without hiding .
+Both of these have been fixed in The Content Update .
+Snares used to have a hitbox that blocked raycasting big enough to make players able to survive just standing of them, although needing to step on them first once to stand in the middle safely and carefuly after, making survival more easy without needing to hide .
+This was fixed in The Mines Update . It still works in Super Hard Mode .
+Naturally spawned items (not dropped by players) used to have a big hitbox that could block raycasting from node entities, being able to survive more easily without hiding .
+This bug only started working in The Mines Update , but was fixed in The Content Update .
+In PARTY MODE , raycasting from node entities can be blocked just by holding a Hiding Box or a Throwable Prop, being able to survive more easily without hiding .
+The Hiding Box is able to block ray-casting from both the front and the back of the player, but not their sides.
+Throwable Props are able to block ray-casting only from the front of the player, being vulnerable from every other direction.
+Being ragdolled might sometimes break the item's hitbox causing it to not block the raycasting correctly.
+Pressing the interaction button in a hiding spot multiple times while Screech is following the player will make the message "Something is stopping you from hiding..." appear, despite being able to hide .
+When hiding while in FLY/NOCLIP mode with the Admin Panel , your camera will move by itself rapidly.
+Trivia
+It is possible to complete a round of DOORS without interacting with any hiding spots by being out of range or sight when Rush or Ambush attacks and keeping a distance when Figure appears.
+There is a
+1
+200
+{\displaystyle \frac{1}{200}}
+chance that Jack will appear to block players from hiding in a wardrobe ( Hotel ) or a locker ( Mines ).
+Jack can't spawn if the latest open room is one that Rush or Ambush spawned in.
+If you open the next door before you hide, you have a chance of finding Jack , which is why you should try not to open the next door after Rush or Ambush spawns.
+The animation of hiding in a closet is similar to the animation of hiding in a closet and locker from CASE: Animatronics.
+Players were able to crawl into vents to hide in plain sight before Vent Rooms ' removal.
+Hide is not present in closets while Figure is active in The Electrical Room , so players may hide for as long as they wish.
+In SUPER HARD MODE , due to the exit door not closing if a Holy Hand Grenade is used on Figure in the library, Hide will not appear for the rest of the game.
+Redibles has claimed to have ideas for uses for hiding under beds. [ 1 ]
+After The Hotel+ Update , Rush and Ambush can now spawn in rooms that have beds, giving beds a use. However, if Ambush were to appear, it's recommended to hide in a closet as the bed animation takes longer than the closet animation.
+It should be noted however, that the player is immune to the entities during the animations. However, the player is not immune to Rush nor Ambush during the exiting animation of the closet, despite being immune to other entities, such as Eyes .
+There was initially going to be a Jack-like mechanic for beds, although it was scrapped due to LSPLASH not following through, although it may come back at a later time. [ 2 ]
+Before The Mines Update , lockers from The Rooms used to not have an animation, this is possibly to mimic the way that a player hides in lockers in the original Rooms created by nicorocks5555.
+In Rooms by nicorocks5555, however, to hide, the player need to sit on a 'Seat' part that is inside lockers, which will give players invulnerability to entities when sat on.
+The hiding in closet animation opens the door to the next room if the closet is close to it.
+The same goes with lockers in The Rooms with teleportation of player's character in the locker.
+With The Hunt Update , camera rotation inside hiding spots has increased.
+In PARTY MODE , every hiding sound is sped up.
+Related achievements
+Out Of My Way
+I'm walkin' here! Successfully survive Rush.
+Rebound
+Coming back for seconds! Survive Ambush.
+Betrayal
+Dibs! Steal a hiding spot from someone right before they die.
+Eviction Notice
+And stay out! Get kicked out of a hiding spot by Hide.
+Meet Jack
+Ooga booga! Encounter Jack.
+In Plain Sight
+Quick! Hide behind that conveinently shaped lamp! Hide from an entity by staying out of sight.
+Under New Management
+I bought the place. Use a Crucifix against Hide.
+Finders Keepers
+Mine mine mine mine mine! Eliminate a player by stealing a nearby hiding spot.
+Gallery
+A old render of a wardrobe, with Hide inside. A bed with some boxes on it. A broken locker in The Rooms . trailer)" loading="lazy" decoding="async"> The old version of Figure checking a wardrobe. (Image taken from a DOORS trailer) hiding ." loading="lazy" decoding="async"> Jack preventing the player from hiding . Eyes inside a wardrobe. A room with multiple wardrobes. Ambush , but seen from inside a wardrobe. The bed, seen near a dresser . Old Infirmary with multiple custom hospital beds. A floating closet in the Seek chase. hiding icon while being inside a wardrobe." loading="lazy" decoding="async"> The hiding icon while being inside a wardrobe. Hide in a Sewage Drain hiding in a Dumpster." loading="lazy" decoding="async"> Two people hiding in a Dumpster. A wardrobe after "Disable Hiding Spots" is voted with the Chat Control Modifier. Player is hiding inside of a Hiding Spot. In-game, it is colored black. ID Number is 6100076320." loading="lazy" decoding="async"> The image that appears on the screen whenever the Player is hiding inside of a Hiding Spot. In-game, it is colored black. ID Number is 6100076320.
+References
+â Q: "Is hiding under beds going to gain a use?" A: "i have been brainstorming ways to give it a use and i have a couple of ideas, we'll see" -Redibles
+â [1] Q: "Will there be a Jack for Vents or Beds????" A: "there originally was going to be a jack-equivalent for hiding under the beds but wasn't added due to splash not going through with it (though it might come back at a later time)" -Wowzers
+Related pages Hide Hide is a miscellaneous neutral entity that resides in hiding spots that can be found in The Hotel and The Mines. Its main purpose is to kick out players whoâ¦ List of Entities Entities are the main roadblocks in DOORS. Many of them attempt to kill players, Ð°nd they must be faced in order to advance. They all differ in mechanics andâ¦ Modifiers Modifiers are a post-game feature added on August 26, 2023 as its own standalone update for the game's first year anniversary celebration. This feature allowsâ¦ Rush Rush is a major hostile Entity in DOORS. It is one of the most frequent threats in both The Hotel and The Mines. Ambush Ambush is a lethal entity in DOORS, appearing in both The Hotel and The Mines. The Backdoor The Backdoor is a subfloor that can be accessed from a side door in the exterior of the Lobby, or through the "Create Elevator/Play" Menu. As of Septemberâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+

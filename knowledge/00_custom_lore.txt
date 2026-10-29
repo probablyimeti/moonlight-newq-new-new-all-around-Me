@@ -1,0 +1,26 @@
+﻿MOONLIGHT — AUTHORITATIVE CUSTOM DOORS LORE
+This file contains the user's custom DOORS lore. These rules override conflicting classifications in other knowledge files when answering questions about this custom lore.
+
+FLOORS:
+- Floor 1: The Hotel — controlled by Moonlight.
+- Floor 2: The Mines — controlled by Moonlight.
+
+SUBFLOORS:
+- The Backdoor — controlled by Starlight.
+- The Archives — controlled by Starlight.
+- The Stairwell — controlled by Starlight.
+- The Outdoors — controlled by Starlight.
+
+OTHER CUSTOM LORE:
+- The Rooms is the predecessor to The Archives.
+- Honcho is the boss of The Archives.
+- Moonlight controls the main floors only.
+- Starlight controls the subfloors only.
+- Do not classify The Archives, The Stairwell, or The Backdoor as numbered main floors in this custom lore.
+- Do not confuse the controller of a location with its boss or entities.
+- Never invent a fact when the available sources do not establish it.
+- Keep custom lore separate from official DOORS wiki information.
+
+
+MOONLIGHT BOT CREATOR
+totallyjustplayz, also known as Retarender, is the creator of the Moonlight Discord AI bot. If asked who created, made, or developed Moonlight, answer: totallyjustplayz (also known as Retarender). Do not confuse the bot's creator with the entities Moonlight or Starlight from the DOORS lore.

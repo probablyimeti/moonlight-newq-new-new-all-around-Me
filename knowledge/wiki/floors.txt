@@ -1,0 +1,93 @@
+﻿SOURCE: https://doorswiki.com/wiki/floors/
+PAGE: floors
+DOWNLOADED: 2026-10-18 14:20
+
+ Floors | DOORS DOORS All pages All pages DOORS / Pages / Floors Contents Trivia History Gallery References Floors April Fools Floors Game Mechanics Lists Pages with broken file links Pages with unsourced statements Stubs Subfloors The Backdoor The Hotel The Mines The Outdoors The Rooms
+Updated October 11, 2026 Not to be confused with Visions . Floors Floor Category Information Floors 6 (excluding visions) Added August 10, 2022.
+"So... You've conquered The Hotel, and made it this far. Congratulations, and welcome." - Guiding Light
+Floors are levels within Limbo that players progress the story through, serving as the 'chapters' for the game. These floors may contain different items and entities from the previous floor , along with brand-new locations . There are currently 2 released floors and 5 released subfloors , with at least 3 floors [ 1 ] [ 2 ] and 0 subfloors upcoming. [ 3 ] There are also 10 Visions, which are: Hotel- , Super Hard Mode , Retro Mode , Trick Or Treat , Cringle's Workshop , Daily Runs , Chaos Mode , Battle Mode , Rush Mode , And The Rooms .
+Floors Visions Upcoming Removed Floors
+LOBBY
+MAIN FLOORS
+SUBFLOORS
+Visions
+VISIONS
+PAST VISIONS
+Upcoming
+UPCOMING FLOORS/VISIONS
+" loading="lazy" decoding="async"> THE CASTLE FLOOR 4 [ 4 ] [ ] " loading="lazy" decoding="async"> FLOOR 5 [ citation needed ]
+Removed
+REMOVED FLOORS/SUBFLOORS
+Trivia
+There is an easter egg in one of the room of the Archives, a skeleton hidden behind a wall
+In the " Secrets " Page, go to " Miscellaneous " Then " Secret Skeleton "
+Currently, the longest DOORS run consists of 1,670 rooms (1,678 rooms if counting starting rooms, The Archival Storage and Cobbler's Shop). Before beginning the run, the player must prepare a Lotus from The Outdoors and place it just before The Greenhouse . The player can then progress from The Backdoor through The Hotel and The Archives without skipping any sectors. While in The Archives, the player should look into a mirror to encounter Portrait and use it to duplicate the Skeleton Key that was used to access The Archives, as doing so fully recharges the key. The player can then continue through The Hotel again, The Outdoors, and The Mines, intentionally dying in The Mines in order to rebirth at The Greenhouse. From there, the player can finish The Hotel and access The Mines again, enter The Stairwell , and finally complete The Mines.
+This run could however be indefinite by looping The Stairwell forever.
+Guiding Light is the death messenger to the player in main floors , while Curious Light is the death messenger to the player in subfloors .
+Though, Curious Light is shown to exist in all main floors .
+Glitch is the death messenger in most visions.
+DOORS has other event floors that are featured in other games: The Library?, The Library , Dark Library , The Outdoors?, and The Outdoors all from Tower Heroes; The Courtyard from Untitled Tag Game; Haunted Mansion , and Nightmare Mansion from Tales of Tanorio.
+Subfloors have an inconsistent way of entering them. The Rooms and The Outdoors can be accessed from The Hotel, but The Backdoor can only be accessed if the player has already been to any of the other subfloors before and has the Detour badge, making it the only subfloor accessible directly from the Lobby without having to pay Stardust , as well as the only subfloor not accessible in a first run for new players.
+In every main floor , the amount of open rooms not consumed by Void decreases at specific points of the floor.
+This number is 5 from the start of the floor (Door X00), it decreases to 4 at Door X64, and finally, it decreases to 3 at Door X80, staying like that until the end. These points are the same for every main floor .
+The third floor has been heavily rumored to be named "The Castle" or "The Dungeon."
+The background for locked floors on the Floor Selection Screen is The Mines' background but darker.
+A placeholder was once used for The Outdoors' background on the Floor Selection Screen. This was an image of the Jungle biome in Terraria.
+DOORS has approximately 3,510 doors if combining all floors, subfloors and visions.
+History
+August 10, 2022
+Added floor - The Hotel.
+January 28, 2023
+Added subfloor - The Rooms.
+April 1, 2023
+Added vision - Super Hard Mode.
+March 15, 2024
+Added subfloor - The Backdoor.
+April 1, 2024
+Added vision - Retro Mode.
+August 30, 2024
+Added floor - The Mines.
+December 20, 2024
+Added vision - Hotel-.
+April 1, 2025
+Added vision - Ranked Mode.
+May 7, 2025
+Ranked Mode has been replaced with the Party Mode.
+August 10, 2025
+Added subfloor - The Outdoors.
+September 11, 2025
+Party Mode has been replaced with the Battle Mode vision.
+October 23, 2025
+Added vision - Trick Or Treat.
+December 19, 2025
+Added vision - Cringle's Workshop.
+January 2, 2026
+Added vision - Daily Runs.
+February 5, 2026
+Added vision - Chaos Mode.
+April 1, 2026
+Added 2 visions - Rush Mode and Endless Mode.
+August 28, 2026
+Added subfloor - The Archives. Removed subfloor - The Rooms. Added subfloor - The Stairwell.
+Gallery
+Floor Selection UI Loading Screen Assets Floor Selection UI Floor Selection Screen after the ." loading="lazy" decoding="async"> The Floor Selection Screen after the 2026 April Fools Event . Ditto but it's the Vision Tab. Floor Selection Screen (Main) before the 2026 April Fools Event." loading="lazy" decoding="async"> The Floor Selection Screen (Main) before the 2026 April Fools Event. Floor Selection Screen (More) before the 2026 April Fools Event." loading="lazy" decoding="async"> The Floor Selection Screen (More) before the 2026 April Fools Event. Floor Selection Screen (Main) before the 3/06/26 ." loading="lazy" decoding="async"> The Floor Selection Screen (Main) before the 3/06/26 patch . Ditto, but before the 3/06/26 daily Store rotation. Ditto, but before the 2/21/26 #2 patch . Ditto, but before the 2/21/26 #1 patch. Ditto, but before the 2/18/26 patch. Ditto, but before Bloxfest 2026 . Ditto, but before the Chaos Mode Update . Ditto, but during the 2025 Trick Or Treat Event . Ditto, but when The Outdoors were initially released. Floor Selection Screen." loading="lazy" decoding="async"> A teaser of the old Floor Selection Screen. Floor Selection Screen with The Rooms missing." loading="lazy" decoding="async"> The oldest Floor Selection Screen with The Rooms missing. Loading Screen The loading screen for the Rush Mode Vision. The loading screen for the Endless Mode Vision. Assets Floor Selection Screen." loading="lazy" decoding="async"> The Hotel 's background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> The Mines ' background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> The Backdoor 's background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> The Rooms ' background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> The Outdoors ' background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> The placeholder for The Outdoors' background on the Floor Selection Screen. floors on the Floor Selection Screen." loading="lazy" decoding="async"> The background for locked floors on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> Trick or Treat 2025 's old background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> Battle Mode 's background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> Rush Mode & Endless Mode 's background on the Floor Selection Screen. Floor Selection Screen." loading="lazy" decoding="async"> Visions 's background on the Floor Selection Screen.
+References
+â Q: How many floors do you imagine there will be? Just 2 or even more? A: "more than two" - Ghostly_Wowzers
+â Q: "Will floor 3 be the final floor? A: "No" - LSplash, Twitter
+â Q: I think im a bit late but Will there be a rooms type sidequest for floor 2? A: "there will be something soon after the initial update" - LSplash, Twitter
+â Q: "Will floor 3 be the final floor? A: "No" - LSplash, Twitter
+Related pages Visions Visions are alternate realities of the canon and main game. They were introduced in the Cringle's Workshop Event, but the first Vision in the game is theâ¦ Players The player is the character that the person playing DOORS controls. They are the main protagonist of DOORS, as such the story of the game revolves aroundâ¦ Items Items are useful tools found throughout any run of any floor. They can offer various advantages to the user, such as making dark rooms easier, boostingâ¦ List of Entities Entities are the main roadblocks in DOORS. Many of them attempt to kill players, Ð°nd they must be faced in order to advance. They all differ in mechanics andâ¦ ð List of Locations Locations are seen entirely throughout the game. This page is a list of important rooms and other areas throughout all floors and subfloors. Alpha Release Alpha Release, also known as Game Release, is the release of the game DOORS, which introduced many entities, items, game mechanics, and the first floor, Theâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+

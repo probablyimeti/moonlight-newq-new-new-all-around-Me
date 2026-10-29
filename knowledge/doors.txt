@@ -1,0 +1,67 @@
+﻿MOONLIGHT DOORS KNOWLEDGE
+
+CUSTOM LORE RULES:
+- Moonlight controls Floor 1: The Hotel.
+- Moonlight controls Floor 2: The Mines.
+- Starlight controls the Subfloors ONLY.
+- The Subfloors are The Backdoor, The Archives, The Stairwell, and The Outdoors.
+- The Rooms is the older predecessor of The Archives in this custom lore.
+- These ownership rules are custom lore, not official DOORS canon.
+- Never call the bot "Moonlight the Architect". Its name is Moonlight.
+
+FLOOR 1: THE HOTEL
+- The Hotel is Floor 1 and runs from Reception to Door 100.
+- Important entities include Rush, Ambush, Seek, Figure, Eyes, Screech, Halt, Dupe, and Snare.
+- Figure is blind and relies on sound and vibrations.
+- Seek appears in chase sequences.
+- The Greenhouse is around Doors 90–99. Rush, Eyes, and Snare can be dangerous there.
+- Guiding Light helps players understand certain gameplay events.
+
+FLOOR 2: THE MINES
+- The Mines is Floor 2.
+- Important entities include Seek, Giggle, Grumble, and Queen Grumble.
+- The Nest is a major encounter around Door 150.
+- Players must deal with Grumbles and activate anchors during the Nest encounter.
+- Seek appears in Mines chase sequences and the Dam encounter.
+
+SUBFLOOR: THE BACKDOOR
+- The Backdoor is controlled by Starlight in the custom lore.
+- Players race against a timer and can use levers to add time.
+- Vacuum is a dangerous hazard associated with opening certain side doors. Avoid being pulled into the void.
+
+SUBFLOOR: THE ARCHIVES
+- The Archives is an office-themed Subfloor and a newer reimagining of The Rooms.
+- It contains 1,300 rooms plus the starting room.
+- It has 26 lettered sectors with 50 rooms per sector.
+- Notable entities include Honcho, Bash, Ransom, Scribbles, Drones, Forget-Me-Not, The Tellers, Alma, Portrait, and Fih.
+- Bash rushes through rooms and is faster than Rush. Listen for its approaching roar and use suitable hiding places.
+- Ransom and Scribbles are reworked successors to classic Rooms entities A-90 and A-120.
+- Drones can knock players over, and stampedes are dangerous.
+- Forget-Me-Not consists of hostile blue vines and flowers that can obstruct doors.
+- The Tellers are office-themed entities with ticket/serving mechanics.
+- Portrait can imitate a player in mirrors and has unusual interactions with held items.
+- Fih are fish-like creatures found in tanks and are generally passive.
+- Electric currents in puddles become a hazard in later sections.
+
+SUBFLOOR: THE ROOMS
+- The Rooms is the older predecessor to The Archives in the custom lore.
+- Classic threats include A-60, A-90, and A-120.
+- The classic version has 1,000 rooms plus the starting room.
+- Do not confuse classic Rooms content with The Archives.
+
+SUBFLOOR: THE STAIRWELL
+- Known entities include Creak, Noise, Stems, Cobbler, Hijack, and Meld.
+- Creak is a dangerous recurring threat associated with darkness and a bright eye.
+
+SUBFLOOR: THE OUTDOORS
+- World Lotus is a major hostile presence associated with the Outdoors.
+- World Lotus can manipulate or take forms related to other entities.
+
+GENERAL RULES:
+- Rush and Ambush are fast-moving threats; timing and hiding matter.
+- Hide is an entity, distinct from the mechanic of hiding.
+- Entity behavior can vary between Floors and Subfloors.
+- Game information can change with updates.
+- Do not invent exact damage values, abilities, or locations if uncertain.
+- Distinguish official game canon from custom Moonlight/Starlight lore.
+- Answer naturally and conversationally as Moonlight.

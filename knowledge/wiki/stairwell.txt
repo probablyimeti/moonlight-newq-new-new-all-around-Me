@@ -1,0 +1,724 @@
+﻿SOURCE: https://doorswiki.com/wiki/the-stairwell/
+PAGE: stairwell
+DOWNLOADED: 2026-10-18 14:20
+
+ The Stairwell | DOORS DOORS All pages All pages DOORS / Pages / The Stairwell Contents Overview Unique Entities Non-exclusive Entities Hazards Interactables Room Mechanics Fire Alarm Depot Items Cobbler's Shop Large Items Tips Achievements Guaranteed Rooms Locations Staircase Modules Special Locations Cobbler's Shop Bugs Soundtracks In-Game Soundtrack Gallery Trivia References The Stairwell Curious Light Entities Floors Hazards Pages with trigger warnings Spoilers Stubs Sub-Floors
+Updated October 18, 2026
+This page contains spoilers . They are hidden by default, but may be expanded.
+"Â¡Oye! Watch where you swing that thing, hombre! Uff!" - El Goblino TRIGGER WARNING: Trypophobia Creakâs section contains content that may be disturbing for people with Trypophobia. Proceed at your own risk.
+The Stairwell INFORMATION Rooms 102 (103 if counting the Cobbler's Shop) , but can be looped infinitely. Previously 199 (200 if counting the starting room). Date Added August 28th, 2026 SOUND FILES Sound Files Ambience (Source) Darkness Riser Door #1 Door #2 Door Opened Drone #1 Drone #2 Gate Open Gate Unlatch Piano #1 Piano #2 Screech Shaker Soda Can Walk #1 Walk #2 Walk #3 Walk #4 Walk #5
+The Stairwell is a subfloor [ 1 ] accessed via The Mines or via the Lobby with different entities and layout that can be explored during gameplay. It is The Mines' first official subfloor.
+Overview
+The Stairwell is the first subfloor in The Mines . The entrance is at Door 152 and can randomly spawn in a side room after Jeff's Shop, with the entering animation looking almost exactly like the Archives entering animation but with no locks and sign. A Skeleton Key is required to access this floor. You can find an entrance by looking for a manhole cover with a Skeleton key.
+It has multiple other entrances after Jeffâs Shop in The Mines. They appear as subrooms within a room and can spawn again even if you beat The Stairwell in the same run. These subrooms aren't as big as the main entrance. The manhole cover also takes much less time to walk to than the main entrance.
+At the end of the Archives' Sector S is a sign pointing at vacuum, labeled "<----stairwell". The other half of this broken room can be found at the end of the Stairwell, confirming that these two subfloors were once together.
+The Stairwell was a part of The Archives , as seen in a secret room at the end of The Archives and The Stairwell, but they were divided by the vacuum.
+Similar to the entities in The Hotel , most of them only serve to hinder the player's progress. There are currently 6 known entities: Creak, Noise, Stems, Cobbler, Hijack, & Meld. The first attack usually happens shortly after entering the staircase or upon entering a maze floor. The first entity encountered is generally Creak, which can be spotted by its bright white eye shining in the dark.
+Unique Entities
+Creak Meld Noise Hijack Stem Cobbler Creak
+Creak
+Normal Scared Normal
+Scared
+INFORMATION
+Type
+Neutral (Fatal)
+Behavior
+Shy
+Floors
+The Stairwell
+Damage
+Instant Death
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Creator(s)
+LSPLASH
+SOUND FILES
+Sounds Spawn Steps Layer #1 (Near) Steps Layer #1 (Far #1) Steps Layer #1 (Far #2) Steps Layer #2 (Near) Steps Layer #2 (Far) Steps Layer #3 (Near) Steps Layer #3 (Far) Jumpscare (Front) Kill (Front) Jumpscare (Back) Kill (Back)
+"Shatters several of my bones, then my skull." - Creak âs journal entry.
+Creak is the main antagonist and main recurring entity of The Stairwell , breaking down the large metal door after the player reaches Landing 10 and constantly stalking the player.
+Appearance
+Creak appears as a tall, lanky humanoid figure covered in multiple fleshy holes. Its design is based on ideas from its earlier concept stage, making it look somewhat unfinished and hollow. The holes are scattered across its body to contribute to its unsettling presence within the quiet environment of The Stairwell .
+Behavior
+Creak tends to remain mostly still, or moves at a slow pace. The entity only moves when a player looks away (moving closer), or looking at (backing up) him. If a player stares at it for too long, or chases it down, making it back up for too long, it will run at the player, killing them instantly upon contact. This entity also avoids light. This shy behavior fits in with the tense and quiet atmosphere of The Stairwell , mostly within the maze section where it is most commonly encountered.
+Creak can open up Meld doors.
+Alternatively, if Creak is hit by a crusher, it'll shove the crusher back away from it, and quickly recover from the impact.
+Creak has a hidden aggression meter [ 2 ] which can't be seen by normal players, however, its arms are a visible way to tell how aggressive it is. If its hands are up to its face, it is not aggressive, but the closer its hands are to the floor, the more aggressive it is. Creak's aggression meter will slowly deplete over time when the stalked player doesn't observe it or gets too close to it.
+Creak only tends to stalk one player at a time, the person being stalked should be more aware and be careful when making eye contact with it. If the stalked player has not looked at it in a while, Creak will attempt to sneak right up behind the player, it won't kill them immediately though when it does this. When sneak attacking, the stalked player can see its left hand in their field of vision, to avoid death, the player simply has to turn around and look at it. This will scare Creak off for a while and will also award the Paparazzi badge.
+Notes
+If a player takes too long to leave a landing after a fire alarm is pulled, they may have to deal with Creak once again while advancing to the next landing.
+Getting behind Creak (such as going down the stairs) will result in an instant death, no matter if its aggression meter is high or not, but if you are playing with someone else and they are being stalked by Creak , getting behind Creak will only result in an instant death when it approaches you.
+Creak is able to force closed Meld open in an attempt to reach the player. Once Creak makes its way through the Meld, the latter will close shortly after.
+Creak will also open these Melds when it is backing away.
+Do not stare at Creak for a prolonged period of time, as this will increase its aggressiveness rapidly.
+Being too close to Creak will also increase its aggressiveness.
+When Creak opens the blast doors, he will instantly kill you if you are watching him spawn.
+If you don't force open the checkpoint door for long enough, Creak will teleport to you and instantly kill you.
+My Journal
+Creak
+Shatters several of my bones, then my skull.
+Very tall humanoid made of what seems to be concrete and rebar. Weird red substance in the various cysts on its body. Has oval shaped head with a singular glowing pupil.
+Quietly stalks me through the Stairwell. Seems curious about me... and creeps me out. Really hard to get a good drawing out of it.
+I have a theory that Creak is highly intelligent, but behaves in the way it does due to isolation.
+Continued...
+This thing will try to sneak up on me if I'm not careful... have to keep my eye out for it. I can't just stare at it though, or it'll feel threatened and might decide to attack me.
+I believe that Creak has been left contained behind the blast doors at the beginning of The Stairwell. Why is it stuck in there?
+The rebar inside of this entity's body sometimes scrapes against the concrete that makes up its skin, resulting in a loud creaking sound- thus my name for it. This can sometimes help me keep track of where it is.
+Strategy
+Walking towards Creak will make it slowly back off towards the landing's entrance door. When at low aggression, looking at it for a few seconds will scare it off, causing it to run several flights of stairs back. This will also happen if a player looks at Creak while it is quietly sneaking up on them. However, looking at it for too long will cause its aggression levels to rise. The lower its arms are, the higher its aggression is. Its aggression levels will slowly go down when not stared at.
+If its aggression levels are too high while the player is looking at it, it will rush the player and kill them. This can also happen when not looking at Creak for too long, except it will not kill the player instantly when it reaches them, instead it will be heard sprinting at a fast speed up the stairs towards the player. Once it reaches the player, it will try to sneak attack them from behind. Its left hand will come into the player's view, and if the player doesn't turn around, Creak will kill them. If the player does turn around, Creak will be scared off.
+If you are playing solo and feel scared of Creak , try to think of them as a "friend". Even though Creak is the main antagonist of the Stairwell, just try to imagine that Creak is giving you company as you traverse the Stairwell as long as you don't provoke it.
+Trivia
+Creak' s model has always been in the game since August 10, 2022 (the beginning of Doors's Development) originally known as Abraham (named after Abraham Lincoln, the 16th president of the U.S.) and was originally a prototype of The Figure , before being revamped in The Archive Update from Abraham to Creak .
+It is heavily likely that Creak is somehow related to or influenced by Meld.
+Creak is made of stone, as stated in the Journal .
+Creak' s mechanic is similar to the Bracken from Lethal Company.
+Unlike the Bracken, however, Creak won't become hostile when looked at for too long and will only attack when backed into a corner under a specific circumstance.
+Creak' s face was teased on a painting in The Outdoors .
+Creak' s feet were seen at the end of The Archives trailer as well as its silhouette able to be seen in the beginning of the Archives teaser.
+Related achievements
+Paparazzi
+I didn't realize someone was watching me. Scare off a large spectator.
+Gallery
+In-game Assets & Animations Other In-game Creak softlocked in a wall." loading="lazy" decoding="async"> Creak softlocked in a wall. Creak running away after being stared at for too long." loading="lazy" decoding="async"> Creak running away after being stared at for too long. Creak at medium aggression peaking the corner of the stairwell." loading="lazy" decoding="async"> Creak at medium aggression peaking the corner of the stairwell. Creak temporarily stunned due to the Fire Sprinkler." loading="lazy" decoding="async"> Creak temporarily stunned due to the Fire Sprinkler. Creak at medium aggression with a Television Set in front of it." loading="lazy" decoding="async"> Creak at medium aggression with a Television Set in front of it. Creak killing a player after they get too close to it." loading="lazy" decoding="async"> Creak killing a player after they get too close to it. Creak killing a player while wearing a top hat." loading="lazy" decoding="async"> Creak killing a player while wearing a top hat. Creak's sneak attack jumpscare." loading="lazy" decoding="async"> Creak's sneak attack jumpscare. Creak teased at the very end of The Archives Trailer." loading="lazy" decoding="async"> Creak teased at the very end of The Archives Trailer. Creak's journal." loading="lazy" decoding="async"> Creak's journal. Ditto, but with more info. Creak wearing a top hat after a player put one on it." loading="lazy" decoding="async"> Creak wearing a top hat after a player put one on it. Ditto, but animated. Ditto. Creak walking towards a player with a top hat on." loading="lazy" decoding="async"> Creak walking towards a player with a top hat on. Ditto, but standing still on the stairs. Assets & Animations Idle #1 (0 Aggression) [ID: 96479513692407 ] Idle #2 (0.10 Aggression) Idle #3 (0.20 Aggression) Idle #4 (0.30 Aggression) Idle #5 (0.40 Aggression) Idle #6 (0.50 Aggression) [ID: 135946479262271 ] Idle #7 (0.60 Aggression) Idle #8 (0.70 Aggression) Idle #9 (0.80 Aggression) Idle #10 (0.90 Aggression) Creeping (ID: 74001115527250 ) Back Jumpscare (ID: 120315279286321 ) Front Jumpscare (ID: 132573683994386 ) Front Walk #1 (0 Aggression) [ID: 136539815907399 ] Front Walk #2 (0.10 Aggression) Front Walk #3 (0.20 Aggression) Front Walk #4 (0.30 Aggression) Front Walk #5 (0.40 Aggression) Front Walk #6 (0.50 Aggression) [ID: 99656395402850 ] Front Walk #8 (0.70 Aggression) Front Walk #9 (0.80 Aggression) Front Walk #10 (0.90 Aggression) Front Walk #11 (Maximum Aggression) [ID: 132652178650358 ] Back Walk #1 (0 Aggression) [ID: 102709888012894 ] Back Walk #2 (0.10 Aggression) Back Walk #3 (0.20 Aggression) Back Walk #4 (0.30 Aggression) Back Walk #5 (0.40 Aggression) Back Walk #6 (0.50 Aggression) [ID: 85594977639925 ] Back Walk #8 (0.70 Aggression) Back Walk #9 (0.80 Aggression) Back Walk #10 (0.90 Aggression) Left Walk #1 (0 Aggression) [ID: 110252381691852 ] Left Walk #2 (0.10 Aggression) Left Walk #3 (0.20 Aggression) Left Walk #4 (0.30 Aggression) Left Walk #5 (0.40 Aggression) Left Walk #6 (0.50 Aggression) [ID: 117710282978760 ] Left Walk #7 (0.60 Aggression) Left Walk #9 (0.80 Aggression) Left Walk #10 (0.90 Aggression) Right Walk #1 (0 Aggression) [ID: 133046957537372 ] Right Walk #2 (0.10 Aggression) Right Walk #3 (0.20 Aggression) Right Walk #4 (0.30 Aggression) Right Walk #5 (0.40 Aggression) Right Walk #6 (0.50 Aggression) [ID: 122434084589171 ] Right Walk #7 (0.60 Aggression) Right Walk #8 (0.70 Aggression) Right Walk #10 (0.90 Aggression) Crushed. (ID: 87818346532323 ) Stun Loop. (ID: 102514348457093 ) Recover. (ID: 100203119062796 ) Meld Front Open (ID: 91554254225064 ) Meld Back Open (ID: 84335471082741 ) [Unused] Left Push (ID: 96355563723927 ) [Unused] Crucified (ID: 77361561945276 ) Creak's model." loading="lazy" decoding="async"> Creak's model. Ditto, but with the top hat. Creak's journal illustration." loading="lazy" decoding="async"> Creak's journal illustration. Creak's face, found in cabins from ." loading="lazy" decoding="async"> An illustration of Creak's face, found in cabins from The Outdoors . Other Creak ." loading="lazy" decoding="async"> An alternate render of Creak . Creak's shadow seen walking past a Television Set in the background during teaser." loading="lazy" decoding="async"> Creak's shadow seen walking past a Television Set in the background during The Archives teaser. Creak's design." loading="lazy" decoding="async"> Possibly inspiration for Creak's design. Ditto, but another image. Meld
+Meld
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Creator(s)
+LSPLASH
+SOUND FILES
+Sounds Ambience Anger Oneshot Breathe #1 Breathe #2 Breathe #3 Burnt Cough #1 Cough #2 Drip #1 Drip #2 Eat #1 Eat #2 Flinch #1 Flinch #2 Fuse #1 Fuse #2 Growing Nerve Flick #1 (Old) Nerve Flick #2 (Current) Notice #1 Notice #2 Plant #1 Plant #2 Plant #3 Puddle #1 Puddle #2 Rear #1 Rear #2 Recede #1 Recede #2 Roar #1 Roar #2 Shed #1 Shed #2 Singe #1 Singe #2 Slap #1 Slap #2 Slap #3 Snare #1 Snare #2 Splat #1 Splat #2 Unsnare #1 Unsnare #2 Wall Burn #1 Wall Burn #2 Wall Close #1 Wall Close #2 Wall Flinch #1 Wall Flinch #2 Wall Idle Wall Open #1 Wall Open #2 Web #1 Web #2
+"Smells pretty good, actually." - Badge description
+Meld is the overarching antagonist of The Stairwell . It is usually neutral and can appear in the Depot Rooms, slowing your progression until destroyed. It is implied to be the reason Creak is hostile to players.
+Appearance
+Meld is a meat fungus which has "infected" the Stairwell. It takes the appearance of meat similar to that of Figure's, however more liquid-ish and having more biological features. Meld can be found in the form of a door throughout some landings.
+Behavior
+Meld can be opened by interacting with white string-like structures that are nearby. The player is not allowed to go to the next landing until Meld is gone. Once incinerated by the Fire Alarm, players can use the Emergency Override feature on the gate Terminal.
+Alternatively, the player can use an item that emits fire to force it to open, such as a lit Candle , Flare . Lighter , or Lantern , but that may enrage the entity, and will make it use it's veins to wrap around the player who offended them and slow them down.
+Notes
+Creak is able to open and close the Meld doors at will when chasing the player or backing away.
+Meld can be forcefully opened with the help of a lit Candle , Lighter , or Lantern .
+Meld now grows, dripping from the ceiling and reaching out to you after the ACCESS GRANTED update, which may imply it's actually alive.
+My Journal
+Meld
+Disgusting piles of mold that resemble flesh. Wet to the touch, and strangely enough it smells like fresh cut grass
+Meld seems to have completely taken over some landings in The Stairwell, presumably due to the heat and darkness. Sometimes blocks my way and I have to either go around it, or wait for it to move
+Probably unintelligent . Not sure whether to classify Meld as an entity or a hazard
+...Continued
+Fire alarms can be found in some locations near Meld. Conveniently, the liquid kerosine inside of the fire system seems to cool down the brick walls and ceilings of The Stairwell, allowing Meld to thrive
+Meld can be completely incinerated by the fire sprinklers built into the ceilings of The Stairwell. Pulling a fire alarm should get rid of all of it
+I think I can fully put together that Meld thrives in the cold, but is weak agaisnt extreme heat. That means that the strange fire alarm system in The Stairwell is both its strenght and weakness
+Strategy
+Do not bring any items to The Stairwells that are related to fire, otherwise you might enrage Meld .
+An example is the Candle , Flare , Lighter and Lantern .
+It is fine if you have them, as the enraged Meld won't hurt you, but will only slow you down.
+Only force open Meld in an attempt to escape when being chased by entities like Hijack , Creak or when overwhelmed by Stem(s) .
+Trivia
+It is heavily likely that Creak is somehow related to or influenced by Meld.
+Meld could possibly be related to Monument , though unconfirmed and unlikely.
+Related achievements
+Fried Mushrooms
+Smells pretty good, actually. Use a Fire Alarm to incinerate Meld.
+Gallery
+Meld's old render." loading="lazy" decoding="async"> Meld's old render. Meld wrapping around the player." loading="lazy" decoding="async"> Enraged Meld wrapping around the player. Meld chord." loading="lazy" decoding="async"> A Meld chord. Ditto, but the old version. Meld hole." loading="lazy" decoding="async"> A Meld hole. Noise
+Noise
+INFORMATION
+Floors
+The Stairwell
+Damage
+Instant Death
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Emerge Cue Emerge Idle #1 Idle #2 (Fast Forward) Footsteps Pause Threat #1 (Source) Threat #2 (Normal) Threat #3 (Paused) Severe Threat #1 (Source) Severe Threat #2 (Normal) Severe Threat #2 (Paused) Fast Forward #1 Fast Forward #2 (Source) Jumpscare Kill Fizzle #1 Fizzle #2 (Source) Wind Down #1 Wind Down #2 (Source) Rewind
+" "TELEVISION CREATURE ANNOY COBBLER. LUCKY, COBBLER LIKE SMASH THINGS."" - Cobbler (decoded)
+Noise is the secondary antagonist and an common recurring entity of The Stairwell , guaranteed to always spawn inside of a Depot Room and appearing whenever players approaches the television's line of sight.
+Appearance
+Noise is a non-distinct humanoid made of static.
+Behavior
+When approaching one of the many televisions throughout the landings of The Stairwell , Noise will emerge from it and start following all players. Every player has their own instance of Noise , which spectating players can see as well. Only one instance of Noise can appear at a time for each player.
+Noise will move on the same path that the player takes, at a constant speed. Standing still will cause Noise to pause in place, only resuming once the player starts moving again. When Noise gets too far from its player, it will temporarily speed up to catch up to them, ignoring if the player is moving or not.
+Noise can be destroyed by two means: Either by rolling the television it spawned from down a set of stairs, or by letting it get burned by standing outside a safe room after the fire alarm has been triggered.
+Colliding with Noise at any time results in an instant kill, which will also remove all other players' Noise .
+Notes
+If you insert the disc found in The Archives into Noise's television, Noise will reverse back into it and re-emerge as Hijack .
+My Journal
+Noise
+Death feels like my heart instantly stops. I don't even realize it happens until a few seconds later
+This entity takes both the form of an old television set, and a humanoid made entirely of static from said television . Sometimes hurts my eyes to look at it
+Noise will do anything that i do a few seconds after i do. I have to make sure to not loop back on myself too much , or i might run into it.
+Seems to have zero intelligence. It's more like a shadow than an entity
+Noise will start to attack me when i get too close to a television set. Have to make sure i don't get too close to one...
+If i accidentally happen to manifest this entity, i can avoid it by planning out my movements. It copies my walking path, and will pause in place whenever i stop moving
+I can get rid of an active instance of Noise by destroying its host television set. Pushing it down stairs works nicely
+Strategy
+If you encounter one of Noise's television, you can have one of your allies (Or yourself) distract Noise , that way you (Or your ally) can push Noise's television down a set of stairs.
+But if you are playing alone, and accidentally trigger Noise , you should try to loop a bit and then grab the television. If Noise catches up, try to loop again or use Items that inflicts speed boosts on yourself.
+When you are too far away from Noise and it starts to speed up, immediately start looping, forcing Noise to try and catch up with you.
+Sometimes, Noise may end up yellow, this may be caused if the player uses a Flare near Noise.
+Trivia
+TBA
+Related achievements
+Rage Room
+That worked? Succesfully disable Noise. (Noise)
+Gallery
+In-game Assets & Animations In-game Noise in the journal." loading="lazy" decoding="async"> Noise in the journal. Ditto, but without the background. Noise's 2nd journal illustration." loading="lazy" decoding="async"> Noise's 2nd journal illustration. Noise emerging from a TV." loading="lazy" decoding="async"> Noise emerging from a TV. Noise t-posing in front of a TV Stand." loading="lazy" decoding="async"> Noise t-posing in front of a TV Stand. Noise âs jumpscare." loading="lazy" decoding="async"> Noise âs jumpscare. Noise fast forwarding." loading="lazy" decoding="async"> Noise fast forwarding. Noise crawling into a vent." loading="lazy" decoding="async"> Noise crawling into a vent. Noise crawling out of a vent." loading="lazy" decoding="async"> Noise crawling out of a vent. Noise fast forwarding into a vent." loading="lazy" decoding="async"> Noise fast forwarding into a vent. Noise paused in place." loading="lazy" decoding="async"> Noise paused in place. Ditto, but in a vent. Noise ." loading="lazy" decoding="async"> The body of the player killed by Noise . Ditto, but from another angle. Noise fizzling out after its TV is destroyed." loading="lazy" decoding="async"> Noise fizzling out after its TV is destroyed. Ditto. Noise chasing the player." loading="lazy" decoding="async"> 3 instances of Noise chasing the player. Noise flying due to a player using Admin Panel." loading="lazy" decoding="async"> Noise flying due to a player using Admin Panel. Assets & Animations Noise's model." loading="lazy" decoding="async"> Noise's model. Walk Loop. Crawl Start. Crawl Loop. Crawl End. Jumpscare. Static Texture (Source). Static Texture. VHS Static #1. VHS Static #2. Pause Back Blur. Pause Icon. Play Icon. Fast Forward Icon. Hijack
+Hijack
+INFORMATION
+Floors
+The Stairwell
+Damage
+Instant Death
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Idle Footsteps Pause #1 Pause #2 Jumpscare Kill #1 Kill #2 Fizzle #1 Fizzle #2 (Source) Wind Down #1 Wind Down #2 (Source)
+"REDACTED" - Badge description
+Hijack is a fusion between Noise and Ransom , created when bringing the Disc from The Archives and inserting it in Noise's television.
+Appearance
+Hijack appears as a red-like static humanoid entity with Ransom 's facial expression flashing multiple times in the entity's face.
+Sometimes, when Hijack stops in place for a few seconds, a red octagonal stop sign suddenly appears inside the entity's torso.
+Behavior
+To activate this entity, you have to make your way to Room S-050 in The Archives , where you can find a laptop with Ransom inside. Interacting with the laptop, you will then have to click on the "S" logo on the bottom left side of the screen and press "Eject". Doing so will reveal a disk labelled " CD-1 ".
+After grabbing the said disk, you'll have to make your way to The Stairwell and find Noise's television to inject the disk into it. Noise will immediately retract back to its television and the television will display a video before it gets hijacked by Ransom and summoning Hijack .
+Unlike Noise , Hijack is much faster and won't stop moving when the player stands still, instead, will randomly stop moving for short intervals, lasting a random amount of time. After each interval, it may change its running speed.
+Upon successfully destroying the initial Hijack , Ransom has a chance to attack during every Noise encounter. If it catches the player moving, instead of forcing them to pay a ransom, it will infect Noise and will turn it into Hijack once again.
+Notes
+Similarily to Noise , all active Hijacks will immediately despawn if any player dies to one of them.
+If multiple Noises are present (Happens when you skip a landing without destroying Noise after destroying the first Hijack ) , if Ransom catches the player moving, all active Noises will turn into Hijack .
+Strategy
+It is always reccomended to bring Items that inflicts speed boosts on yourself when Hijack is active.
+If you are going to activate Hijack , make sure to have one of your allies leading Noise far from its television. This allows you and your allies to quickly search for the fire alarm and beat Hijack quickly.
+Trivia
+Hijack is the first entity created by the player, not by the three architects.
+(probably) Hijack and Noise don't have a physical form because in their jumpscares it's possible to see the player trying to grab them, but their hand just passes through them.
+Related achievements
+Rage Room
+That worked? Succesfully disable Noise. (Noise)
+REDACTED
+REDACTED Watch, and create a new entity.
+Gallery
+In-game Assets & Animations In-game Hijack crawling out of a TV." loading="lazy" decoding="async"> Hijack crawling out of a TV. Hijack paused in place." loading="lazy" decoding="async"> Hijack paused in place. Ditto. Ditto, but with black static. It is unknown if this is intended or a bug. Noise into Hijack ." loading="lazy" decoding="async"> Ransom attacking and turning every active instance of Noise into Hijack . Hijack chasing a player in a vent." loading="lazy" decoding="async"> Hijack chasing a player in a vent. Hijack crawling out of a vent." loading="lazy" decoding="async"> Hijack crawling out of a vent. Ditto, but animated. Hijack's jumpscare." loading="lazy" decoding="async"> Hijack's jumpscare. Hijack fizzling out after its TV is destroyed." loading="lazy" decoding="async"> Hijack fizzling out after its TV is destroyed. Assets & Animations Hijack's model." loading="lazy" decoding="async"> Hijack's model. Spawn animation. Walking animation. Crawl Start. Crawl Loop. Crawl End. Jumpscare animation. Static Texture. Hijack's head." loading="lazy" decoding="async"> Ransom's shout face. Occasionally flickers on Hijack's head. Ditto, but the source version. Hijack's pause icon." loading="lazy" decoding="async"> Hijack's pause icon. Stem
+Stem
+Render Golden Item Render
+Golden
+Item
+INFORMATION
+Floors
+The Stairwell
+Damage
+5 (per hit)
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Communicate #1 Communicate #2 Communicate #3 Communicate #4 Communicate #5 Communicate #6 Communicate #7 Communicate #8 Communicate #9 Communicate #10 Communicate Golden Communicate Mouth #1 Communicate Mouth #2 Communicate Mouth #3 Communicate Mouth #4 Communicate Mouth #5 Communicate Nose #1 Communicate Nose #2 Communicate Nose #3 Communicate Nose #4 Hurt #1 Hurt #2 Hurt #3 Hurt #4 Hurt #5 Impact #1 Impact #2 Impact #3 Impact #4 Jump #1 Jump #2 Jump #3 Jump #4 Moving Loop Pop #1 Pop #2 Pop #3 Pop #4 Pop Golden #1 Pop Golden #2
+"Get away from me!" - Badge description
+Stem is one of the common recurring entities in The Stairwell , having a chance to appear when opening a container.
+Appearance
+Stem (s) appears as clay-like entities with bumps on them and are shaped as a sphere with the following colors: Orange, Green, Blue, and rarely Gold, some of them having parts of the human body, like eyes, noses, ears, mouths, or none at all.
+Behavior
+When opening one of the containers (Also known as Cubbies for the Stems) around The Depot room, 1-4 Stems will have a chance to spawn inside of that opened container. They will roll to make their way towards the nearest player, ramming them with their body or attempting to bite them (If they have mouths) , dealing 5 Health per hit.
+You can destroy Stem (s) by interacting with them and dropping/throwing them four times.
+If enough stems cluster up, they can group into different Stem Structures , each stem serving as a body part. These include Rotators , Eye Towers , Stem People , and Stem Faces . These names are unofficial.
+Stem Structures are docile and won't harm the player at all, unless you bother them by grabbing one of them.
+Stem (s) can be incinerated by the Fire Sprinkler , turning them into Ceramic Stem , allowing you grind them into 1, but you can earn more from grinding ceramic structures of Stem .
+There is a chance you may find a Golden Stem when opening containers, these variants of Stem can give you 250 when blown-out.
+Golden stems cannot be baked.
+Related achievements
+Bubble Popping
+Get away from me! Pop a Stem by throwing it.
+Clay World
+It was a little overdone anyway. Scrap a Ceramic Stem.
+Friend Ball
+I... I don't really want this. Give the hooded figure in The Stairwell a pet.
+Gallery
+Stem (s) ingame." loading="lazy" decoding="async"> Stem (s) ingame. Stem's journal page." loading="lazy" decoding="async"> Stem's journal page. Ditto, but just the illustration. A Ceramic Stem being scrapped. Golden Stem that gives the player coins when killed." loading="lazy" decoding="async"> A Golden Stem that gives the player coins when killed. Stem Face structure." loading="lazy" decoding="async"> A Stem Face structure. Ditto, viewed from the front. "Ditto Ditto", baked after a fire alarm was pulled. Eye Tower structures." loading="lazy" decoding="async"> Four Eye Tower structures. Stem Man structure." loading="lazy" decoding="async"> A Stem Man structure. Ditto, baked after a fire alarm was pulled. The player holding a baked structure. Rotator structure, introduced in the Stairwell bugfix (10/4/2026)." loading="lazy" decoding="async"> A Rotator structure, introduced in the Stairwell bugfix (10/4/2026). Ditto, baked after a fire alarm was pulled. Stem as Cobbler's pet." loading="lazy" decoding="async"> Stem as Cobbler's pet. Ditto. Every Stem variant. Cobbler Cobbler Silhouette Cobbler
+Cobbler
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Say #1 Say #1 (Live) Say #2 Say #3 Say #4
+"COBBLER NAME. SALUTATION!" - Cobbler, to player after interacting for the first time (decoded)
+Cobbler is an entity in The Stairwell . It can be seen as an sillhouette throughout The Stairwells and can be found in Landing 99.
+Appearance
+Cobbler appears to be a dark translucent, hooded entity with a cryptic symbol on its face, which translates to the letter 'I' in the entity's alphabet (Cobblish). The entity also has bandages wrapped around it's limbs, a flute on its left hip and wearing socks.
+Behavior
+Cobbler is a passive entity, sitting at the end of The Stairwells (Landing 99) , it will point directly to the fire alarm once the player reaches at Landing 99 until the player pulls it, which allows you to interact with the entity. Upon interacting with it, it starts to speak with you in it's own language, but if you have any scrap in your inventory, you can trade 1 with Cobbler for 10.
+If you head over the shelf (Aka Cobbler's Shop) , and purchase the Scanner , Cobbler will instantly teleport once you purchase the item and will give you 2 modules to insert into it, here is a list of them below:
+Flashlight Module: Acts as a Flashlight whenever it is toggled
+Threat Detector Module: Will detect any entity, including friendly ones, through the Scanner's FOV when inserted
+Translator Module: Translates the speech of the Cobbler when interacting with them
+Notes
+In the room/landing where Cobbler spawns (last landing before exit to the mines) there is a shelf. The shelf stores the Starlight Barrel ( 750), Peach Cobbler ( 250), and the Radar ( 500).
+This landing was also connected to The Archives , but it has been broken by the Vacuum .
+Dialogues
+Below is a list of Cobbler's dialogues ingame.
+COBBLER NAME. SALUTATION!
+WALKER. YES, WALKER. FINALLY. US SPEAK.
+WALKER! BRING SPECIE?
+(specie means gold - dolphinator)
+NO FEAR, COBBLER FRIEND. MOSTLY FRIEND. JOKE! HOO HOO HOO.
+HUH. THE WALKER ARRIVES.
+SALUTATION! WIPE FEET. COBBLER KEEP CLEAN HOME.
+VALEDICTION! COBBLER SEE SOON.
+GO NOW. STAIRCASE WAIT NO ONE.
+COBBLER'S HOME DEAD END. WALKER GO BACK DOWN STAIRS IF LEAVE. VALEDICTION.
+WALKER GO? COME BACK? MORE TALK?
+TELEVISION CREATURE ANNOY COBBLER. LUCKY, COBBLER LIKE SMASH THINGS.
+STONE MAN MUST HAVE SMELL WALKER. BROKE OUT CAGE. COBBLER SCARED OF STONE MAN. AVOID!
+COBBLER LIKE CLAY FACES. MIGHT KEEP JUST ONE AS PET. TOO MANY COULD BE BAD.
+COBBLER DO NOT KNOW OF GOBLIN THE WALKER SPEAKS OF. SOUND STINGY CHARACTER. ONLY ENOUGH SPECIE FOR ONE OF US.
+YELLOW LIGHT? COBBLER ONLY KNOW OF SHINY WATER. WHAT ELSE THERE IS TO KNOW?
+WHAT OF COBBLERS INSTRUMENT? COBBLER PLAY FOR MANY TIME. KEEPS SANITY!
+SIP FROM PIPE. COBBLER TASTING, HOW PUT, YELLOW? WALKER CAN TRY, BUT MAKE SURE CORRECT PIPE.
+BACK UP, WALKER. COBBLER MIGHT ATTACK. JOKE! HOO HOO HOO.
+WHY FOLLOW? GOOD QUESTION. COBBLER CHARGE SPECIE FOR ANSWER.
+COBBLER LEAVE STAIRCASE? WHAT MEAN EXIT DOOR OVER THERE? NO DOOR, NEVER BEEN DOOR. WALKER SEE THINGS.
+FINDER IS KEEPER, WALKER.
+THE STAIRCASE GO UP LONG, LONG WAYS. COBBLER COUNTED ONCE. LOST COUNT. BORING, GAVE UP.
+COBBLERS COBBLINGS MAY AID WALKER. COBBLER TAKE MEASUREMENT. COME BACK LATER, MIGHT HAVE STOCK.
+NO TOUCHING.
+SELL TO DEPOTS. DEPOTS PAY MANY SPECIE. FAIR BY COBBLER STANDARDS.
+COBBLER CAN TELL WALKER WANT WARES. COBBLER HAVE NONE... YET! BRING MANY SALVAGE, FUND SHOP. EASY BUSINESS.
+TRUST IS EXPENSIVE, WALKER. LUCKY, COBBLER TRUST.
+COBBLER NEED SOMETHING NEW. KEEP SEARCHING, WALKER. THERE, ALMOST!
+SPECIE IN WALKERS POCKET? COBBLER HEAR JINGLE THREE FLOORS DOWN. COBBLER GOOD EARS.
+MIND THE STAIRCASE, WALKER. DEAD COLLECT NOTHING.
+WALKER REFLEXES IMPRESS COBBLER.
+COBBLER FOLLOWED. EVERY LANDING. EVERY DOOR. WALKERS EYES BAD.
+EVERYTHING NEGOTIABLE. EXCEPT THE FOLLOWING. COBBLER CANNOT STOP FOLLOWING. OLD HABIT.
+MIND NOT SHELF IN CORNER. COBBLER SHOP OPEN SOON, WORKING ON IT. PATIENCE!
+TELL COBBLER ABOUT THE PLACE OUT OF STAIRCASE. QUESTION! DO MORE WORLD EXIST OUT OF THIS PLACE? DOES WALKER KNOW?
+COBBLER HOPE NUMBER CARVING GIVE AID. MANY TOOL BROKEN IN HOPE OF NEW FRIEND.
+My Journal
+COBBLER
+COBBLER has a shelf in the corner of its room. Which contains a few items that I can buy. No idea where it got these things
+Trivia
+It is implied that Cobbler is the one who fills the Vials of Starlight, Bottles of Starlight, and Jugs of Starlight.
+Related achievements
+Hello Walker
+Oh. It's you. Meet the strange, hooded creature in The Stairwell.
+Storage Wars
+A thousand is the best I can do. Bargain 3000+ Gold from the hooded figure in The Stairwell.
+Paperclip Challenge
+Think I can buy a house with this? Trade with the hooded figure in The Stairwell.
+Super-Size Me
+Yeah. Iâll take a large. Obtain a Jug of Starlight.
+Friend Ball
+I... I don't really want this. Give the hooded figure in The Stairwell a pet.
+Gallery
+Cobbler sitting on the ground." loading="lazy" decoding="async"> Cobbler sitting on the ground. Cobbler holding what appears to be a ." loading="lazy" decoding="async"> Cobbler holding what appears to be a Starlight Jug . Cobbler holding out two scanner modules." loading="lazy" decoding="async"> Cobbler holding out two scanner modules. Ditto. Cobbler's journal illustration." loading="lazy" decoding="async"> Cobbler's journal illustration. Stem as Cobbler's pet." loading="lazy" decoding="async"> Stem as Cobbler's pet. Ditto. Mirrored / Stalker Cobbler Silhouette
+Cobbler Silhouette
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+"EYES IS DARK, MOST ARE COBBLER, MOST" - Cobbler(decoded)
+Cobbler's Silhouette (Or Mirrored Cobbler) is the alternative of Cobbler , randomly appearing somewhere in Depot Rooms, Staircases or behind the player.
+Appearance
+Cobbler Silhouette appears as a smaller, pitch black floating version of the real deal, except for the fact that it doesn't has bandages wrapped around it's limbs, the hood is completely gone, and the symbol on its face has been mirrored, and it resembles The Drones a little.
+Behavior
+The entity can suddenly appear, and it's rare. Once it appears, it will float like a ghost and will throw glowsticks around the map, push Shopping Carts near players and roll empty cans of Gween Soda . Sometimes the entity might rapidly charge right into you or other players in your match, disappearing right after. If you stare at the entity, it will also vanish.
+Notes
+The entity doesn't harms you at all when it interacts with you.
+This is a very useful entity, if you don't have any items that emits light, this entity can throw a glowstick to illuminate the place.
+Trivia
+Cobbler and Cobbler's Silhouette are the same person.
+This entity vanishes when the Fire Sprinklers activate.
+This entity can appear on the staircases like other entities.
+The other entities being Creak, Noise and Stem(s), but the last two must be brought there.
+Cobbler's Silhouette can be seen at the end when you redo the stairwell in the room at the corner.
+Gallery
+Sprite Sheet. Cobbler Silhouette near a Meld door." loading="lazy" decoding="async"> Cobbler Silhouette near a Meld door. Cobbler Silhouette outside of the Depot Room (With Admin Panel)." loading="lazy" decoding="async"> Cobbler Silhouette outside of the Depot Room (With Admin Panel). Ditto, but closer. Cobbler Silhouette watching a dead player in the staircase (Before ACCESS GRANTED Update)." loading="lazy" decoding="async"> Cobbler Silhouette watching a dead player in the staircase (Before ACCESS GRANTED Update).
+Non-exclusive Entities
+Curious Light (Starlight) - A death messenger to the player after they die to any entity.
+World Lotus - Appears in a special room if players are revived with a Lotus . [ 3 ]
+Ransom /Hijack - Will only appear when inserting the Disc from The Archives in Noise's television. After that, Ransom will passively appear alongside Noise in a special Depot Room with red lights, hijacking Noise again if it detects you moving. Upon triggering the Fire Alarm, both Ransom and Noise will be destroyed.
+Portrait - Appears if a player brings Portrait from The Archives into The Stairwell , or shatters a pocket mirror .
+Glitch - Acts as a failsafe and attacks players that are lagging too far back from the rest of the team when in multiplayer. However, Creak will usually kill you before you get Glitch.
+Charles - Can be brought to The Stairwell via rifting, taking and leading it to The Stairwell , or escaping The Stairwell , trading a module with Louie to receive the Egg Driver & inserting it into your Scanner and finding a Sub Room that has another manhole.
+Vacuum - Can be found near broken stairs, though it is completely harmless.
+Hazards
+Fire Sprinklers Crusher Fire Sprinklers
+Fire Sprinkler
+INFORMATION
+Type
+Hazard
+Behavior
+Inflicts Players outside the Fire Escape with Burning until they are dead.
+Floors
+The Stairwell
+Damage
+10 per tick (28 ticks total) 280 total damage
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Fire Alarm (Source) Fire Alarm Fire Alarm Doors Fire Alarm Pull Fire Alarm System Fire Sprinkler
+"I'm sure you're familiar with fire escapes. That's how they work, right?" - Starlight
+The Fire Sprinkler is the major Hazard in The Stairwell , they can be seen on the roofs of Depot Rooms.
+Appearance
+The Fire Sprinklers appears as silver, cylindrical shaped sprinklers built into the roof of The Stairwell . They are basically everywhere in the Depot Room and will burn down both the Staircase Modules and the Depot Rooms with fire.
+Behavior
+These Fire Sprinklers are activated when triggering the Fire Alarm inside of one Fire Station around the Depot Room. Once the alarm is triggered, a siren will begin blaring, giving a warning to all players that the Fire Sprinklers will incinerate the entirety of the Depot Room. After 12 seconds, the blast doors of the Fire Escapes will close down to protect everything inside of them, and the Fire Sprinklers will be activated, inflicting a long burning effect to players outside the Fire Escapes, temporarily stunning Creak, destroying all televisions, and incinerating Meld.
+Large Items (Also known as "Depot Items") that are outside of the Fire Escapes will visibly burn and turn into piles of ash.
+Notes
+You are able to survive the Fire Sprinkler with the help of 1 Starlight Bottle and a full pack of bandages .
+This was seen in one of the shorts made by the Youtuber called Rizado . Here is the video .
+Trivia
+Cobbler's Silhouette somewhat how doesn't get burned, and will instead vanish.
+Stem (s) are different, they don't disappear or burn when the Fire Sprinklers activate, meaning that they are immortal to them.
+However, Stems are rather made of clay, so when they're burned, they turn into statues. Stem Statues can actually be grinded up too.
+It is confirmed that the only way to survive the Fire Sprinklers is entering a Fire Escape before they close, since the Fire Sprinklers can still affect you even outside the Depot Room. It is possible but not recommended to tank through the damage using healing items like Bandage Packs.
+Gallery
+Fire Sprinklers seen in-game." loading="lazy" decoding="async"> Fire Sprinklers seen in-game. Fire Sprinklers ." loading="lazy" decoding="async"> A player hiding from the fire spread by the Fire Sprinklers . Crusher
+Crusher
+INFORMATION
+Type
+Hazard
+Floors
+The Stairwell
+Damage
+Instant Death
+ADDITIONAL INFORMATION
+Date Added
+October 2, 2026
+SOUND FILES
+Sounds Bass Crack Slam Wind Steam Wall Break
+"Those giant walls with spikes on them move sometimes." - Starlight
+The Crusher is a common Hazard in The Stairwell , they can be emerge from the walls of Depot Rooms.
+Appearance
+The Crusher Appears as a wall, but with multiple sharp spikes on the front of it.
+Behavior
+Occasionally, a wall would shake and play an audio cue. After a few moments, the Crusher would break and burst through the wall, shattering and launching debris out. The Crusher then would repeatedly, after a short amount of time, play an audio cue similar to a machine's whirring, and pistons behind the Crusher would push it forward into the opposite wall, crushing any player in the way.
+Notes
+Creak is able to tank the Crusher and push its spiky trap away when pursuiting the player or walking backwards.
+Crushers cannot appear in meld landings.
+Trivia
+TBA
+Gallery
+Crusher seen in game." loading="lazy" decoding="async"> A Crusher seen in game. Crusher destroying a Television Set, along with Noise." loading="lazy" decoding="async"> A Crusher destroying a Television Set, along with Noise. Crusher ." loading="lazy" decoding="async"> Side view of a Crusher .
+Interactables
+Terminal Television Set Shopping Cart Depot Scrapper Garage Door Terminal
+Terminal
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+Overview
+Terminals are interactables that are used to open landing gates to progress further through The Stairwell. The terminalsâ screens display the time passed since the last login, which was 98,403 days, 11 hours, 40 minutes, and 2 seconds ago. Meaning that someone, or something, used the terminals 269 years ago. Television Set
+Television Set
+Normal Hijacked Normal
+Hijacked
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Turn On (Lobby) Timer Tick (Lobby) Turn Off (Lobby) Static #1 (Lobby) Static #2 (Normal) Cart Loop #1 (High) Cart Loop #1 (Low) Cart Hit #1 (High) Cart Hit #1 (Low) Cart Hit #2 (High) Cart Hit #2 (Low) Cart Hit #3 (High) Cart Hit #3 (Low) Doom Destroyed CD Insert Tape Watching #1 Tape Watching #2
+Overview
+Television Sets are interactables which hold the TVs that both Noise and Hijack emerge from.
+Gallery
+Television Set seen in teaser." loading="lazy" decoding="async"> A Television Set seen in The Archives teaser. Television Set that was used in the lobby for the countdown to release. This is no longer in-game." loading="lazy" decoding="async"> The Television Set that was used in the lobby for the countdown to The Archives release. This is no longer in-game. Ditto, but cropped. Television Set that could be seen in the lobby during update." loading="lazy" decoding="async"> A knocked over Television Set that could be seen in the lobby during The Archives update. Ditto, but without a background. Television Set ." loading="lazy" decoding="async"> A Television Set . Ditto, but seen inside a small room only accessible through a vent. Television Set falling over, causing the TV to shatter." loading="lazy" decoding="async"> A Television Set falling over, causing the TV to shatter. Television Sets in the same landing via the Admin Panel." loading="lazy" decoding="async"> Two Television Sets in the same landing via the Admin Panel. Ditto, but inside a fire escape. Television Set inside Cobbler's shop via the Admin Panel." loading="lazy" decoding="async"> A Television Set inside Cobbler's shop via the Admin Panel. Television Set displaying yellow static due to the player drinking a ." loading="lazy" decoding="async"> A Television Set displaying yellow static due to the player drinking a Starlight Jug . Red static coming from the TV right at the end of the tape. Ditto, but the version that appears after Hijack spawns. Static Texture (Source). Static Texture.
+Trivia
+The Television Set is labelled as 'TV Stand' in the game's files.
+A Television Set was also present in both the countdown lobby to The Archives and the countdown lobby to the Access Granted Update . However, the lobby has been updated since then, and no longer contains one. Shopping Cart
+Shopping Cart
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+August 28, 2026
+SOUND FILES
+Sounds Loop Hit #1 Hit #2 Hit #3 Destroyed
+Overview
+Shopping Carts are interactables that can be found in landing mazes. They are used to carry the large items that can be found all around maze landings. They are very useful, as using them is less tedious than carrying each large item one at a time.
+Notes
+Shopping Carts can be destroyed if in front of an active Crusher.
+Gallery
+Shopping Cart that was destroyed by a Crusher." loading="lazy" decoding="async"> A Shopping Cart that was destroyed by a Crusher. Depot Scrapper Current Depot Salvage Chute (Removed) Current
+Depot Scrapper
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+October 2, 2026
+SOUND FILES
+Sounds Active Loop Begin Idle Loop Metal Star Wood
+Overview
+Depot Scrappers are interactables that can be found inside maze landings. One will always spawn near the landing's entrance door, but they can spawn throughout the whole landing maze. Using them to grind items will grant a player scraps. The amount of scraps received will vary depending on the item a player chooses to grind. If a player grinds a Starlight Vial , Starlight Bottle , or a Starlight Jug , they will recieve Stardust from a Depot Scrapper.
+Gallery
+Depot Scrapper after grinding a in it." loading="lazy" decoding="async"> A player receiving Stardust from a Depot Scrapper after grinding a Starlight Vial in it. Depot Scrapper ." loading="lazy" decoding="async"> A player grinding a Starlight Jug in a Depot Scrapper . Depot Salvage Chute (Removed)
+Depot Salvage Chute
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+September 28, 2026 - October 2, 2026
+Overview
+Depot Salvage Chutes were interactables that could be found near the entrance door to a maze landing. Giving it items would grant the player 25 gold per item. However, this interactable is no longer in-game, as it has been replaced with the Depot Scrapper. Garage Door
+Garage Door
+INFORMATION
+Floors
+The Stairwell
+ADDITIONAL INFORMATION
+Date Added
+October 2, 2026
+SOUND FILES
+Sounds Unlocked Opened
+Overview
+Garage Doors can spawn in maze landings. They can be opened using a garage key, which has a chance to spawn in the various cubbies found around the landing. When unlocking a Garage Door , it may contain large items inside, which can be ground for scrap in a Depot Scrapper. However, there is also a rare chance that a lot of Stems can spawn inside instead.
+Room Mechanics
+Fire Alarm
+Interacting with a Fire Alarm will cause the entire landing to set off alarms. All "Fire Escape" rooms will close within fifteen seconds. After blast doors are secured, the landing will incinerate any Meld within the level. After this, you can use the Emergency Override feature on the terminal next to the gate. To survive incineration, players must locate and stay in a Fire Escape room until the process is complete. It is guaranteed for a Fire Alarm to spawn in a room containing meld.
+Depot
+You can pick up trash lying around the floor and drop them off at a Depot for Scraps. You will get the Paperclip Challenge badge for using a Depot for the first time. Each disposable item dropped off rewards 1-5 scrap. If you scrap a Ceramic Stem , it will reward you 1 scrap for every stem. If you incinerate an Eye Tower , Stem Person , or a Stem Face , they will give you specific amounts of scrap, respectively.
+Items
+These items appear in The Stairwells, being in containers only. Some can be converted into scrap when placed on a Depot.
+Examples of Items:
+Paper Airplane (x1) ( 0-1 )
+Flare (x1) ( 1 )
+Battery
+Bandage
+Module
+Garage Key ( 1 )
+Cobbler's Shop
+These items are guaranteed to appear in Cobbler's shelf. They also give you scrap for grinding them in any Depot, except for the Jug of Starlight.
+Here is a list of the Items below:
+Peach Cobbler ( 1 )
+Scanner ( 2 )
+Jug of Starlight ( 1 )
+Large Items
+These items require both hands to carry, and you cannot switch to any other item in your hotbar without dropping the item. By holding a large item then picking up a stem you can have the large item appear as a normal item in your hotbar but reequipping it makes it heavy. Heavy items can also be rifted and put into suitcases.
+Examples of Large Items and the amount of scraps they give:
+Gasoline canister, ( 2 )
+Broken computer ( 4 )
+Large screw ( 2 )
+Broken lamp ( 3 )
+Pack of gween soda ( 2 )
+Crate of glass bottles ( 3 )
+Damaged Hat ( 5 )
+Ceramic Stem (x1) ( 1 )
+Rotators ( 10 )
+Eye Towers ( 10 )
+Stem People ( 20-30 )
+Stem Faces ( 20 )
+You can convert these large items into scrap via Depots, which can be use to trade with Cobbler in Landing 99. Using the Shopping Cart will allow you to carry limited amount of large items. They can be found in Staircase Modules, Containers, inside of Garages or on the floor of Depot Rooms.
+Tips
+If you rely heavily on lighting sources, try bringing a Battery Pack with some spare batteries to recharge them.
+It is strongly recommended to bring a long-range light source; the Flashlight , Bulklight , Straplight , and Shakelight are the most suitable options.
+The Shakelight is especially useful, since it does not need batteries.
+You can use a shopping cart to transport the scrap you've found to the depot more efficiently. However, the lack of movement while carrying it can leave you exposed to Noise andâif you don't keep a close watch on your surroundingsâto Creak .
+You can also store items inside of the shopping cart, leaving you more space on your hotbar.
+You can also carry scraps using the briefcase, allowing you transport scraps to a shopping cart more efficiently.
+If you're having trouble with Stem , carry a Bandage Pack with a large supply of bandages, although it will be useless against Creak , and Noise , since they can kill you instantly.
+Some Meld movable walls react to the cords; for example, interacting with a cord might cause one wall to open while another closes, or vice versa. Therefore, be patient while waiting for a wall to open, or look for alternative routes. Remember; Noise and Creak can go through Meld walls whenever they like.
+You can force open Meld using Flare , Lighter or Lantern , as they are weak to fire.
+Achievements
+Fried Mushrooms
+Smells pretty good, actually. Use a Fire Alarm to incinerate Meld.
+Going Up
+Better than using the stepmill. Escape the Stairwell.
+Bubble Popping
+Get away from me! Pop a Stem by throwing it.
+Going Down
+I don't think I'm supposed to see this... Enter The Stairwell.
+Paparazzi
+I didn't realize someone was watching me. Scare off a large spectator. (Creak)
+Storage Wars
+A thousand is the best I can do. Bargain 3000+ Gold from the hooded figure in The Stairwell.
+Paperclip Challenge
+Think I can buy a house with this? Trade with the hooded figure in The Stairwell.
+REDACTED
+REDACTED Watch, and create a new entity
+Hello Walker
+Oh. It's you. Meet the strange, hooded creature in The Stairwell.
+Rage Room
+That worked? Succesfully disable Noise. (Noise)
+Grindset
+So weâre gonna go and do at least ten thousand. Grind Salvage into Scrap
+Garage Sale
+No refunds. Open a garage with a Garage Key.
+Clay World
+It was a little overdone anyway. Scrap a Ceramic Stem.
+Conga Line
+Hey! Chachachaâ¦ Hey! Be followed by 3 instances of Noise at once.
+Super-Size Me
+Yeah. Iâll take a large. Obtain a Jug of Starlight.
+Plug & Play
+Have you tried turning it off and on again? Install any module into your Scanner.
+Flash Point
+That was fire. Successfully light a Flare in under a second.
+Stair Master
+Leg Day never endsâ¦ Loop The Stairwell.
+Emancipation Customization
+Four doors and seven knobs ago... Place a peculiar hat on a distinguished invididual
+Second Wind
+Down but not out. Survive damage that would normally be lethal to you.
+Friend Ball
+I... I don't really want this. Give the hooded figure in The Stairwell a pet.
+Guaranteed Rooms
+Locations
+Staircase Modules
+Landings: 1-98
+The Staircase Modules are set of stairs made of concrete, with descending and ascending paths.
+Regular landing compared to a different staircase. Sometimes the Staircases may change their color due to the Depot Room being different.
+Special Locations
+Cobbler's Shop
+Landing: 99
+Cobbler's shop seen from inside. TBA
+Bugs
+Holding a stem allows you to grab other junk or stems to keep in your inventory
+When you hold the large item again, it will properly register as intended and take up your hands.
+This same logic applies when picking up large items during the minigame to start a flare, allowing for easy and consistent junk transportation without a shopping cart.
+Soundtracks
+In-Game Soundtrack
+No.
+Title
+Plays At
+Length
+BPM
+Key
+Track
+1.
+"Trailer Ambience" (conjecture)
+Plays occasionally throughout The Stairwell.
+0:40 (Ambience #1)
+0:27 (Ambience #2)
+0:27 (Ambience #3)
+0:30 (Ambience #4)
+Ambience #1
+Ambience #2
+Ambience #3
+Ambience #4
+2.
+"Flute Ambience" (conjecture)
+Plays occasionally throughout The Stairwell.
+1:03 (Source)
+2:09 (In-Game)
+82 BPM (Source)
+78 BPM (In-Game)
+B minor (Source)
+C minor (In-Game)
+Source
+In-Game
+3.
+"Stairwell Strums" (conjecture)
+Plays occasionally throughout The Stairwell.
+0:23 (Curious Sound)
+0:19 (Ambience Strum #1)
+0:15 (Ambience Strum #2)
+78 BPM (Curious Sound)
+85 BPM (Ambience Strum #1)
+127 BPM (Ambience Strum #2)
+Bâ­ major (Curious Sound)
+A minor (Ambience Strum #1 & Ambience Strum #2)
+Curious Sound
+Strum #1
+Strum #2
+4.
+"Meld" (conjecture)
+Plays when near Meld.
+0:25 (sighting)
+0:43 (tension loop)
+0:43 (anger loop)
+TBA
+TBA
+In-Game Soundtrack
+Sighting
+Tension Loop
+Anger Loop
+5.
+"Unrecoverable"
+Plays when Hijack emerges from the television.
+2:20 (Official Soundtrack)
+0:17 (Intro #1)
+0:05 (Intro #2)
+1:59 (Loop)
+0:07 (Outro)
+99 BPM (official soundtrack)
+96 BPM (in-game)
+D major
+Official Soundtrack
+In-Game Soundtrack
+Rewind Intro
+Enraged Intro
+Loop
+Outro
+6.
+"Fire Alarm" (conjecture)
+Plays when activating the fire alarm.
+0:42
+93 BPM
+D minor
+In-Game Soundtrack
+7.
+"Gate Opened" (conjecture)
+Plays when overriding a gate using a Terminal.
+0:33
+134 BPM
+D minor
+In-Game Soundtrack
+8.
+"Cobbler's Shop" (conjecture)
+Plays when reaching Cobbler.
+0:41
+134 BPM
+D minor
+In-Game Soundtrack
+9.
+"Starlight Ambience" (conjecture)
+Plays in the final landing at the wooden double door and near the 'Loop The Stairwell' entrance.
+0:48
+148 BPM
+D#/Eâ­ Major
+Ambience Loop
+This audio file is hosted under a free license. It is made available under the Creative Commons Attribution-ShareAlike 4.0 license, the same terms as the source wiki. All audio remains the property of its original creators and the game's developers.
+Gallery
+In-Game Assets/Decorations In-Game The Stairwell's entrance." loading="lazy" decoding="async"> The Stairwell's entrance. Ditto, but found in a sideroom. The Stairwell in the ." loading="lazy" decoding="async"> The room name for The Stairwell in the Admin panel . The Stairwell ." loading="lazy" decoding="async"> Modifiers blocking the entrance to The Stairwell . The Stairwell's entrance." loading="lazy" decoding="async"> Some Giggle eggs or baby Giggles in The Stairwell's entrance. Ditto. Ditto, but a growing Grumble instead. Someone phasing through the door in a landing. This is a glitch that occurs with high ping. Ditto, but in a gif. The room for rebirthing with a Lotus . The Stairwell ." loading="lazy" decoding="async"> A save file going to The Stairwell . Golden chalk tally marks. Assets/Decorations Tally Mark #1. Tally Mark #2. Tally Mark #3. Tally Mark #4. Tally Mark #5. Chalk Tally Marks. The Archives logo. It can be seen on the screen of landing Terminals. Ditto, but its in-game color. Exit Sign. Chunk Map Board. Conference Table. Office Chair. Cubby Small #1. Cubby Small #2. Cubby Medium #1. Cubby Medium #2. Cubby Tall #2. Cubby Large #1. Cubby Large #2.
+Trivia
+The Stairwell used to have ~200 landings, but this was changed to ~100 on the 5th of October, 2026. This was likely to reduce the amount of time spent walking between terminals.
+The amount of rooms in between each terminal was decreased because of this.
+The way you activate Hijack is similar to Spamton NEO from Deltarune ,taking one character ,putting them onto a disc, and putting them into a device,altering them.
+Stem Constructions have collisions with things able to be pushed. This includes Chairs, Trolleys, ect.
+It also includes Noise's TV Stand, allowing for a very unique way of destroying it.
+This can be achieved by pushing it over a Rotator Stem Construction.
+References
+â "the archives should be considerated as a floor and not a sub-floor next update - Splash on Discord
+â https://www.youtube.com/watch?v=Ol_oCZggxqs - How Creak's aggression meter works.
+â https://x.com/LightningSplash/status/1996141949536100630
+Related pages Floors Floors are levels within Limbo that players progress the story through, serving as the 'chapters' for the game. These floors may contain different items andâ¦ The Mines The Mines is the second main floor in DOORS. It can be accessed by creating or joining an elevator in the Lobby, or after escaping The Hotel or The Outdoorsâ¦ List of Entities Entities are the main roadblocks in DOORS. Many of them attempt to kill players, Ð°nd they must be faced in order to advance. They all differ in mechanics andâ¦ Skeleton Key The Skeleton Key is a rare key that can be used to open any locked door and to unlock special Skull Locks. This item can be bought for 300 at Jeff Shop, andâ¦ The Archives The Archives is an office-themed subfloor that acts as a faithful reimagining and replacement to The Rooms. Its environments feature a more refinedâ¦ The Hotel The Hotel is the first main floor in DOORS. It can be accessed by using one of the elevators in the Lobby, creating or joining an elevator for The Hotel, orâ¦ DOORS Sitemap About Privacy Policy Terms of Service Cookies Cookie settings
+Content is adapted from DOORS , the original source of this information, and is
+made available under the CC BY-SA 4.0 license. Original authors retain their rights;
+this archive reuses the material in accordance with that license.
+DOORS is an unofficial, fan-made wiki and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or the creators of DOORS. All trademarks and copyrights are the property of their
+respective owners. Â© 2026 DOORS.
+Your privacy choices
+DOORS uses cookies and similar technologies. Some are essential for the site to work; others are only set with your permission.
+Essential. One preference ( wc_consent ) is stored in your browser so we remember your choice. It identifies nobody and is never sent to a server.
+Analytics. With your consent, Google Analytics helps us understand which pages are useful (pages visited, approximate region, device type). Data is aggregated; we never see who you are.
+Advertising. With your consent, our advertising partner Adsterra and the advertisers it works with may set cookies to show and measure ads.
+Until you decide, Google Consent Mode keeps every analytics and advertising storage type denied , and no tracking script is loaded. You can change your mind later with Cookie settings in the footer. Read the full cookie policy for details.
+Accept all
+Essential only
+
